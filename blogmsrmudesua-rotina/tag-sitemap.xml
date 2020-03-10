@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/marketing-digital/</loc>
-        <lastmod>2020-03-06T11:55:34.527Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/afiliados/</loc>
         <lastmod>2020-03-06T11:55:34.527Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,13 +60,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/marketing-de-afiliados/</loc>
-        <lastmod>2020-03-07T09:47:10.331Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/marketing/</loc>
         <lastmod>2020-03-07T09:47:10.331Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -101,6 +87,20 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-03-08T15:36:56.773Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-03-08T15:36:56.773Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/msr-funciona/</loc>
         <lastmod>2020-03-08T15:36:56.773Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,15 +122,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-03-08T15:36:56.773Z</lastmod>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/marketing-digital/</loc>
+        <lastmod>2020-03-10T19:48:04.476Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-compensa/</loc>
-        <lastmod>2020-03-08T15:36:56.773Z</lastmod>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-hotmart/</loc>
+        <lastmod>2020-03-10T19:48:04.476Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/marketing/</loc>
+        <lastmod>2020-03-10T19:48:04.476Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/msr-curso/</loc>
+        <lastmod>2020-03-10T19:48:04.476Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

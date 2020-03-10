@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-original/</loc>
-        <lastmod>2020-02-08T10:26:48.759Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man/</loc>
         <lastmod>2020-02-11T11:44:36.195Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-02-29T12:27:26.935Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-02-29T12:27:26.935Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,13 +123,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-03-01T12:24:00.136Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-03-01T12:24:00.136Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,14 +192,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-03-06T11:04:23.927Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libidman-caps-como-usar/</loc>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-03-06T11:04:23.927Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-03-07T09:16:57.723Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-03-07T09:16:57.723Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,6 +228,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-03-08T15:11:31.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-onde-comprar/</loc>
         <lastmod>2020-03-08T15:11:31.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +255,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-onde-comprar/</loc>
-        <lastmod>2020-03-08T15:11:31.065Z</lastmod>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-original/</loc>
+        <lastmod>2020-03-10T19:14:44.868Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-03-10T19:14:44.868Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-03-10T19:14:44.868Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-03-10T19:14:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

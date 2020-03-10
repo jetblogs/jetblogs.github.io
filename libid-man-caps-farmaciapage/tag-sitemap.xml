@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-01-29T10:19:04.672Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-01-30T13:16:02.220Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -59,22 +52,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-02-10T08:41:37.159Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-original/</loc>
         <lastmod>2020-02-11T11:40:52.795Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-02-16T18:55:17.540Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -122,27 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-02-29T12:23:16.439Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-02-29T12:23:16.439Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-03-01T12:21:36.460Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-03-01T12:21:36.460Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,6 +109,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-03-01T12:21:36.460Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-03-01T12:21:36.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -186,13 +151,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-03-05T10:27:04.819Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-03-05T10:27:04.819Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-03-08T15:09:03.325Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-03-10T19:11:59.408Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-03-10T19:11:59.408Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-03-10T19:11:59.408Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-03-10T19:11:59.408Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-03-10T19:11:59.408Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-03-10T19:11:59.408Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
