@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/carreiras/</loc>
-        <lastmod>2020-03-02T05:05:11.704Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/microblading-avancado/</loc>
         <lastmod>2020-03-02T05:05:11.704Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,13 +138,6 @@
     <url>
         <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/curso/</loc>
         <lastmod>2020-03-02T05:05:11.704Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/curso-a-distancia/</loc>
-        <lastmod>2020-03-05T08:44:26.447Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -192,7 +178,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/online/</loc>
+        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/ead/</loc>
         <lastmod>2020-03-07T06:46:40.544Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/ead/</loc>
+        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/online/</loc>
         <lastmod>2020-03-07T06:46:40.544Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,7 +255,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/certificado-internacional/</loc>
+        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/curso-ead/</loc>
         <lastmod>2020-03-10T17:11:15.164Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,8 +276,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/curso-ead/</loc>
-        <lastmod>2020-03-10T17:11:15.164Z</lastmod>
+        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/curso-a-distancia/</loc>
+        <lastmod>2020-03-11T15:32:10.493Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/carreiras/</loc>
+        <lastmod>2020-03-11T15:32:10.493Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/certificado-internacional/</loc>
+        <lastmod>2020-03-11T15:32:10.493Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-microbladingtebori-curso/tags/estetica/</loc>
+        <lastmod>2020-03-11T15:32:10.493Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

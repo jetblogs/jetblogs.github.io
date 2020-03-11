@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/empreendedorismo/</loc>
-        <lastmod>2020-01-26T09:14:00.773Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/rosto/</loc>
         <lastmod>2020-01-26T09:14:00.773Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-02-08T09:34:53.247Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/peeling-de-rose-de-mer/</loc>
         <lastmod>2020-02-08T09:34:53.247Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,6 +123,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/rose-de-mer-kit/</loc>
+        <lastmod>2020-02-08T09:34:53.247Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-02-08T09:34:53.247Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -311,13 +304,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/estetica/</loc>
-        <lastmod>2020-03-03T11:49:45.303Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/rosedemer/</loc>
         <lastmod>2020-03-03T11:49:45.303Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -332,21 +318,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/rose-de-mer-israel/</loc>
-        <lastmod>2020-03-03T11:49:45.303Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/peeling-rose-de-mer-valor/</loc>
-        <lastmod>2020-03-05T09:54:51.367Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/cuidar-da-pele/</loc>
         <lastmod>2020-03-05T09:54:51.367Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -396,13 +368,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/christina-zehavi-rose-de-mer/</loc>
-        <lastmod>2020-03-07T08:32:24.256Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/curso-online/</loc>
         <lastmod>2020-03-07T08:32:24.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -495,6 +460,41 @@
     <url>
         <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/peeling-rose-de-mer-para-melasma/</loc>
         <lastmod>2020-03-10T18:37:15.796Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/estetica/</loc>
+        <lastmod>2020-03-11T17:42:20.665Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/empreendedorismo/</loc>
+        <lastmod>2020-03-11T17:42:20.665Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/cuidar-da-pele/</loc>
+        <lastmod>2020-03-11T17:42:20.665Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/curso-online/</loc>
+        <lastmod>2020-03-11T17:42:20.665Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerebom-modulos/tags/rose-de-mer-israel/</loc>
+        <lastmod>2020-03-11T17:42:20.665Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

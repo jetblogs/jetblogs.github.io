@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man/</loc>
-        <lastmod>2020-02-29T12:23:04.959Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libidman-caps/</loc>
         <lastmod>2020-02-29T12:23:04.959Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,7 +94,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man/</loc>
         <lastmod>2020-02-29T12:23:04.959Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -129,22 +122,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-03-02T07:29:37.944Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-original/</loc>
         <lastmod>2020-03-02T07:29:37.944Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-03-03T12:22:59.423Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -185,6 +164,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-03-07T09:13:41.923Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-03-07T09:13:41.923Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -193,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-03-07T09:13:41.923Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-03-07T09:13:41.923Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,6 +199,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libidman-caps-funciona/</loc>
+        <lastmod>2020-03-08T15:08:56.969Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-preco/</loc>
         <lastmod>2020-03-08T15:08:56.969Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,14 +220,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-03-08T15:08:56.969Z</lastmod>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-03-10T19:11:52.168Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimento/</loc>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-03-10T19:11:52.168Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,22 +248,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-03-10T19:11:52.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-funciona-mesmo/</loc>
-        <lastmod>2020-03-10T19:11:52.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps/</loc>
         <lastmod>2020-03-10T19:11:52.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-03-11T18:22:23.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-03-11T18:22:23.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-03-11T18:22:23.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-03-11T18:22:23.881Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
