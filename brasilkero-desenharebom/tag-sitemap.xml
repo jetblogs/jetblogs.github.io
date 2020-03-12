@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-03-01T11:07:14.264Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-03-02T05:36:13.048Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -144,20 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/kerodesenhar/</loc>
-        <lastmod>2020-03-06T09:02:40.183Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-fazer-esboco/</loc>
-        <lastmod>2020-03-06T09:02:40.183Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/kerodesenhar-com/</loc>
         <lastmod>2020-03-06T09:02:40.183Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,6 +278,41 @@
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/draw/</loc>
         <lastmod>2020-03-11T16:13:29.649Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-03-12T07:32:55.310Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-03-12T07:32:55.310Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/aulas-online/</loc>
+        <lastmod>2020-03-12T07:32:55.310Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-03-12T07:32:55.310Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenhando/</loc>
+        <lastmod>2020-03-12T07:32:55.310Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
