@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/eduzz/</loc>
-        <lastmod>2020-03-06T11:55:50.791Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/marketing-de-afiliados/</loc>
         <lastmod>2020-03-06T11:55:50.791Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -52,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/renda-extra/</loc>
-        <lastmod>2020-03-08T15:37:13.469Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/negocios-digitais/</loc>
         <lastmod>2020-03-08T15:37:13.469Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,6 +53,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <lastmod>2020-03-08T15:37:13.469Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/renda-extra/</loc>
         <lastmod>2020-03-08T15:37:13.469Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -179,14 +172,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-03-14T10:24:58.518Z</lastmod>
+        <lastmod>2020-03-17T09:11:05.995Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/vendas-online/</loc>
-        <lastmod>2020-03-14T10:24:58.518Z</lastmod>
+        <lastmod>2020-03-17T09:11:05.995Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/curso-msr-mude-sua-rotina/</loc>
+        <lastmod>2020-03-17T09:11:05.995Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/eduzz/</loc>
+        <lastmod>2020-03-17T09:11:05.995Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

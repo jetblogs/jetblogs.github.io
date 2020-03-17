@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-02-11T11:38:07.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-02-12T09:47:16.503Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-03-08T15:07:14.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-03-08T15:07:14.137Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,8 +150,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-03-10T19:09:55.876Z</lastmod>
+        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-03-08T15:07:14.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,21 +192,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-03-12T08:55:36.782Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-03-12T08:55:36.782Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libidman-caps-preco/</loc>
         <lastmod>2020-03-12T08:55:36.782Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,7 +206,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/depoimento-libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-03-12T08:55:36.782Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-03-12T08:55:36.782Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-03-14T09:38:19.062Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-03-14T09:38:19.062Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,8 +248,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-03-17T08:34:15.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-03-17T08:34:15.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-03-14T09:38:19.062Z</lastmod>
+        <lastmod>2020-03-17T08:34:15.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-03-17T08:34:15.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libid-mancaps-desconto/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-03-17T08:34:15.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
