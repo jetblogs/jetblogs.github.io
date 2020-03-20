@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-02-29T12:27:26.935Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-03-01T12:24:00.136Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-03-08T15:11:31.065Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-03-10T19:14:44.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,13 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-03-12T09:00:00.530Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-03-12T09:00:00.530Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -207,13 +186,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-estimulante-sexual/</loc>
-        <lastmod>2020-03-14T09:45:05.346Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-03-14T09:45:05.346Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-03-19T05:58:14.598Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-original/</loc>
         <lastmod>2020-03-19T05:58:14.598Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +243,41 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-composicao/</loc>
         <lastmod>2020-03-19T05:58:14.598Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-03-20T08:19:18.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-03-20T08:19:18.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-03-20T08:19:18.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-03-20T08:19:18.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-valea-penabr/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-03-20T08:19:18.768Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

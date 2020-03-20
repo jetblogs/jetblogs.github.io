@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-02-08T10:24:24.779Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-02-09T13:51:32.261Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,13 +46,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libidman-caps/</loc>
-        <lastmod>2020-02-29T12:23:04.959Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man/</loc>
         <lastmod>2020-02-29T12:23:04.959Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -103,20 +89,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-estimulante-sexual/</loc>
         <lastmod>2020-03-06T11:00:39.471Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-03-07T09:13:41.923Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-03-07T09:13:41.923Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -220,20 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-03-14T09:41:04.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-03-17T08:36:12.095Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-03-17T08:36:12.095Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,6 +200,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-onde-comprar/</loc>
+        <lastmod>2020-03-17T08:36:12.095Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-03-17T08:36:12.095Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,15 +234,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-efeitos-colaterais/</loc>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-03-19T05:54:40.602Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-03-19T05:54:40.602Z</lastmod>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-03-20T08:16:38.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-03-20T08:16:38.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-03-20T08:16:38.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man/</loc>
+        <lastmod>2020-03-20T08:16:38.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-03-20T08:16:38.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-03-20T08:16:38.368Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

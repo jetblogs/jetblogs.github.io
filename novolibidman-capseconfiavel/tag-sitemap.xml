@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-02-11T11:36:15.011Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-02-12T09:46:07.011Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,13 +26,6 @@
     <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-02-27T05:22:38.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-03-02T07:25:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -108,14 +94,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-depoimentos/</loc>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-03-08T15:06:00.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-preco/</loc>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-03-08T15:06:00.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-como-tomar/</loc>
-        <lastmod>2020-03-14T09:36:24.662Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-03-14T09:36:24.662Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -207,6 +186,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-03-14T09:36:24.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-03-14T09:36:24.662Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,27 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps/</loc>
-        <lastmod>2020-03-17T08:32:50.007Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-03-17T08:32:50.007Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-03-19T05:50:37.658Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-03-19T05:50:37.658Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,8 +241,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-03-19T05:50:37.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man/</loc>
         <lastmod>2020-03-19T05:50:37.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-03-20T08:13:33.596Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-03-20T08:13:33.596Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps/</loc>
+        <lastmod>2020-03-20T08:13:33.596Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-03-20T08:13:33.596Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

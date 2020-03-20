@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libidman-caps/</loc>
-        <lastmod>2020-03-03T12:21:09.843Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-03-05T10:25:12.095Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-03-08T15:07:10.909Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-03-10T19:09:52.272Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,14 +122,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-anvisa/</loc>
+        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-03-10T19:09:52.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-anvisa/</loc>
         <lastmod>2020-03-10T19:09:52.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -158,13 +144,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-03-11T18:20:06.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-03-11T18:20:06.153Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -186,13 +165,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-03-12T08:55:33.466Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-03-12T08:55:33.466Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-03-19T05:52:14.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-03-20T08:14:47.800Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-03-20T08:14:47.800Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libidman-caps/</loc>
+        <lastmod>2020-03-20T08:14:47.800Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-descontopage/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-03-20T08:14:47.800Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -94,6 +94,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/microblading/</loc>
+        <lastmod>2020-03-06T08:24:56.903Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/fio-a-fio/</loc>
         <lastmod>2020-03-06T08:24:56.903Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,13 +109,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/beleza-e-estetica/</loc>
-        <lastmod>2020-03-06T08:24:56.903Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/microblading/</loc>
         <lastmod>2020-03-06T08:24:56.903Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,14 +150,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/carreiras/</loc>
+        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/ead/</loc>
         <lastmod>2020-03-10T17:08:42.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/ead/</loc>
+        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/carreiras/</loc>
         <lastmod>2020-03-10T17:08:42.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/microblading-passo-a-passo/</loc>
-        <lastmod>2020-03-14T06:10:48.611Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/como-fazer-microblading/</loc>
         <lastmod>2020-03-14T06:10:48.611Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,13 +276,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/empreendedorismo/</loc>
-        <lastmod>2020-03-17T06:06:15.175Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-03-19T03:36:53.798Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -298,13 +284,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/design-sobrancelhas/</loc>
-        <lastmod>2020-03-19T03:36:53.798Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/microblading-avancado/</loc>
         <lastmod>2020-03-19T03:36:53.798Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -320,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/micropigmentacao/</loc>
         <lastmod>2020-03-19T03:36:53.798Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/microblading-valor/</loc>
+        <lastmod>2020-03-20T06:25:37.376Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/microblading-passo-a-passo/</loc>
+        <lastmod>2020-03-20T06:25:37.376Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/microblading-avancado/</loc>
+        <lastmod>2020-03-20T06:25:37.376Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingbrasilmodulos/tags/empreendedorismo/</loc>
+        <lastmod>2020-03-20T06:25:37.376Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
