@@ -136,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-02-28T16:32:31.354Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-02-28T16:32:31.354Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/ead/</loc>
-        <lastmod>2020-03-01T11:05:10.856Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-03-02T05:33:02.200Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,21 +178,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-desenhar-goku/</loc>
-        <lastmod>2020-03-03T10:49:33.767Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-desenhar-anime-e-manga/</loc>
-        <lastmod>2020-03-03T10:49:33.767Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-03-03T10:49:33.767Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,13 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/desenhando/</loc>
-        <lastmod>2020-03-14T06:48:46.275Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-desenhar-anime/</loc>
         <lastmod>2020-03-14T06:48:46.275Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/online/</loc>
         <lastmod>2020-03-20T06:49:31.388Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-03-22T01:41:08.996Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/kero-desenhar-kaneki/</loc>
+        <lastmod>2020-03-22T01:41:08.996Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/desenhando/</loc>
+        <lastmod>2020-03-22T01:41:08.996Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/ead/</loc>
+        <lastmod>2020-03-22T01:41:08.996Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-03-22T01:41:08.996Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -101,21 +101,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/microblading-sobrancelha/</loc>
-        <lastmod>2020-03-07T06:50:45.924Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-de-microblading-online/</loc>
-        <lastmod>2020-03-08T13:31:52.925Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-ead/</loc>
         <lastmod>2020-03-08T13:31:52.925Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -124,20 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-a-distancia/</loc>
         <lastmod>2020-03-08T13:31:52.925Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-de-microblading-tebori/</loc>
-        <lastmod>2020-03-10T17:15:48.332Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-de-microblading-internacional/</loc>
-        <lastmod>2020-03-10T17:15:48.332Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,21 +143,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/ead/</loc>
-        <lastmod>2020-03-12T07:10:54.006Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/microblading/</loc>
-        <lastmod>2020-03-12T07:10:54.006Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/fio-a-fio/</loc>
         <lastmod>2020-03-12T07:10:54.006Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -200,6 +158,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/beleza-e-estetica/</loc>
+        <lastmod>2020-03-12T07:10:54.006Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/fio-a-fio/</loc>
         <lastmod>2020-03-12T07:10:54.006Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -222,13 +187,6 @@
     <url>
         <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/microblading-para-iniciantes/</loc>
         <lastmod>2020-03-14T06:16:58.335Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-de-microblading-avancado/</loc>
-        <lastmod>2020-03-17T06:13:12.739Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -327,6 +285,48 @@
     <url>
         <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/empreendedorismo/</loc>
         <lastmod>2020-03-20T06:30:23.700Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/ead/</loc>
+        <lastmod>2020-03-22T01:07:12.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-de-microblading-tebori/</loc>
+        <lastmod>2020-03-22T01:07:12.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/microblading-sobrancelha/</loc>
+        <lastmod>2020-03-22T01:07:12.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-de-microblading-avancado/</loc>
+        <lastmod>2020-03-22T01:07:12.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-ead/</loc>
+        <lastmod>2020-03-22T01:07:12.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novocomofazermicroblading/tags/curso-de-microblading-internacional/</loc>
+        <lastmod>2020-03-22T01:07:12.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

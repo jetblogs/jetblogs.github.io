@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/ead/</loc>
-        <lastmod>2020-02-09T11:38:58.289Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/influencer-academy-youtuber/</loc>
         <lastmod>2020-02-13T11:04:42.471Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/marketing-digital/</loc>
-        <lastmod>2020-03-08T14:05:03.041Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-03-08T14:05:03.041Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -158,6 +144,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/influencer-academy-da-gabi/</loc>
+        <lastmod>2020-03-08T14:05:03.041Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/marketing-digital/</loc>
         <lastmod>2020-03-08T14:05:03.041Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -178,14 +171,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/instagram/</loc>
+        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/facebook/</loc>
         <lastmod>2020-03-11T16:38:09.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/facebook/</loc>
+        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/instagram/</loc>
         <lastmod>2020-03-11T16:38:09.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,21 +269,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/influencer-academy-gabi-ferreira/</loc>
-        <lastmod>2020-03-19T04:11:58.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/curso-a-distancia/</loc>
-        <lastmod>2020-03-19T04:11:58.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/midias-sociais/</loc>
         <lastmod>2020-03-19T04:11:58.762Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,13 +278,6 @@
     <url>
         <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/influenciador-digital/</loc>
         <lastmod>2020-03-19T04:11:58.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-03-20T07:07:08.332Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/negocios-de-sucesso/</loc>
         <lastmod>2020-03-20T07:07:08.332Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-03-22T02:14:09.871Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/influencer-academy-gabi-ferreira/</loc>
+        <lastmod>2020-03-22T02:14:09.871Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/midias-sociais/</loc>
+        <lastmod>2020-03-22T02:14:09.871Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-influenceracademyvalepena/tags/ead/</loc>
+        <lastmod>2020-03-22T02:14:09.871Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
