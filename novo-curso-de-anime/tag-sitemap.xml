@@ -101,20 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/kerodesenhar/</loc>
-        <lastmod>2020-03-01T11:06:08.008Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-03-01T11:06:08.008Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/draw/</loc>
         <lastmod>2020-03-01T11:06:08.008Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/goku/</loc>
-        <lastmod>2020-03-11T16:11:33.833Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/curso/</loc>
         <lastmod>2020-03-11T16:11:33.833Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -284,6 +263,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-03-11T16:11:33.833Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/goku/</loc>
         <lastmod>2020-03-11T16:11:33.833Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -339,13 +325,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/como-aprender-a-desenhar-do-zero/</loc>
-        <lastmod>2020-03-14T06:50:08.195Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/desenhando/</loc>
         <lastmod>2020-03-14T06:50:08.195Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,14 +332,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/para-iniciantes/</loc>
-        <lastmod>2020-03-20T06:50:31.684Z</lastmod>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-03-14T06:50:08.195Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/curso-de-desenho/</loc>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/para-iniciantes/</loc>
         <lastmod>2020-03-20T06:50:31.684Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/ead/</loc>
-        <lastmod>2020-03-20T06:50:31.684Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-03-20T06:50:31.684Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -402,6 +374,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-03-22T01:42:56.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/tutoriais/</loc>
         <lastmod>2020-03-22T01:42:56.304Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -409,15 +388,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-03-22T01:42:56.304Z</lastmod>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/curso-de-desenho/</loc>
+        <lastmod>2020-03-23T06:18:28.005Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/como-fazer-esboco/</loc>
-        <lastmod>2020-03-22T01:42:56.304Z</lastmod>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/ead/</loc>
+        <lastmod>2020-03-23T06:18:28.005Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/kerodesenhar/</loc>
+        <lastmod>2020-03-23T06:18:28.005Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-03-23T06:18:28.005Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-curso-de-anime/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-03-23T06:18:28.005Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
