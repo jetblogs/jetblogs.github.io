@@ -213,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/microblading-avancado/</loc>
-        <lastmod>2020-03-05T09:35:07.359Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/empreendedorismo/</loc>
         <lastmod>2020-03-05T09:35:07.359Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,14 +283,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/micropigmentacao/</loc>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/como-fazer-microblading/</loc>
         <lastmod>2020-03-11T17:08:38.113Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/como-fazer-microblading/</loc>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/micropigmentacao/</loc>
         <lastmod>2020-03-11T17:08:38.113Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -395,21 +388,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/curso-microblading/</loc>
-        <lastmod>2020-03-17T07:14:13.591Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/beleza/</loc>
-        <lastmod>2020-03-17T07:14:13.591Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/curso-de-microblading-tebori/</loc>
+        <lastmod>2020-03-17T07:14:13.591Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/curso-microblading/</loc>
         <lastmod>2020-03-17T07:14:13.591Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -423,20 +409,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/certificado-internacional/</loc>
-        <lastmod>2020-03-19T04:33:38.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/carreiras/</loc>
-        <lastmod>2020-03-19T04:33:38.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/o-que-e-microblading/</loc>
         <lastmod>2020-03-20T07:20:27.516Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -444,14 +416,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/beleza-e-estetica/</loc>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/curso-de-microblading/</loc>
         <lastmod>2020-03-22T02:34:28.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/curso-de-microblading/</loc>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/beleza-e-estetica/</loc>
         <lastmod>2020-03-22T02:34:28.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -479,13 +451,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/designer-de-sobrancelhas/</loc>
-        <lastmod>2020-03-23T07:12:20.973Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/ead/</loc>
         <lastmod>2020-03-23T07:12:20.973Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -494,6 +459,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/thalita-ayla/</loc>
+        <lastmod>2020-03-23T07:12:20.973Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/designer-de-sobrancelhas/</loc>
         <lastmod>2020-03-23T07:12:20.973Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -509,6 +481,34 @@
     <url>
         <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/microblading-tebori/</loc>
         <lastmod>2020-03-23T07:12:20.973Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/certificado-internacional/</loc>
+        <lastmod>2020-03-26T04:56:14.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/microblading-avancado/</loc>
+        <lastmod>2020-03-26T04:56:14.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/carreiras/</loc>
+        <lastmod>2020-03-26T04:56:14.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brmicroblading-segredos/tags/beleza/</loc>
+        <lastmod>2020-03-26T04:56:14.528Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

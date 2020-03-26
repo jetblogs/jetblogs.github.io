@@ -59,20 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenho/</loc>
-        <lastmod>2020-03-14T06:52:04.255Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-03-14T06:52:04.255Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/kerodesenhar/</loc>
         <lastmod>2020-03-14T06:52:04.255Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,14 +66,21 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhando-animes/</loc>
-        <lastmod>2020-03-20T06:51:55.764Z</lastmod>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenho/</loc>
+        <lastmod>2020-03-14T06:52:04.255Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-naruto/</loc>
+        <lastmod>2020-03-20T06:51:55.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhando-animes/</loc>
         <lastmod>2020-03-20T06:51:55.764Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -136,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/curso-de-desenho/</loc>
-        <lastmod>2020-03-22T01:45:29.336Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-03-22T01:45:29.336Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,14 +136,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball/</loc>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-03-23T06:20:49.525Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball-super-desenho/</loc>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball/</loc>
         <lastmod>2020-03-23T06:20:49.525Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -173,6 +159,34 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/speed-drawing/</loc>
         <lastmod>2020-03-23T06:20:49.525Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/curso-de-desenho/</loc>
+        <lastmod>2020-03-26T04:16:37.636Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/tutoriais/</loc>
+        <lastmod>2020-03-26T04:16:37.636Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/animes/</loc>
+        <lastmod>2020-03-26T04:16:37.636Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-03-26T04:16:37.636Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
