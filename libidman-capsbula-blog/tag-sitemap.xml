@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-02-14T11:59:21.971Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps/</loc>
         <lastmod>2020-02-28T17:51:31.210Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-preco/</loc>
-        <lastmod>2020-03-06T11:02:30.851Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-03-06T11:02:30.851Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,13 +39,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-03-08T15:10:13.937Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man/</loc>
         <lastmod>2020-03-08T15:10:13.937Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,22 +171,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-03-22T04:02:06.951Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-original/</loc>
         <lastmod>2020-03-22T04:02:06.951Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-03-23T08:13:40.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -220,7 +185,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-reclame-aqui/</loc>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-03-23T08:13:40.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -228,6 +193,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-03-23T08:13:40.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-03-23T08:13:40.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libidman-caps-depoimentos/</loc>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-03-26T06:25:34.119Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-farmacia/</loc>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-03-26T06:25:34.119Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +248,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-03-26T06:25:34.119Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-03-27T03:03:27.976Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-03-27T03:03:27.976Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man/</loc>
+        <lastmod>2020-03-27T03:03:27.976Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsbula-blog/tags/libid-man-preco/</loc>
+        <lastmod>2020-03-27T03:03:27.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
