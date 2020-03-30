@@ -80,20 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-03-10T19:09:41.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-03-10T19:09:41.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-03-11T18:19:53.689Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-03-19T05:52:01.242Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libidman-caps-preco/</loc>
         <lastmod>2020-03-20T08:14:37.700Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-03-22T03:57:10.823Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-03-22T03:57:10.823Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,7 +164,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-depoimento-sincero/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-03-22T03:57:10.823Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-original/</loc>
-        <lastmod>2020-03-27T02:58:15.664Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-03-27T02:58:15.664Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,8 +241,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-original/</loc>
+        <lastmod>2020-03-27T02:58:15.664Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-03-27T02:58:15.664Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-03-30T06:02:34.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-03-30T06:02:34.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-03-30T06:02:34.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsoriginalsite/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-03-30T06:02:34.096Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

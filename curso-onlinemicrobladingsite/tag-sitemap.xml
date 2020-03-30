@@ -122,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/microblading-avancado/</loc>
-        <lastmod>2020-03-11T15:32:50.521Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/fio-a-fio/</loc>
         <lastmod>2020-03-12T07:08:34.398Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -144,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/microblading-para-iniciantes/</loc>
-        <lastmod>2020-03-14T06:14:20.327Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/microblading-passo-a-passo/</loc>
         <lastmod>2020-03-14T06:14:20.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,14 +241,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/sobrancelhas/</loc>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/tebori/</loc>
         <lastmod>2020-03-22T01:02:50.244Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/tebori/</loc>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/sobrancelhas/</loc>
         <lastmod>2020-03-22T01:02:50.244Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,13 +290,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/curso-a-distancia/</loc>
-        <lastmod>2020-03-26T03:45:18.640Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/passo-a-passo/</loc>
         <lastmod>2020-03-26T03:45:18.640Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -332,6 +311,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-03-27T00:27:41.713Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/curso-tebori/</loc>
         <lastmod>2020-03-27T00:27:41.713Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -339,7 +325,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/curso-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/microblading-valor/</loc>
         <lastmod>2020-03-27T00:27:41.713Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -353,8 +339,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/microblading-valor/</loc>
-        <lastmod>2020-03-27T00:27:41.713Z</lastmod>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/microblading-passo-a-passo/</loc>
+        <lastmod>2020-03-29T15:39:47.552Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/curso-a-distancia/</loc>
+        <lastmod>2020-03-29T15:39:47.552Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/beleza/</loc>
+        <lastmod>2020-03-29T15:39:47.552Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-onlinemicrobladingsite/tags/microblading-avancado/</loc>
+        <lastmod>2020-03-29T15:39:47.552Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
