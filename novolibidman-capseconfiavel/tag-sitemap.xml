@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-01-04T23:44:55.400Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-02-12T09:46:07.011Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,13 +33,6 @@
     <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-original/</loc>
         <lastmod>2020-03-07T09:09:57.103Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-03-08T15:06:00.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -136,6 +122,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-03-20T08:13:33.596Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps/</loc>
         <lastmod>2020-03-20T08:13:33.596Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,8 +136,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-03-20T08:13:33.596Z</lastmod>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-03-22T03:55:24.183Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -164,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-03-22T03:55:24.183Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-03-23T08:09:14.437Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,14 +164,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-oficial/</loc>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-03-26T06:19:10.807Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-para-que-serve/</loc>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-03-26T06:19:10.807Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-03-27T02:56:51.688Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-03-27T02:56:51.688Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,8 +199,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-03-30T06:01:27.024Z</lastmod>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-03-27T02:56:51.688Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,8 +220,22 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-03-30T06:01:27.024Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-03-30T06:01:27.024Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-03-31T04:50:55.042Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -263,21 +256,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-original/</loc>
-        <lastmod>2020-03-31T04:50:55.042Z</lastmod>
+        <lastmod>2020-04-04T07:31:50.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-03-31T04:50:55.042Z</lastmod>
+        <lastmod>2020-04-04T07:31:50.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-03-31T04:50:55.042Z</lastmod>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-04-04T07:31:50.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-capseconfiavel/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-04-04T07:31:50.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

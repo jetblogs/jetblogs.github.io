@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-03-08T15:11:34.337Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-original/</loc>
         <lastmod>2020-03-08T15:11:34.337Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-03-14T09:45:10.174Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man/</loc>
         <lastmod>2020-03-14T09:45:10.174Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-03-20T08:19:22.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-03-20T08:19:22.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,6 +192,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps/</loc>
+        <lastmod>2020-03-30T06:07:33.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-estimulante-sexual/</loc>
         <lastmod>2020-03-30T06:07:33.336Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,14 +220,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps/</loc>
-        <lastmod>2020-03-30T06:07:33.336Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-mercado-livre/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-original/</loc>
         <lastmod>2020-03-31T04:58:13.586Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,14 +234,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/meu-depoimento-libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-03-31T04:58:13.586Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-original/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-03-31T04:58:13.586Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +255,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-04-04T07:37:45.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-04-04T07:37:45.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-04-04T07:37:45.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-03-31T04:58:13.586Z</lastmod>
+        <lastmod>2020-04-04T07:37:45.120Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

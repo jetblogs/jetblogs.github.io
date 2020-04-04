@@ -24,20 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-03-10T19:48:18.944Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-03-11T19:12:44.809Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/liberdade-financeira/</loc>
         <lastmod>2020-03-11T19:12:44.809Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -116,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/curso-msr-mude-sua-rotina/</loc>
-        <lastmod>2020-03-22T04:40:12.167Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/afiliados/</loc>
         <lastmod>2020-03-22T04:40:12.167Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,6 +220,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-resultados/</loc>
+        <lastmod>2020-03-31T05:39:21.306Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-03-31T05:39:21.306Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,8 +248,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-resultados/</loc>
-        <lastmod>2020-03-31T05:39:21.306Z</lastmod>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-marketing-digital/</loc>
+        <lastmod>2020-04-04T08:10:06.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/afiliados/</loc>
+        <lastmod>2020-04-04T08:10:06.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-04-04T08:10:06.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <lastmod>2020-04-04T08:10:06.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
