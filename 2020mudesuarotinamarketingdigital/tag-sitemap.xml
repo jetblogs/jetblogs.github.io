@@ -80,22 +80,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/marketing/</loc>
-        <lastmod>2020-03-19T06:41:43.218Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-03-20T08:53:44.704Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-03-22T04:39:11.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -124,20 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/afiliados/</loc>
         <lastmod>2020-03-23T08:44:08.777Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/ganhar-dinheiro-na-internet/</loc>
-        <lastmod>2020-03-26T07:11:42.719Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/liberdade-financeira/</loc>
-        <lastmod>2020-03-26T07:11:42.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -220,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/monetizze/</loc>
-        <lastmod>2020-03-31T05:38:07.074Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-04-04T08:09:06.548Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -257,6 +222,48 @@
     <url>
         <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/msr-curso/</loc>
         <lastmod>2020-04-04T08:09:06.548Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-04-05T16:54:45.572Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/ganhar-dinheiro-na-internet/</loc>
+        <lastmod>2020-04-05T16:54:45.572Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/liberdade-financeira/</loc>
+        <lastmod>2020-04-05T16:54:45.572Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/monetizze/</loc>
+        <lastmod>2020-04-05T16:54:45.572Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/marketing/</loc>
+        <lastmod>2020-04-05T16:54:45.572Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020mudesuarotinamarketingdigital/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-04-05T16:54:45.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
