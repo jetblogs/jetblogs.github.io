@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-02-01T13:11:12.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-original/</loc>
         <lastmod>2020-02-09T13:48:36.317Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-03-03T12:19:42.615Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-03-05T10:23:48.159Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +54,6 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-caps-estimulante-sexual/</loc>
         <lastmod>2020-03-10T19:08:18.640Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-03-11T18:18:24.625Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -143,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-03-26T06:18:51.499Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libidman-caps/</loc>
         <lastmod>2020-03-27T02:56:30.516Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,14 +171,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libidman-caps-funciona/</loc>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-03-31T04:50:38.346Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-caps-reclame-aqui/</loc>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-03-31T04:50:38.346Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,14 +234,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man/</loc>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-preco/</loc>
         <lastmod>2020-04-05T15:54:36.516Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-preco/</loc>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man/</loc>
         <lastmod>2020-04-05T15:54:36.516Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-04-05T15:54:36.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-04-10T08:40:56.714Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-04-10T08:40:56.714Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-04-10T08:40:56.714Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-anvisa/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-04-10T08:40:56.714Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
