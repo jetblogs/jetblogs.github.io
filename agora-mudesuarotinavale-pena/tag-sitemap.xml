@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-03-23T11:45:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/renda-extra/</loc>
         <lastmod>2020-03-23T11:45:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,20 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/msr-mude-sua-rotina/</loc>
-        <lastmod>2020-04-04T11:10:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/msr-funciona/</loc>
-        <lastmod>2020-04-04T11:10:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/msr-resultados/</loc>
         <lastmod>2020-04-04T11:10:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -172,6 +151,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-04-04T11:10:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/msr-funciona/</loc>
         <lastmod>2020-04-04T11:10:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/treinamento-msr/</loc>
-        <lastmod>2020-04-10T12:24:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/trabalhar-pela-internet/</loc>
         <lastmod>2020-04-10T12:24:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,13 +200,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-04-10T12:24:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/msr-curso/</loc>
         <lastmod>2020-04-10T12:24:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-05-08T04:41:18.649Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-05-08T04:41:18.649Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,8 +234,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/liberdade-financeira/</loc>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-05-08T04:41:18.649Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/treinamento-msr/</loc>
+        <lastmod>2020-05-14T00:53:36.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/msr-curso/</loc>
+        <lastmod>2020-05-14T00:53:36.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-05-14T00:53:36.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/mude-sua-rotina-marketing-digital/</loc>
+        <lastmod>2020-05-14T00:53:36.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/liberdade-financeira/</loc>
+        <lastmod>2020-05-14T00:53:36.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesuarotinavale-pena/tags/treinamento-mude-sua-rotina/</loc>
+        <lastmod>2020-05-14T00:53:36.054Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

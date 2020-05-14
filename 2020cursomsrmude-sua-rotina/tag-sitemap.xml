@@ -178,21 +178,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-03-31T08:38:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-04-04T11:09:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/msr-funciona/</loc>
         <lastmod>2020-04-04T11:09:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,15 +269,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/curso-msr-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/msr-curso/</loc>
         <lastmod>2020-05-08T04:41:01.972Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/msr-curso/</loc>
-        <lastmod>2020-05-08T04:41:01.972Z</lastmod>
+        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/msr-funciona/</loc>
+        <lastmod>2020-05-14T00:52:38.339Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-05-14T00:52:38.339Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/curso-msr-mude-sua-rotina/</loc>
+        <lastmod>2020-05-14T00:52:38.339Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020cursomsrmude-sua-rotina/tags/marketing/</loc>
+        <lastmod>2020-05-14T00:52:38.339Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

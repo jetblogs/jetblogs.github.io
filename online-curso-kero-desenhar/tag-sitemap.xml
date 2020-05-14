@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/tutorial-de-desenho/</loc>
-        <lastmod>2020-02-09T14:06:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/desenho/</loc>
         <lastmod>2020-02-11T11:24:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-03-14T09:48:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/para-iniciantes/</loc>
         <lastmod>2020-03-14T09:48:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -318,21 +304,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-03-23T09:17:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-03-23T09:17:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-03-23T09:17:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,20 +388,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/como-desenhar-manga/</loc>
-        <lastmod>2020-05-03T16:03:49.674Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-05-03T16:03:49.674Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-05-03T16:03:49.674Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/manga/</loc>
         <lastmod>2020-05-03T16:03:49.674Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-05-14T00:42:21.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-05-14T00:42:21.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-05-14T00:42:21.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-05-14T00:42:21.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-05-14T00:42:21.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-curso-kero-desenhar/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-05-14T00:42:21.795Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

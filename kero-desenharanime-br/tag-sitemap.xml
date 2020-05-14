@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenhando/</loc>
-        <lastmod>2020-02-10T09:06:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-02-13T13:40:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,14 +143,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/draw/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-03-07T10:19:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-melhorar-meus-desenhos/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/draw/</loc>
         <lastmod>2020-03-07T10:19:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -353,21 +346,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/speed-drawing/</loc>
-        <lastmod>2020-03-27T03:53:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/curso-de-desenho/</loc>
-        <lastmod>2020-03-27T03:53:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenhar/</loc>
         <lastmod>2020-03-27T03:53:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,21 +360,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/kero-desenhar/</loc>
-        <lastmod>2020-03-29T19:11:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/aprenda-a-desenhar/</loc>
-        <lastmod>2020-03-29T19:11:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar/</loc>
         <lastmod>2020-03-29T19:11:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +397,41 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/goku/</loc>
         <lastmod>2020-05-03T16:04:04.397Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/speed-drawing/</loc>
+        <lastmod>2020-05-14T00:42:53.669Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenhar/</loc>
+        <lastmod>2020-05-14T00:42:53.669Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/kero-desenhar/</loc>
+        <lastmod>2020-05-14T00:42:53.669Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar/</loc>
+        <lastmod>2020-05-14T00:42:53.669Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenhando/</loc>
+        <lastmod>2020-05-14T00:42:53.669Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

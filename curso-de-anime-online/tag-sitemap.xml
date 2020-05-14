@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/drawing/</loc>
-        <lastmod>2020-03-05T12:06:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-de-anime-online/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-03-05T12:06:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/curso-de-desenho/</loc>
-        <lastmod>2020-03-22T04:45:06.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-de-anime-online/tags/kerodesenhar/</loc>
         <lastmod>2020-03-22T04:45:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,14 +185,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-03-23T09:20:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/desenho-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-03-23T09:20:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,14 +241,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/desenhando/</loc>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/curso-de-anime/</loc>
         <lastmod>2020-03-27T03:55:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/curso-de-anime/</loc>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/desenhando/</loc>
         <lastmod>2020-03-27T03:55:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +269,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/desenhar-animes/</loc>
-        <lastmod>2020-03-27T03:55:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-de-anime-online/tags/ead/</loc>
         <lastmod>2020-03-30T19:14:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -298,13 +277,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-de-anime-online/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-03-30T19:14:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-03-30T19:14:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -348,6 +320,48 @@
     <url>
         <loc>https://jetblogs.github.io/curso-de-anime-online/tags/speed-drawing/</loc>
         <lastmod>2020-05-03T16:05:13.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/curso-de-desenho/</loc>
+        <lastmod>2020-05-14T00:45:51.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-05-14T00:45:51.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/goku/</loc>
+        <lastmod>2020-05-14T00:45:51.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-05-14T00:45:51.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/drawing/</loc>
+        <lastmod>2020-05-14T00:45:51.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-anime-online/tags/desenhar-animes/</loc>
+        <lastmod>2020-05-14T00:45:51.981Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
