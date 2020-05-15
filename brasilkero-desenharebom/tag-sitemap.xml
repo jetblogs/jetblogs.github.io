@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-desenho/</loc>
-        <lastmod>2020-03-05T12:06:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/videos-online/</loc>
         <lastmod>2020-03-05T12:06:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -46,13 +39,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/manga/</loc>
-        <lastmod>2020-03-07T10:21:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/tutoriais/</loc>
         <lastmod>2020-03-07T10:21:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,20 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/o-kero-desenhar-realmente-funciona/</loc>
-        <lastmod>2020-03-22T04:45:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-desenhar-para-iniciantes/</loc>
-        <lastmod>2020-03-22T04:45:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-desenhar/</loc>
         <lastmod>2020-03-23T09:20:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -214,13 +186,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/aprenda-a-desenhar/</loc>
-        <lastmod>2020-03-23T09:20:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenhar-animes/</loc>
         <lastmod>2020-03-23T09:20:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -346,6 +311,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-05-14T00:45:46.948Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-05-14T00:45:46.948Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -367,8 +339,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-05-14T00:45:46.948Z</lastmod>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-desenho/</loc>
+        <lastmod>2020-05-15T21:47:26.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/tutoriais/</loc>
+        <lastmod>2020-05-15T21:47:26.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-desenhar-para-iniciantes/</loc>
+        <lastmod>2020-05-15T21:47:26.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-05-15T21:47:26.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenhar-animes/</loc>
+        <lastmod>2020-05-15T21:47:26.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

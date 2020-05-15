@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/ead/</loc>
-        <lastmod>2020-03-12T10:33:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-03-14T09:52:20.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/kero-desenhar/</loc>
-        <lastmod>2020-03-27T03:56:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-03-27T03:56:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,14 +178,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-naruto/</loc>
         <lastmod>2020-05-14T00:46:35.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-naruto/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-05-14T00:46:35.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,8 +213,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/kero-desenhar/</loc>
+        <lastmod>2020-05-15T21:47:58.104Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-05-15T21:47:58.104Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/dragon-ball/</loc>
-        <lastmod>2020-05-14T00:46:35.612Z</lastmod>
+        <lastmod>2020-05-15T21:47:58.104Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/ead/</loc>
+        <lastmod>2020-05-15T21:47:58.104Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

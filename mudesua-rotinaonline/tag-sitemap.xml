@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/afiliado-iniciante/</loc>
-        <lastmod>2020-03-19T09:48:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-03-20T11:57:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,22 +80,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/vendas-online/</loc>
-        <lastmod>2020-03-26T10:16:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-03-26T10:16:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-curso/</loc>
-        <lastmod>2020-03-27T06:54:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,14 +150,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/trabalhar-pela-internet/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/afiliados/</loc>
         <lastmod>2020-04-05T19:59:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/afiliados/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/trabalhar-pela-internet/</loc>
         <lastmod>2020-04-05T19:59:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -187,20 +166,6 @@
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/ganhar-dinheiro-na-internet/</loc>
         <lastmod>2020-04-05T19:59:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/curso-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-04-10T12:27:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-04-10T12:27:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -215,13 +180,6 @@
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-04-10T12:27:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-mude-sua-rotina-logo/</loc>
-        <lastmod>2020-05-08T04:42:34.190Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,7 +213,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/eduzz/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-mude-sua-rotina-logo/</loc>
+        <lastmod>2020-05-08T04:42:34.190Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/hotmart/</loc>
         <lastmod>2020-05-14T00:58:11.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,14 +234,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/hotmart/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/mude-sua-rotina/</loc>
         <lastmod>2020-05-14T00:58:11.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/eduzz/</loc>
         <lastmod>2020-05-14T00:58:11.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -292,6 +257,41 @@
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-05-14T00:58:11.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-05-15T22:59:11.076Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/curso-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-05-15T22:59:11.076Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/vendas-online/</loc>
+        <lastmod>2020-05-15T22:59:11.076Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/msr-curso/</loc>
+        <lastmod>2020-05-15T22:59:11.076Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaonline/tags/afiliado-iniciante/</loc>
+        <lastmod>2020-05-15T22:59:11.076Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

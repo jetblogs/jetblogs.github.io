@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-de-rose-de-mer/</loc>
-        <lastmod>2020-01-31T15:00:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-02-03T10:18:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,13 +40,6 @@
     <url>
         <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-rose-de-mer-doi/</loc>
         <lastmod>2020-02-10T10:35:24.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-rose-de-mer-funciona-mesmo/</loc>
-        <lastmod>2020-02-12T11:59:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,7 +157,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-rose-de-mer-para-melasma/</loc>
+        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/passo-a-passo/</loc>
         <lastmod>2020-03-10T21:39:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,7 +171,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-rose-de-mer-para-melasma/</loc>
         <lastmod>2020-03-10T21:39:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -228,13 +214,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/beleza/</loc>
-        <lastmod>2020-03-14T11:33:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/rose-de-mer-peeling-antes-e-depois/</loc>
         <lastmod>2020-03-14T11:33:32.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -319,13 +298,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/rose-de-mer-produtos/</loc>
-        <lastmod>2020-03-20T10:44:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-rose-de-mer-curso/</loc>
         <lastmod>2020-03-20T10:44:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -479,13 +451,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/online/</loc>
-        <lastmod>2020-05-13T06:21:17.276Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/beneficios-do-peeling-rose-de-mer/</loc>
         <lastmod>2020-05-13T06:21:17.276Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -530,6 +495,41 @@
     <url>
         <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling/</loc>
         <lastmod>2020-05-14T01:04:52.714Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/online/</loc>
+        <lastmod>2020-05-15T22:06:34.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/rose-de-mer-peeling-antes-e-depois/</loc>
+        <lastmod>2020-05-15T22:06:34.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-rose-de-mer-funciona-mesmo/</loc>
+        <lastmod>2020-05-15T22:06:34.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-rose-de-mer-curso/</loc>
+        <lastmod>2020-05-15T22:06:34.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderrose-demer/tags/peeling-de-rose-de-mer/</loc>
+        <lastmod>2020-05-15T22:06:34.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

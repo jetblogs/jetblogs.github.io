@@ -129,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/a-distancia/</loc>
-        <lastmod>2020-03-08T16:51:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/anime/</loc>
         <lastmod>2020-03-10T20:41:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,20 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/tutoriais/</loc>
-        <lastmod>2020-03-23T09:19:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-03-23T09:19:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/curso/</loc>
         <lastmod>2020-03-23T09:19:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,7 +332,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/como-desenhar/</loc>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/desenho/</loc>
         <lastmod>2020-05-03T16:05:00.738Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,21 +346,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/desenho/</loc>
-        <lastmod>2020-05-03T16:05:00.738Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/animes/</loc>
-        <lastmod>2020-05-03T16:05:00.738Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/manga/</loc>
         <lastmod>2020-05-03T16:05:00.738Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +397,41 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-05-14T00:45:14.277Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/tutoriais/</loc>
+        <lastmod>2020-05-15T21:47:06.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/como-desenhar/</loc>
+        <lastmod>2020-05-15T21:47:06.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-05-15T21:47:06.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/a-distancia/</loc>
+        <lastmod>2020-05-15T21:47:06.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/manga/</loc>
+        <lastmod>2020-05-15T21:47:06.900Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

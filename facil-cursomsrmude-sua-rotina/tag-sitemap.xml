@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/eduzz/</loc>
-        <lastmod>2020-05-08T04:45:07.308Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/hotmart/</loc>
         <lastmod>2020-05-08T04:45:07.308Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -32,13 +25,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-05-08T04:45:07.308Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/msr-curso/</loc>
         <lastmod>2020-05-08T04:45:07.308Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -66,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/msr-funciona/</loc>
-        <lastmod>2020-05-14T01:07:16.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/curso-mude-sua-rotina/</loc>
         <lastmod>2020-05-14T01:07:16.135Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,6 +61,48 @@
     <url>
         <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/negocios-digitais/</loc>
         <lastmod>2020-05-14T01:07:16.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/eduzz/</loc>
+        <lastmod>2020-05-15T23:04:37.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/msr-curso/</loc>
+        <lastmod>2020-05-15T23:04:37.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-05-15T23:04:37.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/renda-extra/</loc>
+        <lastmod>2020-05-15T23:04:37.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/plataforma-mude-sua-rotina/</loc>
+        <lastmod>2020-05-15T23:04:37.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursomsrmude-sua-rotina/tags/msr-funciona/</loc>
+        <lastmod>2020-05-15T23:04:37.768Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

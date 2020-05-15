@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/ead/</loc>
-        <lastmod>2020-02-13T15:04:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/rose-de-mer-funciona/</loc>
         <lastmod>2020-02-16T21:14:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -186,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/rose-de-mer-site/</loc>
-        <lastmod>2020-03-10T21:38:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/curso-online/</loc>
         <lastmod>2020-03-10T21:38:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -486,20 +472,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-do-mar-morto/</loc>
-        <lastmod>2020-05-13T06:20:47.880Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-resultados/</loc>
-        <lastmod>2020-05-14T01:04:03.909Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/beleza/</loc>
         <lastmod>2020-05-14T01:04:03.909Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -516,6 +488,34 @@
     <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-05-14T01:04:03.909Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/curso-online/</loc>
+        <lastmod>2020-05-15T22:06:08.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-resultados/</loc>
+        <lastmod>2020-05-15T22:06:08.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-do-mar-morto/</loc>
+        <lastmod>2020-05-15T22:06:08.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/ead/</loc>
+        <lastmod>2020-05-15T22:06:08.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

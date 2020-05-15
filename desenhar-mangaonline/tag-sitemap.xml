@@ -234,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/desenhando/</loc>
-        <lastmod>2020-03-20T09:49:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/speed-drawing/</loc>
         <lastmod>2020-03-20T09:49:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -318,13 +311,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-03-27T03:53:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-desenhar-naruto/</loc>
         <lastmod>2020-03-27T03:53:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -340,13 +326,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-03-27T03:53:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-03-27T03:53:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -437,8 +416,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-05-15T21:45:33.210Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/desenhando/</loc>
+        <lastmod>2020-05-15T21:45:33.210Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-05-15T21:45:33.210Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-05-14T00:42:32.600Z</lastmod>
+        <lastmod>2020-05-15T21:45:33.210Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

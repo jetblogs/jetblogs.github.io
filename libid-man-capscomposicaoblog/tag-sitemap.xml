@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capscomposicaoblog/tags/libid-man/</loc>
-        <lastmod>2020-05-08T02:25:25.891Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capscomposicaoblog/tags/libid-man-original/</loc>
         <lastmod>2020-05-08T02:25:25.891Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,6 +61,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capscomposicaoblog/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-05-14T01:15:16.463Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capscomposicaoblog/tags/libid-man-caps/</loc>
+        <lastmod>2020-05-15T23:08:06.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capscomposicaoblog/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-05-15T23:08:06.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capscomposicaoblog/tags/libid-man/</loc>
+        <lastmod>2020-05-15T23:08:06.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capscomposicaoblog/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-05-15T23:08:06.623Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
