@@ -192,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/influencer-academy-funciona/</loc>
-        <lastmod>2020-05-14T00:55:54.967Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/marketing-digital/</loc>
         <lastmod>2020-05-14T00:55:54.967Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,22 +206,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/influencer-academy-funciona/</loc>
         <lastmod>2020-05-14T00:55:54.967Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/curso-influencer-academy/</loc>
-        <lastmod>2020-05-15T21:59:41.071Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/curso-ead/</loc>
-        <lastmod>2020-05-15T21:59:41.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,8 +220,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/curso-influencer-academy/</loc>
+        <lastmod>2020-05-16T19:04:33.513Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/curso-ead/</loc>
+        <lastmod>2020-05-16T19:04:33.513Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/passo-a-passo/</loc>
+        <lastmod>2020-05-16T19:04:33.513Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/comprar-influenceracademy/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-05-15T21:59:41.071Z</lastmod>
+        <lastmod>2020-05-16T19:04:33.513Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

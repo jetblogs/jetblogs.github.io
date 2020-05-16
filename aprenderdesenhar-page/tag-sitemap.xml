@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/curso-de-manga/</loc>
-        <lastmod>2020-03-07T10:20:06.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/drawing/</loc>
         <lastmod>2020-03-07T10:20:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,22 +136,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-03-11T19:11:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-03-11T19:11:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/como-desenhar-naruto/</loc>
-        <lastmod>2020-03-12T10:31:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -172,6 +151,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/curso-de-desenho/</loc>
+        <lastmod>2020-03-12T10:31:56.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/como-desenhar-naruto/</loc>
         <lastmod>2020-03-12T10:31:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -207,13 +193,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/desenhando/</loc>
-        <lastmod>2020-03-14T09:50:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/a-distancia/</loc>
         <lastmod>2020-03-14T09:50:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,7 +262,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/kero-desenhar/</loc>
         <lastmod>2020-03-26T07:15:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,7 +283,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/kero-desenhar/</loc>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-03-26T07:15:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -346,14 +325,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/dragon-ball/</loc>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-05-03T16:04:35.185Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/dragon-ball/</loc>
         <lastmod>2020-05-03T16:04:35.185Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-05-15T21:46:22.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-05-16T18:53:46.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/a-distancia/</loc>
+        <lastmod>2020-05-16T18:53:46.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/curso-de-manga/</loc>
+        <lastmod>2020-05-16T18:53:46.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdesenhar-page/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-05-16T18:53:46.742Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

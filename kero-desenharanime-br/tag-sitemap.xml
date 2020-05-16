@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/animes/</loc>
-        <lastmod>2020-03-02T08:33:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-03-03T13:50:20.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar-o-goku/</loc>
-        <lastmod>2020-03-22T04:42:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenhar-do-zero/</loc>
         <lastmod>2020-03-22T04:42:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,7 +227,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/o-kero-desenhar-funciona/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-03-22T04:42:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -256,20 +242,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar-animes/</loc>
-        <lastmod>2020-03-23T09:17:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-03-23T09:17:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-03-23T09:17:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,13 +276,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/curso-de-desenho/</loc>
-        <lastmod>2020-03-27T03:53:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar-para-iniciantes/</loc>
         <lastmod>2020-03-27T03:53:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -319,6 +284,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/aula-de-desenho/</loc>
+        <lastmod>2020-03-27T03:53:50.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/curso-de-desenho/</loc>
         <lastmod>2020-03-27T03:53:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -409,13 +381,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-05-15T21:45:44.694Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenhar-animes/</loc>
         <lastmod>2020-05-15T21:45:44.694Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -423,7 +388,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/manga/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-05-15T21:45:44.694Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +397,41 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenhando/</loc>
         <lastmod>2020-05-15T21:45:44.694Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-05-16T18:52:11.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-05-16T18:52:11.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/animes/</loc>
+        <lastmod>2020-05-16T18:52:11.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-05-16T18:52:11.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/manga/</loc>
+        <lastmod>2020-05-16T18:52:11.563Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

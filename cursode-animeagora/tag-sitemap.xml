@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/curso-de-anime/</loc>
-        <lastmod>2020-03-22T04:45:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-03-22T04:45:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,21 +199,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhando/</loc>
-        <lastmod>2020-05-14T00:46:13.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/tutorial-de-desenho/</loc>
-        <lastmod>2020-05-14T00:46:13.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/manga/</loc>
         <lastmod>2020-05-14T00:46:13.762Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,14 +213,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-o-goku/</loc>
-        <lastmod>2020-05-15T21:47:43.673Z</lastmod>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/manga/</loc>
+        <lastmod>2020-05-14T00:46:13.762Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-aprender-a-desenhar/</loc>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-05-15T21:47:43.673Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,8 +234,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-05-15T21:47:43.673Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/curso-de-manga/</loc>
         <lastmod>2020-05-15T21:47:43.673Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/curso-de-anime/</loc>
+        <lastmod>2020-05-16T18:55:51.943Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhando/</loc>
+        <lastmod>2020-05-16T18:55:51.943Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-05-16T18:55:51.943Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-05-16T18:55:51.943Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/msr-mude-sua-rotina/</loc>
-        <lastmod>2020-03-19T09:43:20.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/curso-mude-sua-rotina/</loc>
         <lastmod>2020-03-20T11:54:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,28 +220,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/msr-curso/</loc>
-        <lastmod>2020-05-08T04:41:14.188Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-05-08T04:41:14.188Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-05-14T00:53:20.663Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-05-14T00:53:20.663Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,6 +271,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-05-15T22:55:31.447Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-05-16T19:53:50.970Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-05-16T19:53:50.970Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/msr-curso/</loc>
+        <lastmod>2020-05-16T19:53:50.970Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojemsr-mude-sua-rotinaeconfiavel/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-05-16T19:53:50.970Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
