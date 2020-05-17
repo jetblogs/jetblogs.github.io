@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-03-19T09:47:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-03-20T11:57:32.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,13 +68,6 @@
     <url>
         <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/afiliado-iniciante/</loc>
         <lastmod>2020-03-26T10:16:20.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/hotmart/</loc>
-        <lastmod>2020-03-27T06:54:32.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-05-14T00:57:39.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/marketing-digital/</loc>
         <lastmod>2020-05-14T00:57:39.673Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,13 +269,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/msr-funciona/</loc>
-        <lastmod>2020-05-16T19:55:35.521Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-05-16T19:55:35.521Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -306,6 +278,34 @@
     <url>
         <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-05-16T19:55:35.521Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/hotmart/</loc>
+        <lastmod>2020-05-17T15:53:53.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-05-17T15:53:53.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/msr-funciona/</loc>
+        <lastmod>2020-05-17T15:53:53.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-cursomude-sua-rotina/tags/mude-sua-rotina-curso/</loc>
+        <lastmod>2020-05-17T15:53:53.638Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

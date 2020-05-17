@@ -24,22 +24,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-preco/</loc>
-        <lastmod>2020-03-17T11:32:20.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-03-19T08:50:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-03-20T11:13:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -59,14 +45,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-contem-gluten/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-original/</loc>
         <lastmod>2020-03-23T11:08:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-original/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-03-23T11:08:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,20 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man/</loc>
-        <lastmod>2020-05-08T02:16:03.462Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-05-08T02:16:03.462Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-05-08T02:16:03.462Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,14 +178,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libidman-caps/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-05-15T22:58:28.106Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-anvisa/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libidman-caps/</loc>
         <lastmod>2020-05-15T22:58:28.106Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,14 +213,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-vale-a-pena/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-anvisa/</loc>
         <lastmod>2020-05-16T19:46:02.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-anvisa/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-05-16T19:46:02.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps/</loc>
         <lastmod>2020-05-16T19:46:02.030Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-preco/</loc>
+        <lastmod>2020-05-17T15:29:57.595Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man/</loc>
+        <lastmod>2020-05-17T15:29:57.595Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-05-17T15:29:57.595Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-econfiavel-2019/tags/libidman-caps-funciona/</loc>
+        <lastmod>2020-05-17T15:29:57.595Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

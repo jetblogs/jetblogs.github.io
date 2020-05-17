@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/manga/</loc>
-        <lastmod>2020-02-07T08:11:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/desenhando/</loc>
         <lastmod>2020-02-10T09:05:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/drawing/</loc>
-        <lastmod>2020-03-12T10:30:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-03-14T09:48:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -194,20 +180,6 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/desenhando-animes/</loc>
         <lastmod>2020-03-14T09:48:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-03-20T09:49:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/videos-online/</loc>
-        <lastmod>2020-03-22T04:40:20.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -381,21 +353,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/curso-de-desenho-online/</loc>
-        <lastmod>2020-05-15T21:44:55.295Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/anime/</loc>
-        <lastmod>2020-05-15T21:44:55.295Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/curso-de-desenho/</loc>
+        <lastmod>2020-05-15T21:44:55.295Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-05-15T21:44:55.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +397,41 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/desenho/</loc>
         <lastmod>2020-05-16T18:51:03.773Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/anime/</loc>
+        <lastmod>2020-05-17T14:33:55.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/drawing/</loc>
+        <lastmod>2020-05-17T14:33:55.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/videos-online/</loc>
+        <lastmod>2020-05-17T14:33:55.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/manga/</loc>
+        <lastmod>2020-05-17T14:33:55.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-curso/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-05-17T14:33:55.692Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

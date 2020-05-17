@@ -3,22 +3,8 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-03-05T13:26:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-estimulante-sexual/</loc>
         <lastmod>2020-03-06T14:00:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-03-11T21:22:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -109,13 +95,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-03-31T07:54:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-anvisa/</loc>
         <lastmod>2020-03-31T07:54:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man/</loc>
-        <lastmod>2020-05-16T19:48:36.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-original/</loc>
         <lastmod>2020-05-16T19:48:36.948Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-05-16T19:48:36.948Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man/</loc>
+        <lastmod>2020-05-17T15:33:07.814Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-05-17T15:33:07.814Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-05-17T15:33:07.814Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-05-17T15:33:07.814Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

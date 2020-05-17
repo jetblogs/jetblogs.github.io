@@ -220,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-03-26T07:16:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenho/</loc>
         <lastmod>2020-03-26T07:16:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -332,13 +325,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/kerodesenhar/</loc>
-        <lastmod>2020-05-14T00:45:25.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/como-fazer-esboco/</loc>
         <lastmod>2020-05-14T00:45:25.115Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -409,13 +395,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenhar/</loc>
-        <lastmod>2020-05-16T18:55:05.492Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/kero-desenhar/</loc>
         <lastmod>2020-05-16T18:55:05.492Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -430,8 +409,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/kerodesenhar/</loc>
+        <lastmod>2020-05-17T14:37:55.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenhar/</loc>
+        <lastmod>2020-05-17T14:37:55.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/ead/</loc>
-        <lastmod>2020-05-16T18:55:05.492Z</lastmod>
+        <lastmod>2020-05-17T14:37:55.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-05-17T14:37:55.956Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

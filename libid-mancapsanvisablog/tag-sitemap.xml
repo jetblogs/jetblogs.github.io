@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man/</loc>
-        <lastmod>2020-02-27T08:21:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-03-07T12:09:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,21 +87,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-03-27T05:56:06.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/depoimento-libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-03-30T09:00:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/meu-depoimento-libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-03-30T09:00:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-composicao/</loc>
-        <lastmod>2020-05-15T22:58:24.057Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-05-15T22:58:24.057Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-05-16T19:45:58.282Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-05-16T19:45:58.282Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,7 +241,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-preco/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-original/</loc>
         <lastmod>2020-05-16T19:45:58.282Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-05-16T19:45:58.282Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-05-17T15:29:53.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-preco/</loc>
+        <lastmod>2020-05-17T15:29:53.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-composicao/</loc>
+        <lastmod>2020-05-17T15:29:53.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man/</loc>
+        <lastmod>2020-05-17T15:29:53.229Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

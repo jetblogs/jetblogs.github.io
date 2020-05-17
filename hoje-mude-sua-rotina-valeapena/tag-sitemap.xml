@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/plataforma-mude-sua-rotina/</loc>
-        <lastmod>2020-03-17T12:12:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/empreendedorismo/</loc>
         <lastmod>2020-03-17T12:12:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-03-31T08:40:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/msr-curso/</loc>
         <lastmod>2020-03-31T08:40:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,20 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/trabalhar-pela-internet/</loc>
-        <lastmod>2020-04-05T19:58:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/curso-msr-mude-sua-rotina/</loc>
-        <lastmod>2020-04-05T19:58:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-04-10T12:26:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,14 +150,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/hotmart/</loc>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/renda-extra/</loc>
         <lastmod>2020-05-08T04:41:56.502Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/renda-extra/</loc>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/hotmart/</loc>
         <lastmod>2020-05-08T04:41:56.502Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/trabalhar-em-casa/</loc>
-        <lastmod>2020-05-14T00:55:53.125Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/mude-sua-rotina/</loc>
         <lastmod>2020-05-14T00:55:53.125Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/msr-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/trabalhar-em-casa/</loc>
         <lastmod>2020-05-14T00:55:53.125Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -292,6 +257,41 @@
     <url>
         <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-05-16T19:54:43.071Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/trabalhar-pela-internet/</loc>
+        <lastmod>2020-05-17T15:52:55.484Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/curso-msr-mude-sua-rotina/</loc>
+        <lastmod>2020-05-17T15:52:55.484Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-05-17T15:52:55.484Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/plataforma-mude-sua-rotina/</loc>
+        <lastmod>2020-05-17T15:52:55.484Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hoje-mude-sua-rotina-valeapena/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-05-17T15:52:55.484Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

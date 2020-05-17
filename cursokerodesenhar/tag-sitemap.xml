@@ -150,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-03-07T10:17:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursokerodesenhar/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-03-07T10:17:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursokerodesenhar/tags/drawing/</loc>
-        <lastmod>2020-03-08T16:49:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/aprender-online/</loc>
         <lastmod>2020-03-08T16:49:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -257,20 +243,6 @@
     <url>
         <loc>https://jetblogs.github.io/cursokerodesenhar/tags/dragon-ball/</loc>
         <lastmod>2020-03-22T04:40:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-03-23T09:16:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/como-desenhar/</loc>
-        <lastmod>2020-03-23T09:16:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -374,13 +346,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/curso-de-manga/</loc>
-        <lastmod>2020-05-15T21:45:03.947Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursokerodesenhar/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-05-15T21:45:03.947Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -388,7 +353,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/como-desenhar-o-goku/</loc>
+        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/curso-de-manga/</loc>
         <lastmod>2020-05-15T21:45:03.947Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -396,6 +361,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursokerodesenhar/tags/curso/</loc>
+        <lastmod>2020-05-15T21:45:03.947Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-05-15T21:45:03.947Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/cursokerodesenhar/tags/aulas-online/</loc>
         <lastmod>2020-05-16T18:51:14.943Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-05-17T14:34:09.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-05-17T14:34:09.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/como-desenhar/</loc>
+        <lastmod>2020-05-17T14:34:09.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursokerodesenhar/tags/aprender-online/</loc>
+        <lastmod>2020-05-17T14:34:09.120Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

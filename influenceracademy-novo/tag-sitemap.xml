@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy/</loc>
-        <lastmod>2020-03-08T17:04:54.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy-login/</loc>
         <lastmod>2020-03-11T19:37:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,14 +108,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/facebook/</loc>
+        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/passo-a-passo/</loc>
         <lastmod>2020-03-22T05:13:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/facebook/</loc>
         <lastmod>2020-03-22T05:13:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,21 +213,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-05-03T16:58:06.209Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-novo/tags/negocios-digitais/</loc>
-        <lastmod>2020-05-03T16:58:06.209Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/gabriella-ferreira/</loc>
         <lastmod>2020-05-03T16:58:06.209Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-05-15T21:58:09.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy-funciona/</loc>
         <lastmod>2020-05-15T21:58:09.066Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -318,6 +290,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/expert-influencer-academy/</loc>
+        <lastmod>2020-05-16T19:02:28.951Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influenceracademy-novo/tags/midias-sociais/</loc>
         <lastmod>2020-05-16T19:02:28.951Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,8 +304,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/expert-influencer-academy/</loc>
-        <lastmod>2020-05-16T19:02:28.951Z</lastmod>
+        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-05-17T14:44:41.787Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-05-17T14:44:41.787Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/gabriella-ferreira/</loc>
+        <lastmod>2020-05-17T14:44:41.787Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-novo/tags/influencer-academy/</loc>
+        <lastmod>2020-05-17T14:44:41.787Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
