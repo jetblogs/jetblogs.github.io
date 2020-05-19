@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-05-15T22:09:04.823Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/rose-de-mer-kit/</loc>
         <lastmod>2020-05-15T22:09:04.823Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,6 +60,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/rose-de-mer-funciona/</loc>
+        <lastmod>2020-05-15T22:09:04.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/ensino-a-distancia/</loc>
         <lastmod>2020-05-15T22:09:04.823Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -152,6 +152,41 @@
     <url>
         <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-05-17T15:00:10.016Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/beleza/</loc>
+        <lastmod>2020-05-19T00:27:19.374Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/empreendedorismo/</loc>
+        <lastmod>2020-05-19T00:27:19.374Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/estetica/</loc>
+        <lastmod>2020-05-19T00:27:19.374Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/passo-a-passo/</loc>
+        <lastmod>2020-05-19T00:27:19.374Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-cursorosedemer/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-05-19T00:27:19.374Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

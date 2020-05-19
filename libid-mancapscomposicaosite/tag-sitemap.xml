@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-preco/</loc>
-        <lastmod>2020-03-26T09:26:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-03-27T06:03:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -123,13 +116,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-04-04T10:36:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-04-04T10:36:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -180,20 +166,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-05-14T01:07:17.572Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-05-14T01:07:17.572Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libidman-caps/</loc>
-        <lastmod>2020-05-15T23:04:25.907Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libidman-caps-preco/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-05-17T15:34:20.674Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-caps-depoimento/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libidman-caps-preco/</loc>
         <lastmod>2020-05-17T15:34:20.674Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-05-17T15:34:20.674Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libidman-caps/</loc>
+        <lastmod>2020-05-19T01:13:17.389Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-05-19T01:13:17.389Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-05-19T01:13:17.389Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomposicaosite/tags/libid-man-preco/</loc>
+        <lastmod>2020-05-19T01:13:17.389Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/estetica/</loc>
-        <lastmod>2020-03-03T13:09:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-microblading-br/tags/passo-a-passo/</loc>
         <lastmod>2020-03-05T11:42:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,21 +150,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/micropigmentacao/</loc>
-        <lastmod>2020-03-23T08:41:24.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-fio-a-fio/</loc>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-tebori/</loc>
         <lastmod>2020-03-26T06:41:20.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-tebori/</loc>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-fio-a-fio/</loc>
         <lastmod>2020-03-26T06:41:20.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-valor/</loc>
-        <lastmod>2020-04-04T09:49:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-microblading-br/tags/design-sobrancelhas/</loc>
         <lastmod>2020-04-04T09:49:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,14 +213,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/fio-a-fio/</loc>
         <lastmod>2020-04-05T16:20:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/fio-a-fio/</loc>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-para-iniciantes/</loc>
         <lastmod>2020-04-05T16:20:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,13 +297,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-e-micropigmentacao/</loc>
-        <lastmod>2020-05-15T22:32:12.063Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-microblading-br/tags/designer-de-sobrancelhas/</loc>
         <lastmod>2020-05-15T22:32:12.063Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -388,6 +360,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/certificacao-internacional/</loc>
+        <lastmod>2020-05-17T14:45:05.086Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/curso-microblading-br/tags/curso-online-de-microblading/</loc>
         <lastmod>2020-05-17T14:45:05.086Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -409,15 +388,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/certificacao-internacional/</loc>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/beleza/</loc>
         <lastmod>2020-05-17T14:45:05.086Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-br/tags/beleza/</loc>
-        <lastmod>2020-05-17T14:45:05.086Z</lastmod>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-e-micropigmentacao/</loc>
+        <lastmod>2020-05-19T00:10:54.125Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/estetica/</loc>
+        <lastmod>2020-05-19T00:10:54.125Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/micropigmentacao/</loc>
+        <lastmod>2020-05-19T00:10:54.125Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-br/tags/microblading-valor/</loc>
+        <lastmod>2020-05-19T00:10:54.125Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

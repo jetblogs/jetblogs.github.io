@@ -129,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/curso-de-microblading/</loc>
-        <lastmod>2020-03-20T09:24:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/micropigmentacao/</loc>
         <lastmod>2020-03-22T03:58:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -152,13 +145,6 @@
     <url>
         <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-avancado/</loc>
         <lastmod>2020-03-26T06:41:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/empreendedorismo/</loc>
-        <lastmod>2020-03-29T18:35:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -192,14 +178,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-preco/</loc>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-para-iniciantes/</loc>
         <lastmod>2020-03-31T07:00:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-preco/</loc>
         <lastmod>2020-03-31T07:00:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -249,13 +235,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/online/</loc>
-        <lastmod>2020-04-05T16:20:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-basico/</loc>
         <lastmod>2020-04-05T16:20:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,22 +297,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/certificado-internacional/</loc>
-        <lastmod>2020-05-14T00:56:34.285Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/curso-de-microblading-3d/</loc>
         <lastmod>2020-05-14T00:56:34.285Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-fio-a-fio/</loc>
-        <lastmod>2020-05-15T22:32:00.371Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -409,15 +374,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/curso/</loc>
         <lastmod>2020-05-17T14:44:41.518Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/curso/</loc>
-        <lastmod>2020-05-17T14:44:41.518Z</lastmod>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/empreendedorismo/</loc>
+        <lastmod>2020-05-19T00:10:12.417Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/passo-a-passo/</loc>
+        <lastmod>2020-05-19T00:10:12.417Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-fio-a-fio/</loc>
+        <lastmod>2020-05-19T00:10:12.417Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/microblading-basico/</loc>
+        <lastmod>2020-05-19T00:10:12.417Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/curso-de-microblading/</loc>
+        <lastmod>2020-05-19T00:10:12.417Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comofazer-microblading-onlineblog/tags/certificado-internacional/</loc>
+        <lastmod>2020-05-19T00:10:12.417Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

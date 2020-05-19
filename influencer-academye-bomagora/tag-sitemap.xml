@@ -178,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-gabi-ferreira/</loc>
-        <lastmod>2020-05-03T16:59:01.107Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-youtuber/</loc>
         <lastmod>2020-05-14T00:55:38.475Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/ead/</loc>
-        <lastmod>2020-05-16T19:04:20.398Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/marketing-digital/</loc>
         <lastmod>2020-05-16T19:04:20.398Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-download/</loc>
-        <lastmod>2020-05-17T14:46:27.922Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-facebook/</loc>
         <lastmod>2020-05-17T14:46:27.922Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,7 +262,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/academy/</loc>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-download/</loc>
         <lastmod>2020-05-17T14:46:27.922Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,6 +278,34 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/facebook/</loc>
         <lastmod>2020-05-17T14:46:27.922Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/ead/</loc>
+        <lastmod>2020-05-19T00:10:53.098Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/academy/</loc>
+        <lastmod>2020-05-19T00:10:53.098Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-gabi-ferreira/</loc>
+        <lastmod>2020-05-19T00:10:53.098Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/carreiras/</loc>
+        <lastmod>2020-05-19T00:10:53.098Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

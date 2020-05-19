@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/drawing/</loc>
-        <lastmod>2020-03-03T13:51:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/curso/</loc>
         <lastmod>2020-03-03T13:51:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,8 +87,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/dragon-ball/</loc>
-        <lastmod>2020-03-06T12:01:10.000Z</lastmod>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/drawing/</loc>
+        <lastmod>2020-03-03T13:51:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -311,21 +304,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-05-14T00:43:58.481Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-05-14T00:43:58.481Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-fazer-esboco/</loc>
         <lastmod>2020-05-14T00:43:58.481Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -339,8 +318,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-aprender-a-desenhar-do-zero/</loc>
-        <lastmod>2020-05-15T21:46:19.798Z</lastmod>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-05-14T00:43:58.481Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -353,7 +332,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-desenhar-animes/</loc>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-05-15T21:46:19.798Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,6 +395,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/curso-de-desenho/</loc>
+        <lastmod>2020-05-17T14:36:15.864Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-05-17T14:36:15.864Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -423,15 +409,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/speed-drawing/</loc>
-        <lastmod>2020-05-17T14:36:15.864Z</lastmod>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-05-18T23:54:01.361Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/curso-de-desenho/</loc>
-        <lastmod>2020-05-17T14:36:15.864Z</lastmod>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-05-18T23:54:01.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/dragon-ball/</loc>
+        <lastmod>2020-05-18T23:54:01.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/speed-drawing/</loc>
+        <lastmod>2020-05-18T23:54:01.361Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

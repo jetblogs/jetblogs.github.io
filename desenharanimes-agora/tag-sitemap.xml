@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar/</loc>
-        <lastmod>2020-03-01T14:05:12.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/a-distancia/</loc>
         <lastmod>2020-03-02T08:33:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,21 +122,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-aprender-a-desenhar-do-zero/</loc>
-        <lastmod>2020-03-11T19:10:20.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-03-12T10:30:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-03-12T10:30:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-05-03T16:03:43.605Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-05-03T16:03:43.605Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -402,13 +374,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/dragon-ball-super/</loc>
-        <lastmod>2020-05-17T14:34:37.987Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenho/</loc>
         <lastmod>2020-05-17T14:34:37.987Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -437,8 +402,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-05-18T23:51:58.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-05-18T23:51:58.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar/</loc>
+        <lastmod>2020-05-18T23:51:58.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-05-17T14:34:37.987Z</lastmod>
+        <lastmod>2020-05-18T23:51:58.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/dragon-ball-super/</loc>
+        <lastmod>2020-05-18T23:51:58.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-05-18T23:51:58.771Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

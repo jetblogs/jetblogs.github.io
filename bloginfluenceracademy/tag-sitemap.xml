@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/curso-influencer-academy/</loc>
-        <lastmod>2020-02-01T14:15:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/influenciador-de-midias/</loc>
         <lastmod>2020-02-14T12:30:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/academy/</loc>
-        <lastmod>2020-03-22T05:12:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/influencer-academy-instagram/</loc>
         <lastmod>2020-03-22T05:12:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -110,13 +96,6 @@
     <url>
         <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/curso-a-distancia/</loc>
         <lastmod>2020-03-23T09:44:24.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/curso-online/</loc>
-        <lastmod>2020-03-26T07:37:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -311,13 +290,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/expert-influencer-academy/</loc>
-        <lastmod>2020-05-17T14:43:35.184Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/negocios-digitais/</loc>
         <lastmod>2020-05-17T14:43:35.184Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/carreiras/</loc>
         <lastmod>2020-05-17T14:43:35.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/curso-online/</loc>
+        <lastmod>2020-05-19T00:05:14.801Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/academy/</loc>
+        <lastmod>2020-05-19T00:05:14.801Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/curso-influencer-academy/</loc>
+        <lastmod>2020-05-19T00:05:14.801Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloginfluenceracademy/tags/expert-influencer-academy/</loc>
+        <lastmod>2020-05-19T00:05:14.801Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

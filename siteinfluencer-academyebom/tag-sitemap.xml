@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/siteinfluencer-academyebom/tags/facebook/</loc>
-        <lastmod>2020-05-03T17:02:06.792Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/siteinfluencer-academyebom/tags/influencer-academy-da-gabi/</loc>
         <lastmod>2020-05-03T17:02:06.792Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,8 +115,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/siteinfluencer-academyebom/tags/facebook/</loc>
+        <lastmod>2020-05-19T00:23:12.951Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/siteinfluencer-academyebom/tags/influencer-academy-reviews/</loc>
+        <lastmod>2020-05-19T00:23:12.951Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/siteinfluencer-academyebom/tags/influencer/</loc>
-        <lastmod>2020-05-17T14:57:20.131Z</lastmod>
+        <lastmod>2020-05-19T00:23:12.951Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/siteinfluencer-academyebom/tags/academia-de-influenciadores/</loc>
+        <lastmod>2020-05-19T00:23:12.951Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
