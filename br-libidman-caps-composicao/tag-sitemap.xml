@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-03-23T11:10:52.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-03-23T11:10:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-03-31T07:52:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-03-31T07:52:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +74,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-04-04T10:33:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-original/</loc>
         <lastmod>2020-04-04T10:33:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -151,13 +130,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-onde-comprar/</loc>
-        <lastmod>2020-05-08T02:18:04.900Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-05-08T02:18:04.900Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,14 +220,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-05-19T01:10:38.588Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-mercado-livre/</loc>
+        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps/</loc>
         <lastmod>2020-05-19T01:10:38.588Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +248,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-05-19T21:50:46.075Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-05-19T21:50:46.075Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-05-19T21:50:46.075Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-05-19T21:50:46.075Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/br-libidman-caps-composicao/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-05-19T01:10:38.588Z</lastmod>
+        <lastmod>2020-05-19T21:50:46.075Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

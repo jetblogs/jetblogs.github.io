@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/aula-de-desenho/</loc>
-        <lastmod>2020-02-26T02:41:06.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/aulas-online/</loc>
         <lastmod>2020-02-27T06:26:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -116,13 +109,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/curso-de-desenho/</loc>
-        <lastmod>2020-03-08T16:51:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-03-08T16:51:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-03-27T03:55:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/speed-drawing/</loc>
         <lastmod>2020-03-27T03:55:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/goku/</loc>
-        <lastmod>2020-05-03T16:05:08.213Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-05-03T16:05:08.213Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -270,6 +242,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/curso-de-manga/</loc>
+        <lastmod>2020-05-03T16:05:08.213Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/goku/</loc>
         <lastmod>2020-05-03T16:05:08.213Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/desenhar/</loc>
-        <lastmod>2020-05-17T14:38:05.397Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/anime/</loc>
         <lastmod>2020-05-17T14:38:05.397Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -432,6 +404,34 @@
     <url>
         <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-05-18T23:56:09.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/kerodesenhar-funciona/</loc>
+        <lastmod>2020-05-19T20:55:41.048Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-05-19T20:55:41.048Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/desenhar/</loc>
+        <lastmod>2020-05-19T20:55:41.048Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-kerodesenharcurso/tags/aula-de-desenho/</loc>
+        <lastmod>2020-05-19T20:55:41.048Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

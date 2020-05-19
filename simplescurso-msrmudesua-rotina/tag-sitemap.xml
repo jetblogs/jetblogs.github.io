@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/msr-resultados/</loc>
-        <lastmod>2020-03-20T11:59:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-03-27T06:56:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/afiliados/</loc>
-        <lastmod>2020-04-10T12:28:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/empreendedorismo/</loc>
         <lastmod>2020-04-10T12:28:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,20 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/msr-funciona/</loc>
-        <lastmod>2020-05-14T01:00:20.400Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-05-15T23:01:00.068Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/hotmart/</loc>
         <lastmod>2020-05-15T23:01:00.068Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -243,13 +215,6 @@
     <url>
         <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/msr-mude-sua-rotina-logo/</loc>
         <lastmod>2020-05-16T19:56:41.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/marketing-de-afiliados/</loc>
-        <lastmod>2020-05-17T15:55:14.769Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -306,6 +271,41 @@
     <url>
         <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-05-19T01:23:01.210Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <lastmod>2020-05-19T22:14:04.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/msr-resultados/</loc>
+        <lastmod>2020-05-19T22:14:04.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/marketing-de-afiliados/</loc>
+        <lastmod>2020-05-19T22:14:04.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/afiliados/</loc>
+        <lastmod>2020-05-19T22:14:04.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-msrmudesua-rotina/tags/msr-funciona/</loc>
+        <lastmod>2020-05-19T22:14:04.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

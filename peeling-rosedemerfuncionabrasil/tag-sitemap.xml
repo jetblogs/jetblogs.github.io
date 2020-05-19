@@ -311,13 +311,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/ead/</loc>
-        <lastmod>2020-03-27T05:10:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/curso-de-peeling-rose-de-mer/</loc>
         <lastmod>2020-03-27T05:10:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -388,21 +381,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/curso-a-distancia/</loc>
-        <lastmod>2020-05-13T06:17:35.544Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/peeling-rose-de-mer-e-bom/</loc>
-        <lastmod>2020-05-14T00:57:45.035Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/peeling-rose-de-mer-doi/</loc>
         <lastmod>2020-05-14T00:57:45.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -445,13 +424,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/rose-de-mer-peeling-antes-e-depois/</loc>
-        <lastmod>2020-05-16T19:04:50.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/tratamento-rose-de-mer/</loc>
         <lastmod>2020-05-16T19:04:50.813Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -530,6 +502,34 @@
     <url>
         <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-05-19T00:12:00.968Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/ead/</loc>
+        <lastmod>2020-05-19T21:04:52.018Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/peeling-rose-de-mer-doi/</loc>
+        <lastmod>2020-05-19T21:04:52.018Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/curso-a-distancia/</loc>
+        <lastmod>2020-05-19T21:04:52.018Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/peeling-rosedemerfuncionabrasil/tags/tratamento-rose-de-mer/</loc>
+        <lastmod>2020-05-19T21:04:52.018Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

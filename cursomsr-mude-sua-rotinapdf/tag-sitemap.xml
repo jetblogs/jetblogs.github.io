@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/hotmart/</loc>
-        <lastmod>2020-03-20T12:00:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/eduzz/</loc>
         <lastmod>2020-03-22T07:45:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,13 +46,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/msr-resultados/</loc>
-        <lastmod>2020-03-22T07:45:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-03-22T07:45:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -80,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-03-27T06:57:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-03-27T06:57:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,14 +73,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/monetizze/</loc>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-03-31T08:45:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/plataforma-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/monetizze/</loc>
         <lastmod>2020-03-31T08:45:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -130,13 +109,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/msr-mude-sua-rotina-logo/</loc>
-        <lastmod>2020-04-05T20:01:54.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/treinamento-mude-sua-rotina/</loc>
         <lastmod>2020-04-05T20:01:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/afiliado-iniciante/</loc>
-        <lastmod>2020-05-17T15:56:05.027Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/afiliado/</loc>
         <lastmod>2020-05-19T01:23:45.156Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -299,6 +264,48 @@
     <url>
         <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-05-19T01:23:45.156Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-05-19T22:15:44.251Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/afiliado-iniciante/</loc>
+        <lastmod>2020-05-19T22:15:44.251Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-05-19T22:15:44.251Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/treinamento-mude-sua-rotina/</loc>
+        <lastmod>2020-05-19T22:15:44.251Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/hotmart/</loc>
+        <lastmod>2020-05-19T22:15:44.251Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomsr-mude-sua-rotinapdf/tags/trabalhar-pela-internet/</loc>
+        <lastmod>2020-05-19T22:15:44.251Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

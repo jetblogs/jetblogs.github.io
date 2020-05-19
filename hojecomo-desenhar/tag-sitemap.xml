@@ -311,13 +311,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/goku/</loc>
-        <lastmod>2020-05-03T16:04:06.859Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-05-14T00:42:58.869Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,21 +346,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-05-16T18:52:16.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/aula-de-desenho/</loc>
-        <lastmod>2020-05-16T18:52:16.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/ead/</loc>
         <lastmod>2020-05-16T18:52:16.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -425,6 +404,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-05-18T23:52:44.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-05-19T20:53:46.301Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/ead/</loc>
+        <lastmod>2020-05-19T20:53:46.301Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-05-19T20:53:46.301Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/goku/</loc>
+        <lastmod>2020-05-19T20:53:46.301Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

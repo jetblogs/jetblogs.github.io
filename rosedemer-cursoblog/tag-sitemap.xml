@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/curso-ead/</loc>
-        <lastmod>2020-02-13T14:48:16.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/peeling-rose-de-mer-e-bom/</loc>
         <lastmod>2020-02-13T14:48:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -159,13 +152,6 @@
     <url>
         <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-03-08T17:26:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/peeling-rose-de-mer-curso/</loc>
-        <lastmod>2020-03-10T21:22:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -312,13 +298,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/peeling-rose-de-mer-preco/</loc>
-        <lastmod>2020-03-27T04:52:24.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/rose-de-mer/</loc>
         <lastmod>2020-03-27T04:52:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -528,8 +507,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/peeling-rose-de-mer-curso/</loc>
+        <lastmod>2020-05-19T20:41:45.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/rose-de-mer/</loc>
+        <lastmod>2020-05-19T20:41:45.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/curso-ead/</loc>
+        <lastmod>2020-05-19T20:41:45.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/rosedemer-cursoblog/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-05-18T23:31:54.932Z</lastmod>
+        <lastmod>2020-05-19T20:41:45.640Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

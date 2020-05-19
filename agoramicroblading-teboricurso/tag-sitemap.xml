@@ -52,20 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/beleza/</loc>
-        <lastmod>2020-02-16T20:13:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/microblading-preco/</loc>
-        <lastmod>2020-03-02T08:00:12.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/curso-de-micropigmentacao/</loc>
         <lastmod>2020-03-06T11:22:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/como-fazer-fio-a-fio/</loc>
-        <lastmod>2020-03-26T06:40:06.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/design-de-sobrancelhas/</loc>
         <lastmod>2020-03-26T06:40:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,8 +150,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/curso-a-distancia/</loc>
-        <lastmod>2020-03-27T03:22:26.000Z</lastmod>
+        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/como-fazer-fio-a-fio/</loc>
+        <lastmod>2020-03-26T06:40:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -227,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/maquiagem/</loc>
-        <lastmod>2020-04-05T16:19:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/sobrancelhas/</loc>
         <lastmod>2020-04-05T16:19:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,13 +228,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/maquiagem-definitiva/</loc>
-        <lastmod>2020-05-14T00:55:15.396Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/microblading/</loc>
         <lastmod>2020-05-14T00:55:15.396Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -374,13 +339,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/treinamento-passo-a-passo/</loc>
-        <lastmod>2020-05-17T14:43:43.134Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-05-17T14:43:43.134Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -411,6 +369,48 @@
     <url>
         <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/curso-de-microblading-barato/</loc>
         <lastmod>2020-05-19T00:07:44.541Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/beleza/</loc>
+        <lastmod>2020-05-19T21:02:29.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/microblading-preco/</loc>
+        <lastmod>2020-05-19T21:02:29.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/curso-a-distancia/</loc>
+        <lastmod>2020-05-19T21:02:29.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-05-19T21:02:29.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/microblading/</loc>
+        <lastmod>2020-05-19T21:02:29.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoramicroblading-teboricurso/tags/maquiagem/</loc>
+        <lastmod>2020-05-19T21:02:29.172Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

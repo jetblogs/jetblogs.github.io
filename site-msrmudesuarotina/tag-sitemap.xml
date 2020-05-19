@@ -52,22 +52,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/negocios-online/</loc>
-        <lastmod>2020-03-23T11:46:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/marketing-digital/</loc>
         <lastmod>2020-03-26T10:14:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/eduzz/</loc>
-        <lastmod>2020-03-30T09:40:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,20 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/empreendedorismo/</loc>
-        <lastmod>2020-05-16T19:54:35.393Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-05-17T15:52:41.863Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/afiliados/</loc>
         <lastmod>2020-05-17T15:52:41.863Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -299,6 +271,34 @@
     <url>
         <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-05-19T01:21:05.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-05-19T22:09:42.068Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/negocios-online/</loc>
+        <lastmod>2020-05-19T22:09:42.068Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/eduzz/</loc>
+        <lastmod>2020-05-19T22:09:42.068Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-msrmudesuarotina/tags/empreendedorismo/</loc>
+        <lastmod>2020-05-19T22:09:42.068Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

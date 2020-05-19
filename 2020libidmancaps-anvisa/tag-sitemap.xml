@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-03-10T22:10:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-03-12T11:55:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,20 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-05-14T01:00:56.799Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps/</loc>
-        <lastmod>2020-05-14T01:00:56.799Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-05-14T01:00:56.799Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-05-16T19:47:30.391Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-05-16T19:47:30.391Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,21 +213,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-05-19T01:10:21.380Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-05-19T01:10:21.380Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-anvisa/</loc>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libidman-caps/</loc>
         <lastmod>2020-05-19T01:10:21.380Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,7 +227,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libidman-caps/</loc>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-anvisa/</loc>
         <lastmod>2020-05-19T01:10:21.380Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-05-19T01:10:21.380Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-05-19T21:50:23.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-05-19T21:50:23.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-05-19T21:50:23.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libid-man-caps/</loc>
+        <lastmod>2020-05-19T21:50:23.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-05-19T21:50:23.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidmancaps-anvisa/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-05-19T21:50:23.261Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
