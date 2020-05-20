@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/beleza/</loc>
-        <lastmod>2020-03-23T08:42:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/design-de-sobrancelhas/</loc>
         <lastmod>2020-03-26T06:42:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,20 +130,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/curso-de-microblading-avancado/</loc>
-        <lastmod>2020-03-31T07:02:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/carreiras/</loc>
-        <lastmod>2020-03-31T07:02:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/online/</loc>
         <lastmod>2020-03-31T07:02:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -339,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/curso-de-micropigmentacao/</loc>
-        <lastmod>2020-05-19T00:14:26.209Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/estetica/</loc>
         <lastmod>2020-05-19T00:14:26.209Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -376,6 +348,34 @@
     <url>
         <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/curso-a-distancia/</loc>
         <lastmod>2020-05-19T21:05:31.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/beleza/</loc>
+        <lastmod>2020-05-20T20:18:19.364Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/curso-de-micropigmentacao/</loc>
+        <lastmod>2020-05-20T20:18:19.364Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/carreiras/</loc>
+        <lastmod>2020-05-20T20:18:19.364Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simples-microblading-brasilonline/tags/online/</loc>
+        <lastmod>2020-05-20T20:18:19.364Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

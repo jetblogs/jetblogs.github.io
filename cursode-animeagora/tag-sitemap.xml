@@ -129,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/a-distancia/</loc>
-        <lastmod>2020-05-03T16:05:21.551Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/online/</loc>
         <lastmod>2020-05-03T16:05:21.551Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -165,13 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenho/</loc>
-        <lastmod>2020-05-15T21:47:43.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-05-15T21:47:43.673Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-05-18T23:56:56.952Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-naruto/</loc>
         <lastmod>2020-05-18T23:56:56.952Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball/</loc>
-        <lastmod>2020-05-19T20:56:55.072Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhar-do-zero/</loc>
         <lastmod>2020-05-19T20:56:55.072Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -299,6 +271,48 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhar-manga/</loc>
         <lastmod>2020-05-19T20:56:55.072Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-05-20T20:09:58.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/a-distancia/</loc>
+        <lastmod>2020-05-20T20:09:58.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball/</loc>
+        <lastmod>2020-05-20T20:09:58.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-anime-e-manga/</loc>
+        <lastmod>2020-05-20T20:09:58.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/aulas-online/</loc>
+        <lastmod>2020-05-20T20:09:58.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-05-20T20:09:58.261Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

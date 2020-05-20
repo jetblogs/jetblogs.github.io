@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/curso-online/</loc>
-        <lastmod>2020-03-19T07:11:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-03-19T07:11:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -110,13 +103,6 @@
     <url>
         <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-03-27T04:18:12.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/passo-a-passo/</loc>
-        <lastmod>2020-03-30T19:47:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,6 +199,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-gratis/</loc>
+        <lastmod>2020-05-17T14:44:12.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-instagram/</loc>
         <lastmod>2020-05-17T14:44:12.982Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,7 +220,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-gratis/</loc>
+        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/midias-sociais/</loc>
         <lastmod>2020-05-17T14:44:12.982Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -236,27 +229,6 @@
     <url>
         <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/expert-influencer-academy/</loc>
         <lastmod>2020-05-17T14:44:12.982Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influenciador-digital/</loc>
-        <lastmod>2020-05-17T14:44:12.982Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/midias-sociais/</loc>
-        <lastmod>2020-05-17T14:44:12.982Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-facebook/</loc>
-        <lastmod>2020-05-19T00:06:17.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -304,13 +276,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-funciona/</loc>
-        <lastmod>2020-05-19T21:01:25.270Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/academia-de-influenciadores/</loc>
         <lastmod>2020-05-19T21:01:25.270Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,8 +290,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-funciona/</loc>
+        <lastmod>2020-05-20T20:15:41.495Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influencer-academy-facebook/</loc>
+        <lastmod>2020-05-20T20:15:41.495Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/passo-a-passo/</loc>
+        <lastmod>2020-05-20T20:15:41.495Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/curso-online/</loc>
+        <lastmod>2020-05-20T20:15:41.495Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/carreiras/</loc>
-        <lastmod>2020-05-19T21:01:25.270Z</lastmod>
+        <lastmod>2020-05-20T20:15:41.495Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brinfluenceracademy-e-bom/tags/influenciador-digital/</loc>
+        <lastmod>2020-05-20T20:15:41.495Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

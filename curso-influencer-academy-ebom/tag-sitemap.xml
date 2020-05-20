@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer/</loc>
-        <lastmod>2020-02-06T08:49:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer-academy/</loc>
         <lastmod>2020-02-08T11:42:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,22 +108,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer-academy-reviews/</loc>
-        <lastmod>2020-03-27T04:17:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer-academy-youtuber/</loc>
         <lastmod>2020-03-27T04:17:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/curso-a-distancia/</loc>
-        <lastmod>2020-04-05T17:10:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -248,7 +227,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/midias-sociais/</loc>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/online/</loc>
         <lastmod>2020-05-17T14:43:22.710Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -256,13 +235,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/marketing-digital/</loc>
-        <lastmod>2020-05-17T14:43:22.710Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/online/</loc>
         <lastmod>2020-05-17T14:43:22.710Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,27 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/negocios-digitais/</loc>
-        <lastmod>2020-05-19T00:04:55.107Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/digital-influencer/</loc>
-        <lastmod>2020-05-19T00:04:55.107Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer-academy-facebook/</loc>
-        <lastmod>2020-05-19T21:00:31.708Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/passo-a-passo/</loc>
         <lastmod>2020-05-19T21:00:31.708Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,6 +278,55 @@
     <url>
         <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/academia-de-influenciadores/</loc>
         <lastmod>2020-05-19T21:00:31.708Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer-academy-facebook/</loc>
+        <lastmod>2020-05-19T21:00:31.708Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer-academy-reviews/</loc>
+        <lastmod>2020-05-20T20:14:51.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/midias-sociais/</loc>
+        <lastmod>2020-05-20T20:14:51.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/negocios-digitais/</loc>
+        <lastmod>2020-05-20T20:14:51.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/influencer/</loc>
+        <lastmod>2020-05-20T20:14:51.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/digital-influencer/</loc>
+        <lastmod>2020-05-20T20:14:51.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-influencer-academy-ebom/tags/curso-a-distancia/</loc>
+        <lastmod>2020-05-20T20:14:51.910Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

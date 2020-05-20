@@ -143,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/online/</loc>
-        <lastmod>2020-03-23T08:39:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/tebori/</loc>
         <lastmod>2020-03-27T03:21:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,13 +297,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/sobrancelhas-design/</loc>
-        <lastmod>2020-05-16T19:00:24.266Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/microblading-basico/</loc>
         <lastmod>2020-05-16T19:00:24.266Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -320,20 +306,6 @@
     <url>
         <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/design-sobrancelhas/</loc>
         <lastmod>2020-05-16T19:00:24.266Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/cursos-microblading/</loc>
-        <lastmod>2020-05-17T14:42:53.364Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/maquiagem-definitiva/</loc>
-        <lastmod>2020-05-17T14:42:53.364Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -353,15 +325,15 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/designer-de-sobrancelhas/</loc>
+        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/maquiagem-definitiva/</loc>
         <lastmod>2020-05-17T14:42:53.364Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/curso-ead/</loc>
-        <lastmod>2020-05-19T00:06:21.263Z</lastmod>
+        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/designer-de-sobrancelhas/</loc>
+        <lastmod>2020-05-17T14:42:53.364Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -381,7 +353,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/maquiagem/</loc>
+        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/curso-ead/</loc>
         <lastmod>2020-05-19T00:06:21.263Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -418,6 +390,34 @@
     <url>
         <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/microblading-preco/</loc>
         <lastmod>2020-05-19T21:01:36.119Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/cursos-microblading/</loc>
+        <lastmod>2020-05-20T20:14:28.815Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/maquiagem/</loc>
+        <lastmod>2020-05-20T20:14:28.815Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/online/</loc>
+        <lastmod>2020-05-20T20:14:28.815Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil-agora/tags/sobrancelhas-design/</loc>
+        <lastmod>2020-05-20T20:14:28.815Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

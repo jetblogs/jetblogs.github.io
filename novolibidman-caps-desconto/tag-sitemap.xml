@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-02-28T20:50:52.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-03-11T21:23:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,13 +12,6 @@
     <url>
         <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-03-11T21:23:12.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-03-20T11:17:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -67,13 +53,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-composicao/</loc>
-        <lastmod>2020-03-30T09:05:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-03-30T09:05:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,14 +129,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-como-tomar/</loc>
+        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-05-15T23:03:37.789Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libidman-caps/</loc>
+        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-05-15T23:03:37.789Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,7 +150,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-mercado-livre/</loc>
+        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libidman-caps/</loc>
         <lastmod>2020-05-15T23:03:37.789Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -193,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-05-16T19:49:03.404Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-05-16T19:49:03.404Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-05-19T21:54:21.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-05-20T21:09:31.813Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-05-20T21:09:31.813Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-05-20T21:09:31.813Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibidman-caps-desconto/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-05-20T21:09:31.813Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

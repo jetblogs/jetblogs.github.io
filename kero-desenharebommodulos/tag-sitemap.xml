@@ -164,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-03-23T09:19:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/ead/</loc>
         <lastmod>2020-03-23T09:19:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -214,13 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-evoluir-nos-meus-desenhos/</loc>
-        <lastmod>2020-03-30T19:13:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-desenhar-animes/</loc>
         <lastmod>2020-03-30T19:13:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -297,13 +283,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-05-15T21:47:10.643Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-05-16T18:55:00.576Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,13 +332,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-05-18T23:55:46.272Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-05-18T23:55:46.272Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -368,6 +340,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-05-18T23:55:46.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/desenhar-do-zero/</loc>
         <lastmod>2020-05-18T23:55:46.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -409,13 +388,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-05-19T20:55:28.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/kero-desenhar/</loc>
         <lastmod>2020-05-19T20:55:28.887Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -425,6 +397,34 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/dragon-ball/</loc>
         <lastmod>2020-05-19T20:55:28.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-05-20T20:09:10.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-05-20T20:09:10.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-05-20T20:09:10.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-05-20T20:09:10.890Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

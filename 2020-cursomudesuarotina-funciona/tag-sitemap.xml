@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/msr-mude-sua-rotina/</loc>
-        <lastmod>2020-05-17T15:57:43.446Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-05-19T01:25:07.036Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/eduzz/</loc>
-        <lastmod>2020-05-19T01:25:07.036Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/liberdade-financeira/</loc>
         <lastmod>2020-05-19T22:18:48.906Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,22 +157,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/renda-extra/</loc>
+        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-05-19T22:18:48.906Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-05-20T21:28:33.790Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/monetizze/</loc>
-        <lastmod>2020-05-19T22:18:48.906Z</lastmod>
+        <lastmod>2020-05-20T21:28:33.790Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/mude-sua-rotina-depoimento/</loc>
-        <lastmod>2020-05-19T22:18:48.906Z</lastmod>
+        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/eduzz/</loc>
+        <lastmod>2020-05-20T21:28:33.790Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-cursomudesuarotina-funciona/tags/renda-extra/</loc>
+        <lastmod>2020-05-20T21:28:33.790Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

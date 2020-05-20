@@ -45,20 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-03-23T11:16:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-03-26T09:29:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-03-26T09:29:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,13 +82,6 @@
     <url>
         <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-04-04T10:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-funciona-mesmo/</loc>
-        <lastmod>2020-04-05T19:03:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-05-17T15:36:06.038Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man/</loc>
         <lastmod>2020-05-17T15:36:06.038Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-05-19T01:15:03.415Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-05-19T01:15:03.415Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,6 +186,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-05-19T01:15:03.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-05-19T01:15:03.415Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -257,6 +229,34 @@
     <url>
         <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-05-19T22:00:21.141Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-05-20T21:11:21.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-05-20T21:11:21.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-05-20T21:11:21.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitelibid-mancapsdepoimento/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-05-20T21:11:21.614Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
