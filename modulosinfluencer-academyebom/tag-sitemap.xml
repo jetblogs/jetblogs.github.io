@@ -66,22 +66,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/youtube/</loc>
-        <lastmod>2020-05-17T15:00:31.776Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/ead/</loc>
         <lastmod>2020-05-17T15:00:31.776Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/influenciador-de-midias/</loc>
-        <lastmod>2020-05-19T00:28:15.237Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -101,7 +87,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/influencer-academy-gratis/</loc>
+        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/influenciador-de-midias/</loc>
         <lastmod>2020-05-19T00:28:15.237Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,8 +157,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/influencer-academy-gratis/</loc>
+        <lastmod>2020-05-21T10:54:28.931Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/youtube/</loc>
+        <lastmod>2020-05-21T10:54:28.931Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/influenciador-digital/</loc>
-        <lastmod>2020-05-20T20:27:42.171Z</lastmod>
+        <lastmod>2020-05-21T10:54:28.931Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/midias-sociais/</loc>
+        <lastmod>2020-05-21T10:54:28.931Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulosinfluencer-academyebom/tags/academy/</loc>
+        <lastmod>2020-05-21T10:54:28.931Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

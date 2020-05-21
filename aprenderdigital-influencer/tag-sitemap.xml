@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/curso-a-distancia/</loc>
-        <lastmod>2020-03-30T19:49:06.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/influencer-academy-vale-a-pena/</loc>
         <lastmod>2020-04-05T17:14:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,13 +89,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/influencer-academy-download/</loc>
         <lastmod>2020-05-03T16:58:59.058Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-05-14T00:55:33.082Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,14 +199,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/influencer-academy-turma-2/</loc>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/academy/</loc>
         <lastmod>2020-05-19T21:03:46.466Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/academy/</loc>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-05-19T21:03:46.466Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +262,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/curso-a-distancia/</loc>
+        <lastmod>2020-05-21T10:42:55.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/ensino-a-distancia/</loc>
+        <lastmod>2020-05-21T10:42:55.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/curso-online/</loc>
-        <lastmod>2020-05-20T20:17:58.634Z</lastmod>
+        <lastmod>2020-05-21T10:42:55.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencer/tags/influencer-academy-reclame-aqui/</loc>
+        <lastmod>2020-05-21T10:42:55.776Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

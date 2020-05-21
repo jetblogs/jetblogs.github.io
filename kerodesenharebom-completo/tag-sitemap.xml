@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenhar/</loc>
-        <lastmod>2020-02-10T09:07:52.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/para-iniciantes/</loc>
         <lastmod>2020-02-10T09:07:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/dragon-ball-super/</loc>
-        <lastmod>2020-03-26T07:15:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenhar-manga/</loc>
         <lastmod>2020-03-26T07:15:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,13 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/anime/</loc>
-        <lastmod>2020-03-27T03:55:16.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenhando-animes/</loc>
         <lastmod>2020-03-27T03:55:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -339,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/aprender-online/</loc>
-        <lastmod>2020-05-17T14:37:37.696Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-05-18T23:55:22.072Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,13 +388,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-05-20T20:08:56.977Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-05-20T20:08:56.977Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -432,6 +397,41 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/aulas-online/</loc>
         <lastmod>2020-05-20T20:08:56.977Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/dragon-ball-super/</loc>
+        <lastmod>2020-05-21T12:24:44.481Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenhar/</loc>
+        <lastmod>2020-05-21T12:24:44.481Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-05-21T12:24:44.481Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenhando-animes/</loc>
+        <lastmod>2020-05-21T12:24:44.481Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/aprender-online/</loc>
+        <lastmod>2020-05-21T12:24:44.481Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

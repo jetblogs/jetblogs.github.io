@@ -171,13 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/ead/</loc>
-        <lastmod>2020-03-19T08:09:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/carreiras/</loc>
         <lastmod>2020-03-20T10:44:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/estetica/</loc>
-        <lastmod>2020-03-27T05:15:52.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/peeling-rose-de-mer-cuidados/</loc>
         <lastmod>2020-03-27T05:15:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -339,22 +325,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/rose-de-mer-kit/</loc>
-        <lastmod>2020-05-14T01:05:16.840Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/rosedemer/</loc>
         <lastmod>2020-05-15T22:06:50.172Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/curso-peeling-rose-de-mer/</loc>
-        <lastmod>2020-05-16T19:11:01.489Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -516,6 +488,34 @@
     <url>
         <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/peeling-do-mar-morto/</loc>
         <lastmod>2020-05-20T20:23:55.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/curso-peeling-rose-de-mer/</loc>
+        <lastmod>2020-05-21T10:50:29.891Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/rose-de-mer-kit/</loc>
+        <lastmod>2020-05-21T10:50:29.891Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/estetica/</loc>
+        <lastmod>2020-05-21T10:50:29.891Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursorose-de-mer-hoje/tags/ead/</loc>
+        <lastmod>2020-05-21T10:50:29.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

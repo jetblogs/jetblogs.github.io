@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/tutoriais/</loc>
-        <lastmod>2020-03-22T04:45:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/online/</loc>
         <lastmod>2020-03-22T04:45:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/aulas-online/</loc>
-        <lastmod>2020-05-14T00:46:08.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/videos-online/</loc>
         <lastmod>2020-05-14T00:46:08.153Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -193,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-05-16T18:55:46.876Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-05-16T18:55:46.876Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/speed-drawing/</loc>
-        <lastmod>2020-05-18T23:56:50.075Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/dragon-ball-super/</loc>
         <lastmod>2020-05-18T23:56:50.075Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,13 +228,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-05-18T23:56:50.075Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/desenhar-do-zero/</loc>
         <lastmod>2020-05-18T23:56:50.075Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -341,6 +306,48 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/como-desenhar-anime/</loc>
         <lastmod>2020-05-20T20:09:52.466Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/speed-drawing/</loc>
+        <lastmod>2020-05-21T12:25:29.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <lastmod>2020-05-21T12:25:29.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/aulas-online/</loc>
+        <lastmod>2020-05-21T12:25:29.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/tutoriais/</loc>
+        <lastmod>2020-05-21T12:25:29.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/desenhando-animes/</loc>
+        <lastmod>2020-05-21T12:25:29.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-05-21T12:25:29.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

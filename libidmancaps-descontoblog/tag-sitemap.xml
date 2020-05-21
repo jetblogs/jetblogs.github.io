@@ -17,20 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-05-14T01:15:35.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-05-15T23:08:19.809Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-05-15T23:08:19.809Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,6 +108,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-05-20T21:15:30.167Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man/</loc>
         <lastmod>2020-05-20T21:15:30.167Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +123,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-05-20T21:15:30.167Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-05-20T21:15:30.167Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -152,6 +138,48 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-05-20T21:15:30.167Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-05-21T11:00:48.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-original/</loc>
+        <lastmod>2020-05-21T11:00:48.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-05-21T11:00:48.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-para-que-serve/</loc>
+        <lastmod>2020-05-21T11:00:48.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-05-21T11:00:48.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-descontoblog/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-05-21T11:00:48.981Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
