@@ -129,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-05-14T01:01:41.566Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-05-15T23:01:31.694Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -144,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-05-15T23:01:31.694Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-05-15T23:01:31.694Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,7 +157,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-efeitos-colaterais/</loc>
+        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-05-19T01:10:49.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -179,13 +165,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-05-19T01:10:49.976Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-05-19T01:10:49.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-05-21T10:47:30.433Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-05-21T10:47:30.433Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,7 +234,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-depoimento-sincero/</loc>
+        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-05-21T10:47:30.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-composicao/</loc>
         <lastmod>2020-05-21T10:47:30.433Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-05-23T06:25:06.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-05-23T06:25:06.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-05-23T06:25:06.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capscomprar-site/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-05-23T06:25:06.201Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

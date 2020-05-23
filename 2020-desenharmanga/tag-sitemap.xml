@@ -122,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-05-19T21:00:54.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/desenhando-animes/</loc>
         <lastmod>2020-05-19T21:00:54.726Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,6 +130,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/para-iniciantes/</loc>
+        <lastmod>2020-05-19T21:00:54.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-05-19T21:00:54.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,20 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/aprenda-a-desenhar/</loc>
-        <lastmod>2020-05-20T20:14:24.775Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/drawing/</loc>
-        <lastmod>2020-05-20T20:14:24.775Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-05-20T20:14:24.775Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,14 +178,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-05-21T12:27:56.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/speed-drawing/</loc>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/como-desenhar/</loc>
         <lastmod>2020-05-21T12:27:56.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/como-desenhar/</loc>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/speed-drawing/</loc>
         <lastmod>2020-05-21T12:27:56.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -229,6 +208,41 @@
     <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/kero-desenhar/</loc>
         <lastmod>2020-05-21T12:27:56.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-05-23T05:29:06.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-05-23T05:29:06.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/aprenda-a-desenhar/</loc>
+        <lastmod>2020-05-23T05:29:06.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/curso-de-manga/</loc>
+        <lastmod>2020-05-23T05:29:06.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/drawing/</loc>
+        <lastmod>2020-05-23T05:29:06.308Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

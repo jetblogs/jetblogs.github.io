@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/curso-de-anime/</loc>
-        <lastmod>2020-02-28T19:32:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/kerodesenhar/</loc>
         <lastmod>2020-02-28T19:32:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -110,13 +103,6 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/goku/</loc>
         <lastmod>2020-03-14T09:49:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-03-20T09:49:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,14 +199,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-05-03T16:03:54.974Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/desenho-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-05-03T16:03:54.974Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,29 +255,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/desenhar-animes/</loc>
-        <lastmod>2020-05-16T18:51:53.195Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-evoluir-nos-meus-desenhos/</loc>
-        <lastmod>2020-05-16T18:51:53.195Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-desenhar-para-iniciantes/</loc>
         <lastmod>2020-05-16T18:51:53.195Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/para-iniciantes/</loc>
-        <lastmod>2020-05-17T14:34:57.230Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -409,14 +374,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/aprenda-a-desenhar/</loc>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/a-distancia/</loc>
         <lastmod>2020-05-21T12:21:38.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/a-distancia/</loc>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-05-21T12:21:38.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-05-21T12:21:38.327Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-05-23T05:20:10.333Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/para-iniciantes/</loc>
+        <lastmod>2020-05-23T05:20:10.333Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/curso-de-anime/</loc>
+        <lastmod>2020-05-23T05:20:10.333Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/desenhar-animes/</loc>
+        <lastmod>2020-05-23T05:20:10.333Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangaonline/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <lastmod>2020-05-23T05:20:10.333Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

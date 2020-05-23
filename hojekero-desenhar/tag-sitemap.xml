@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/desenhar/</loc>
-        <lastmod>2020-03-03T13:51:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/kerodesenhar-com/</loc>
         <lastmod>2020-03-05T12:06:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,13 +75,6 @@
     <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar-goku/</loc>
         <lastmod>2020-03-08T16:51:06.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-03-11T19:12:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -269,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/kerodesenhar/</loc>
-        <lastmod>2020-05-16T18:54:18.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-05-16T18:54:18.249Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,14 +276,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/a-distancia/</loc>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-05-17T14:37:13.633Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/aprenda-a-desenhar/</loc>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/a-distancia/</loc>
         <lastmod>2020-05-17T14:37:13.633Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,20 +395,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar-anime-e-manga/</loc>
-        <lastmod>2020-05-21T12:24:16.193Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/curso/</loc>
-        <lastmod>2020-05-21T12:24:16.193Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/anime/</loc>
         <lastmod>2020-05-21T12:24:16.193Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/draw/</loc>
         <lastmod>2020-05-21T12:24:16.193Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar-anime-e-manga/</loc>
+        <lastmod>2020-05-23T05:22:17.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/kerodesenhar/</loc>
+        <lastmod>2020-05-23T05:22:17.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-05-23T05:22:17.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/curso/</loc>
+        <lastmod>2020-05-23T05:22:17.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/desenhar/</loc>
+        <lastmod>2020-05-23T05:22:17.766Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

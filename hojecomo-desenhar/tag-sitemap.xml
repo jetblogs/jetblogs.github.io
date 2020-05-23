@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/kerodesenhar/</loc>
-        <lastmod>2020-02-10T09:06:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/dragon-ball-super/</loc>
         <lastmod>2020-02-11T11:24:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,13 +75,6 @@
     <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/manga/</loc>
         <lastmod>2020-03-05T12:05:12.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/curso/</loc>
-        <lastmod>2020-03-06T12:00:20.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-05-03T16:04:06.859Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/desenhar-do-zero/</loc>
         <lastmod>2020-05-03T16:04:06.859Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -299,13 +278,6 @@
     <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/aula-de-desenho/</loc>
         <lastmod>2020-05-16T18:52:16.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-05-17T14:35:23.369Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -432,6 +404,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/kerodesenhar-info/</loc>
         <lastmod>2020-05-21T12:22:09.493Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/kerodesenhar-funciona/</loc>
+        <lastmod>2020-05-23T05:20:34.810Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/curso/</loc>
+        <lastmod>2020-05-23T05:20:34.810Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-05-23T05:20:34.810Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/kerodesenhar/</loc>
+        <lastmod>2020-05-23T05:20:34.810Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
