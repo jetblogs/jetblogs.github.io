@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-05-19T01:16:32.436Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-preco/</loc>
         <lastmod>2020-05-19T01:16:32.436Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -117,13 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-estimulante-sexual/</loc>
         <lastmod>2020-05-19T01:16:32.436Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-original/</loc>
-        <lastmod>2020-05-19T22:04:06.810Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-05-23T06:30:49.385Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-anvisa/</loc>
         <lastmod>2020-05-23T06:30:49.385Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,8 +199,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-original/</loc>
+        <lastmod>2020-05-24T15:32:10.144Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-05-24T15:32:10.144Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-05-23T06:30:49.385Z</lastmod>
+        <lastmod>2020-05-24T15:32:10.144Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-05-24T15:32:10.144Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

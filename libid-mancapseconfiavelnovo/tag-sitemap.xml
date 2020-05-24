@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-composicao/</loc>
-        <lastmod>2020-04-04T10:38:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-04-05T19:03:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,22 +66,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-05-08T02:23:03.679Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-05-08T02:23:03.679Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-05-14T01:10:54.201Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -145,13 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-05-19T01:14:55.520Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-onde-comprar/</loc>
-        <lastmod>2020-05-19T21:59:57.762Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -227,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-05-21T10:56:23.763Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-05-21T10:56:23.763Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -264,6 +229,41 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man/</loc>
         <lastmod>2020-05-23T06:29:02.705Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-05-24T15:30:43.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-05-24T15:30:43.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-onde-comprar/</loc>
+        <lastmod>2020-05-24T15:30:43.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-composicao/</loc>
+        <lastmod>2020-05-24T15:30:43.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapseconfiavelnovo/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-05-24T15:30:43.128Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020influencer-academy/tags/passo-a-passo/</loc>
-        <lastmod>2020-05-16T19:08:48.715Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020influencer-academy/tags/academy/</loc>
         <lastmod>2020-05-17T14:50:29.750Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -138,13 +131,6 @@
     <url>
         <loc>https://jetblogs.github.io/2020influencer-academy/tags/negocios-digitais/</loc>
         <lastmod>2020-05-19T21:08:20.560Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020influencer-academy/tags/influencer-academy-da-gabi/</loc>
-        <lastmod>2020-05-20T20:22:19.645Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,8 +227,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/2020influencer-academy/tags/influencer-academy-da-gabi/</loc>
+        <lastmod>2020-05-24T14:39:22.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/2020influencer-academy/tags/ead/</loc>
-        <lastmod>2020-05-23T05:38:33.043Z</lastmod>
+        <lastmod>2020-05-24T14:39:22.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020influencer-academy/tags/passo-a-passo/</loc>
+        <lastmod>2020-05-24T14:39:22.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020influencer-academy/tags/influencer-academy-login/</loc>
+        <lastmod>2020-05-24T14:39:22.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

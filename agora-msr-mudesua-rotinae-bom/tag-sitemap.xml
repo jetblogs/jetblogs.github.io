@@ -66,22 +66,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/msr-mude-sua-rotina-logo/</loc>
-        <lastmod>2020-04-05T20:01:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/marketing-de-afiliados/</loc>
         <lastmod>2020-04-05T20:01:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/msr-funciona/</loc>
-        <lastmod>2020-05-08T04:43:21.485Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -122,6 +108,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-05-16T19:56:56.947Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-05-16T19:56:56.947Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +123,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/marketing-digital/</loc>
-        <lastmod>2020-05-16T19:56:56.947Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-05-16T19:56:56.947Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -152,13 +138,6 @@
     <url>
         <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-reclame-aqui/</loc>
         <lastmod>2020-05-16T19:56:56.947Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-05-17T15:55:31.637Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -227,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-05-20T21:26:58.466Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-05-20T21:26:58.466Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,13 +248,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/negocios-digitais/</loc>
-        <lastmod>2020-05-23T06:38:48.246Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-05-23T06:38:48.246Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -306,6 +271,41 @@
     <url>
         <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-hotmart/</loc>
         <lastmod>2020-05-23T06:38:48.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <lastmod>2020-05-24T16:04:14.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/negocios-digitais/</loc>
+        <lastmod>2020-05-24T16:04:14.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/msr-mude-sua-rotina-logo/</loc>
+        <lastmod>2020-05-24T16:04:14.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-05-24T16:04:14.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mudesua-rotinae-bom/tags/msr-funciona/</loc>
+        <lastmod>2020-05-24T16:04:14.683Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

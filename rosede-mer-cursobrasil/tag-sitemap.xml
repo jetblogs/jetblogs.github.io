@@ -3,21 +3,7 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/rose-de-mer-curso/</loc>
-        <lastmod>2020-05-13T07:36:33.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/rose-de-mer/</loc>
-        <lastmod>2020-05-13T07:36:33.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/rose-de-mer-youtube/</loc>
         <lastmod>2020-05-13T07:36:33.420Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/melhor-curso/</loc>
-        <lastmod>2020-05-21T10:58:00.525Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/christina-rose-de-mer/</loc>
         <lastmod>2020-05-21T10:58:00.525Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -250,6 +229,48 @@
     <url>
         <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/ros-de-mer-peeling/</loc>
         <lastmod>2020-05-23T05:49:44.261Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/melhor-curso/</loc>
+        <lastmod>2020-05-24T14:56:19.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/rose-de-mer-curso/</loc>
+        <lastmod>2020-05-24T14:56:19.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/rose-de-mer-youtube/</loc>
+        <lastmod>2020-05-24T14:56:19.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/rose-de-mer-funciona/</loc>
+        <lastmod>2020-05-24T14:56:19.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/peeling-rose-de-mer-passo-a-passo/</loc>
+        <lastmod>2020-05-24T14:56:19.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-cursobrasil/tags/peeling-rose-de-mer-funciona/</loc>
+        <lastmod>2020-05-24T14:56:19.512Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
