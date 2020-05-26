@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/curso-de-microblading-avancado/</loc>
-        <lastmod>2020-03-06T11:31:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/maquiagem-definitiva/</loc>
         <lastmod>2020-03-07T09:50:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -123,13 +116,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/curso-de-microblading-3d/</loc>
-        <lastmod>2020-03-27T03:30:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/sobrancelhas/</loc>
         <lastmod>2020-03-27T03:30:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -229,13 +215,6 @@
     <url>
         <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/curso-a-distancia/</loc>
         <lastmod>2020-05-17T14:57:10.196Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/passo-a-passo/</loc>
-        <lastmod>2020-05-19T00:24:50.325Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -388,13 +367,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/curso-de-micropigmentacao/</loc>
-        <lastmod>2020-05-24T14:45:20.370Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/beleza-e-estetica/</loc>
         <lastmod>2020-05-24T14:45:20.370Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -404,6 +376,34 @@
     <url>
         <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/curso-de-microblading-4d/</loc>
         <lastmod>2020-05-24T14:45:20.370Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/passo-a-passo/</loc>
+        <lastmod>2020-05-25T18:42:24.976Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/curso-de-micropigmentacao/</loc>
+        <lastmod>2020-05-25T18:42:24.976Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/sobrancelhas/</loc>
+        <lastmod>2020-05-25T18:42:24.976Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/completo-microbladingbrasil/tags/curso-de-microblading-avancado/</loc>
+        <lastmod>2020-05-25T18:42:24.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

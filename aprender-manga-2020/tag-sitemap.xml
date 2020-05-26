@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-05-03T16:06:45.588Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/ead/</loc>
         <lastmod>2020-05-14T00:49:34.141Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/curso/</loc>
-        <lastmod>2020-05-21T12:27:11.807Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-05-21T12:27:11.807Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -236,6 +222,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-05-24T14:23:19.025Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/curso/</loc>
+        <lastmod>2020-05-25T18:27:58.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-05-25T18:27:58.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/kerodesenhar/</loc>
+        <lastmod>2020-05-25T18:27:58.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-05-25T18:27:58.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/dragon-ball-super/</loc>
+        <lastmod>2020-05-25T18:27:58.360Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

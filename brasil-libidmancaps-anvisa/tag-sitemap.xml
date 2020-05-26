@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-03-01T15:24:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-anvisa/</loc>
         <lastmod>2020-03-06T14:05:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,29 +17,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-03-22T07:05:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-03-31T07:59:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-funciona-mesmo/</loc>
         <lastmod>2020-04-04T10:38:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-04-10T11:48:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -59,14 +31,21 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-05-08T02:22:53.842Z</lastmod>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-04-10T11:48:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-05-08T02:22:53.842Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-05-08T02:22:53.842Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -143,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-05-19T21:59:38.838Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-05-19T21:59:38.838Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,22 +136,15 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-reclame-aqui/</loc>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-05-19T21:59:38.838Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-05-20T21:11:09.386Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man/</loc>
-        <lastmod>2020-05-20T21:11:09.386Z</lastmod>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-05-19T21:59:38.838Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -200,6 +165,20 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-05-20T21:11:09.386Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-05-20T21:11:09.386Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man/</loc>
         <lastmod>2020-05-20T21:11:09.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-05-23T06:28:54.642Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-05-23T06:28:54.642Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-05-24T15:30:36.706Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-funciona-mesmo-sera/</loc>
+        <lastmod>2020-05-25T19:55:44.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-05-25T19:55:44.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-05-25T19:55:44.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-05-25T19:55:44.638Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

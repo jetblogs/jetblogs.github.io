@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/como-desenhar/</loc>
-        <lastmod>2020-03-22T04:44:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-comodesenhar/tags/como-desenhar-naruto/</loc>
         <lastmod>2020-03-23T09:19:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-03-30T19:13:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-comodesenhar/tags/draw/</loc>
         <lastmod>2020-05-03T16:04:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -215,20 +201,6 @@
     <url>
         <loc>https://jetblogs.github.io/blog-comodesenhar/tags/goku/</loc>
         <lastmod>2020-05-15T21:46:52.329Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/drawing/</loc>
-        <lastmod>2020-05-16T18:54:34.114Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/a-distancia/</loc>
-        <lastmod>2020-05-16T18:54:34.114Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -374,13 +346,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-05-23T05:22:38.931Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-comodesenhar/tags/desenhando/</loc>
         <lastmod>2020-05-23T05:22:38.931Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -388,7 +353,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/speed-drawing/</loc>
+        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-05-23T05:22:38.931Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/blog-comodesenhar/tags/dragon-ball/</loc>
         <lastmod>2020-05-24T14:18:26.441Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/drawing/</loc>
+        <lastmod>2020-05-25T18:23:43.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/a-distancia/</loc>
+        <lastmod>2020-05-25T18:23:43.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/speed-drawing/</loc>
+        <lastmod>2020-05-25T18:23:43.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/como-desenhar/</loc>
+        <lastmod>2020-05-25T18:23:43.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-comodesenhar/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-05-25T18:23:43.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

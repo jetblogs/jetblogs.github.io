@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/curso-de-microblading-4d/</loc>
-        <lastmod>2020-03-11T18:27:54.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/curso-de-microblading-online/</loc>
         <lastmod>2020-03-12T10:05:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/tebori/</loc>
-        <lastmod>2020-05-17T14:44:19.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/microblading-passo-a-passo/</loc>
         <lastmod>2020-05-17T14:44:19.670Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -249,13 +235,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/certificado-internacional/</loc>
-        <lastmod>2020-05-19T00:09:23.569Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/maquiagem-definitiva/</loc>
         <lastmod>2020-05-19T00:09:23.569Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -388,13 +367,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/microblading-e-micropigmentacao/</loc>
-        <lastmod>2020-05-23T05:33:35.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/sobrancelhas/</loc>
         <lastmod>2020-05-24T14:31:19.253Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -418,6 +390,34 @@
     <url>
         <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/curso-de-microblading-tebori/</loc>
         <lastmod>2020-05-24T14:31:19.253Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/tebori/</loc>
+        <lastmod>2020-05-25T18:33:00.855Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/maquiagem-definitiva/</loc>
+        <lastmod>2020-05-25T18:33:00.855Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/curso-de-microblading-4d/</loc>
+        <lastmod>2020-05-25T18:33:00.855Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microbladingpasso-apasso2020/tags/microblading-e-micropigmentacao/</loc>
+        <lastmod>2020-05-25T18:33:00.855Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

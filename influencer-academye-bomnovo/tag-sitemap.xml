@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-05-20T20:24:52.186Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/ead/</loc>
         <lastmod>2020-05-20T20:24:52.186Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,6 +88,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/curso/</loc>
+        <lastmod>2020-05-20T20:24:52.186Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-05-20T20:24:52.186Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,20 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/treinamento-passo-a-passo/</loc>
-        <lastmod>2020-05-24T14:44:34.526Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/academy/</loc>
-        <lastmod>2020-05-24T14:44:34.526Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/youtube/</loc>
         <lastmod>2020-05-24T14:44:34.526Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -187,6 +173,34 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/midias-sociais/</loc>
         <lastmod>2020-05-24T14:44:34.526Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/academy/</loc>
+        <lastmod>2020-05-25T18:42:57.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-05-25T18:42:57.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-05-25T18:42:57.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-e-bom/</loc>
+        <lastmod>2020-05-25T18:42:57.007Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
