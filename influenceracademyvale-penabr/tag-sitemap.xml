@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/influencer-academy/</loc>
-        <lastmod>2020-05-19T00:17:49.086Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/influencer-academy-gratis/</loc>
         <lastmod>2020-05-19T00:17:49.086Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/curso-a-distancia/</loc>
-        <lastmod>2020-05-20T20:21:16.572Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-05-20T20:21:16.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,13 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/gabriella-ferreira/</loc>
-        <lastmod>2020-05-24T14:37:49.383Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/influencer/</loc>
         <lastmod>2020-05-24T14:37:49.383Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -200,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/curso/</loc>
-        <lastmod>2020-05-24T14:37:49.383Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/influencer-academy-instagram/</loc>
         <lastmod>2020-05-24T14:37:49.383Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,8 +213,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/gabriella-ferreira/</loc>
+        <lastmod>2020-06-01T13:41:45.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-06-01T13:41:45.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/influencer-academy/</loc>
+        <lastmod>2020-06-01T13:41:45.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/influencer-academy-instagram/</loc>
+        <lastmod>2020-06-01T13:41:45.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influenceracademyvale-penabr/tags/influencer-academy-login/</loc>
-        <lastmod>2020-05-25T18:39:14.003Z</lastmod>
+        <lastmod>2020-06-01T13:41:45.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

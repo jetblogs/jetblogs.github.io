@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/youtube/</loc>
-        <lastmod>2020-05-15T22:05:07.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/curso/</loc>
         <lastmod>2020-05-16T19:11:36.861Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-ganhar-dinheiro/</loc>
-        <lastmod>2020-05-20T20:25:22.423Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/carreiras/</loc>
         <lastmod>2020-05-20T20:25:22.423Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/facebook/</loc>
-        <lastmod>2020-05-23T05:42:04.611Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-05-23T05:42:04.611Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -243,6 +222,34 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/instagram/</loc>
         <lastmod>2020-05-25T18:43:27.305Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-ganhar-dinheiro/</loc>
+        <lastmod>2020-06-01T13:47:30.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-06-01T13:47:30.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/youtube/</loc>
+        <lastmod>2020-06-01T13:47:30.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-06-01T13:47:30.982Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/anime/</loc>
-        <lastmod>2020-02-16T20:24:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/aulas-online/</loc>
         <lastmod>2020-02-27T06:24:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/como-desenhar-naruto/</loc>
-        <lastmod>2020-03-14T09:49:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/tutoriais/</loc>
         <lastmod>2020-03-14T09:49:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,20 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-05-18T23:52:44.197Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-05-19T20:53:46.301Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-05-19T20:53:46.301Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -291,6 +263,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/ead/</loc>
+        <lastmod>2020-05-19T20:53:46.301Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-05-19T20:53:46.301Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -346,14 +325,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/kerodesenhar-funciona/</loc>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/curso/</loc>
         <lastmod>2020-05-23T05:20:34.810Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/curso/</loc>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-05-23T05:20:34.810Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,13 +395,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/curso-de-desenho-online/</loc>
-        <lastmod>2020-05-25T18:21:54.326Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/desenhando/</loc>
         <lastmod>2020-05-25T18:21:54.326Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -432,6 +404,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/como-desenhar-manga/</loc>
         <lastmod>2020-05-25T18:21:54.326Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/anime/</loc>
+        <lastmod>2020-06-01T13:15:47.037Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-06-01T13:15:47.037Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-06-01T13:15:47.037Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojecomo-desenhar/tags/tutoriais/</loc>
+        <lastmod>2020-06-01T13:15:47.037Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

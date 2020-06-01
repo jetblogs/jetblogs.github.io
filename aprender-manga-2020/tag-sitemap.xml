@@ -87,22 +87,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/como-fazer-esboco/</loc>
-        <lastmod>2020-05-19T00:00:59.663Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-05-19T00:00:59.663Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/como-evoluir-nos-meus-desenhos/</loc>
-        <lastmod>2020-05-19T20:59:39.558Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -185,20 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/aulas-online/</loc>
-        <lastmod>2020-05-23T05:27:28.930Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/tutoriais/</loc>
-        <lastmod>2020-05-23T05:27:28.930Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/desenhando/</loc>
         <lastmod>2020-05-24T14:23:19.025Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -257,6 +229,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/dragon-ball-super/</loc>
         <lastmod>2020-05-25T18:27:58.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/tutoriais/</loc>
+        <lastmod>2020-06-01T13:22:37.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-06-01T13:22:37.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <lastmod>2020-06-01T13:22:37.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/aulas-online/</loc>
+        <lastmod>2020-06-01T13:22:37.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
