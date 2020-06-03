@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/liberdade-financeira/</loc>
-        <lastmod>2020-05-20T21:28:11.158Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-05-20T21:28:11.158Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/afiliados/</loc>
-        <lastmod>2020-06-01T15:02:12.795Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-06-01T15:02:12.795Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,8 +248,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/liberdade-financeira/</loc>
+        <lastmod>2020-06-03T16:59:23.809Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/msr-mude-sua-rotina-logo/</loc>
+        <lastmod>2020-06-03T16:59:23.809Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/renda-extra/</loc>
-        <lastmod>2020-06-03T01:33:33.642Z</lastmod>
+        <lastmod>2020-06-03T16:59:23.809Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-cursomude-suarotina/tags/afiliados/</loc>
+        <lastmod>2020-06-03T16:59:23.809Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

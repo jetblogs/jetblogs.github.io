@@ -31,21 +31,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/online/</loc>
-        <lastmod>2020-05-17T14:50:16.307Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/curso-online/</loc>
-        <lastmod>2020-05-19T00:19:05.058Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/passo-a-passo/</loc>
         <lastmod>2020-05-19T00:19:05.058Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,20 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/expert-influencer-academy/</loc>
-        <lastmod>2020-06-03T00:15:37.994Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/ead/</loc>
-        <lastmod>2020-06-03T00:15:37.994Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/curso/</loc>
         <lastmod>2020-06-03T00:15:37.994Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -250,6 +222,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/marketing-digital/</loc>
         <lastmod>2020-06-03T00:15:37.994Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/passo-a-passo/</loc>
+        <lastmod>2020-06-03T15:56:17.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/expert-influencer-academy/</loc>
+        <lastmod>2020-06-03T15:56:17.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/ead/</loc>
+        <lastmod>2020-06-03T15:56:17.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/online/</loc>
+        <lastmod>2020-06-03T15:56:17.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

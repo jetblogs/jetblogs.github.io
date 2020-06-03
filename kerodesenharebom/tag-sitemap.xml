@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenhando/</loc>
-        <lastmod>2020-05-15T21:57:06.200Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/curso-de-anime/</loc>
         <lastmod>2020-05-15T21:57:06.200Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/animes/</loc>
-        <lastmod>2020-05-23T05:28:53.748Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/kerodesenhar/</loc>
         <lastmod>2020-05-23T05:28:53.748Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,6 +137,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-05-23T05:28:53.748Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/animes/</loc>
         <lastmod>2020-05-23T05:28:53.748Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-05-25T18:29:33.198Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/online/</loc>
         <lastmod>2020-05-25T18:29:33.198Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,14 +220,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/manga/</loc>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-01T13:24:10.182Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-fazer-esboco/</loc>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/manga/</loc>
         <lastmod>2020-06-01T13:24:10.182Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -270,7 +256,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/a-distancia/</loc>
-        <lastmod>2020-06-03T00:06:41.855Z</lastmod>
+        <lastmod>2020-06-03T15:43:44.939Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenhando/</loc>
+        <lastmod>2020-06-03T15:43:44.939Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/aprender-online/</loc>
+        <lastmod>2020-06-03T15:43:44.939Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-06-03T15:43:44.939Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

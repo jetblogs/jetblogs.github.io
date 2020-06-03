@@ -136,8 +136,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-05-24T15:36:26.882Z</lastmod>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-05-25T19:58:32.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -151,13 +151,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libid-man-original/</loc>
-        <lastmod>2020-05-25T19:58:32.440Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-05-25T19:58:32.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -221,7 +214,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libid-man-caps-para-que-serve/</loc>
-        <lastmod>2020-06-03T01:08:45.463Z</lastmod>
+        <lastmod>2020-06-03T16:50:48.171Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-06-03T16:50:48.171Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-03T16:50:48.171Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-anvisa/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-03T16:50:48.171Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-05-17T14:42:18.297Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-05-19T00:02:44.414Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,13 +117,6 @@
     <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-05-20T20:14:20.127Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-desenhar-manga-passo-a-passo/</loc>
-        <lastmod>2020-05-21T12:27:53.714Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,6 +241,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/anime/</loc>
+        <lastmod>2020-06-01T13:24:18.047Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/aula-de-desenho/</loc>
         <lastmod>2020-06-01T13:24:18.047Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,20 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/tutoriais/</loc>
-        <lastmod>2020-06-01T13:24:18.047Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/anime/</loc>
-        <lastmod>2020-06-01T13:24:18.047Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-06-01T13:24:18.047Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,14 +269,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/kero-desenhar/</loc>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/desenhando/</loc>
         <lastmod>2020-06-03T00:06:46.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/desenhando/</loc>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/kero-desenhar/</loc>
         <lastmod>2020-06-03T00:06:46.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,6 +292,34 @@
     <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/animes/</loc>
         <lastmod>2020-06-03T00:06:46.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/dragon-ball-super/</loc>
+        <lastmod>2020-06-03T15:43:49.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/tutoriais/</loc>
+        <lastmod>2020-06-03T15:43:49.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-06-03T15:43:49.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <lastmod>2020-06-03T15:43:49.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
