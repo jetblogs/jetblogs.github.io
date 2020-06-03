@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/manga/</loc>
-        <lastmod>2020-05-16T18:58:25.161Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/desenho/</loc>
         <lastmod>2020-05-16T18:58:25.161Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -66,7 +59,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/online/</loc>
+        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/manga/</loc>
         <lastmod>2020-05-16T18:58:25.161Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-05-24T14:21:39.493Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/drawing/</loc>
         <lastmod>2020-05-24T14:21:39.493Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -250,6 +236,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-01T13:21:10.155Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/online/</loc>
+        <lastmod>2020-06-03T00:04:28.933Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/goku/</loc>
+        <lastmod>2020-06-03T00:04:28.933Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/desenhar/</loc>
+        <lastmod>2020-06-03T00:04:28.933Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/draw/</loc>
+        <lastmod>2020-06-03T00:04:28.933Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacursohoje/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-06-03T00:04:28.933Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanimebr/tags/aulas-online/</loc>
-        <lastmod>2020-05-15T21:48:21.790Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanimebr/tags/tutoriais/</loc>
         <lastmod>2020-05-16T18:57:42.515Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,21 +80,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanimebr/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-05-19T20:57:46.006Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanimebr/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-05-19T20:57:46.006Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanimebr/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-05-19T20:57:46.006Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -115,8 +94,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanimebr/tags/manga/</loc>
-        <lastmod>2020-05-20T20:11:20.252Z</lastmod>
+        <loc>https://jetblogs.github.io/cursodeanimebr/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-05-19T20:57:46.006Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -199,6 +178,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/cursodeanimebr/tags/aprender-online/</loc>
+        <lastmod>2020-05-24T14:20:48.737Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/cursodeanimebr/tags/ead/</loc>
         <lastmod>2020-05-24T14:20:48.737Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -207,20 +193,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursodeanimebr/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-05-24T14:20:48.737Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanimebr/tags/aprender-online/</loc>
-        <lastmod>2020-05-24T14:20:48.737Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanimebr/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-05-24T14:20:48.737Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -285,6 +257,41 @@
     <url>
         <loc>https://jetblogs.github.io/cursodeanimebr/tags/speed-drawing/</loc>
         <lastmod>2020-06-01T13:20:05.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanimebr/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-06-03T00:02:51.459Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanimebr/tags/manga/</loc>
+        <lastmod>2020-06-03T00:02:51.459Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanimebr/tags/aulas-online/</loc>
+        <lastmod>2020-06-03T00:02:51.459Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanimebr/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-06-03T00:02:51.459Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanimebr/tags/desenhar-manga/</loc>
+        <lastmod>2020-06-03T00:02:51.459Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -3,20 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-02-06T11:11:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps/</loc>
-        <lastmod>2020-02-10T11:43:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-02-14T14:59:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -59,14 +45,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-preco/</loc>
+        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-04-10T11:46:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-resultados/</loc>
+        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-04-10T11:46:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -88,13 +74,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-05-16T19:49:45.152Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-05-16T19:49:45.152Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-composicao/</loc>
-        <lastmod>2020-05-24T15:29:29.860Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-05-24T15:29:29.860Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,6 +241,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-06-01T14:45:16.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-06-01T14:45:16.740Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,8 +255,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-01T14:45:16.740Z</lastmod>
+        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-03T01:06:07.072Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-03T01:06:07.072Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-03T01:06:07.072Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapscomprarhoje/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-03T01:06:07.072Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

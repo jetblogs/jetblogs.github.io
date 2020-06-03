@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-05-17T15:36:20.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-05-17T15:36:20.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,13 +89,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-05-20T21:11:34.656Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-05-21T10:57:19.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -192,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-05-25T19:56:24.509Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-01T14:49:24.917Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,15 +199,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-03T01:07:27.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libidman-caps/</loc>
-        <lastmod>2020-06-01T14:49:24.917Z</lastmod>
+        <lastmod>2020-06-03T01:07:27.731Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-01T14:49:24.917Z</lastmod>
+        <lastmod>2020-06-03T01:07:27.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-03T01:07:27.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsfunciona-page/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-06-03T01:07:27.731Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
