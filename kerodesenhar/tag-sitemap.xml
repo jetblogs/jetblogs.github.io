@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/aula-de-desenho/</loc>
-        <lastmod>2020-03-11T19:09:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/aprender-online/</loc>
         <lastmod>2020-03-11T19:09:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,27 +117,6 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-05-03T16:03:17.796Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/desenhar-animes/</loc>
-        <lastmod>2020-05-03T16:03:17.796Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/a-distancia/</loc>
-        <lastmod>2020-05-15T21:44:52.498Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/animes/</loc>
-        <lastmod>2020-05-15T21:44:52.498Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -220,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/videos-online/</loc>
-        <lastmod>2020-05-20T20:05:23.385Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/como-desenhar/</loc>
         <lastmod>2020-05-20T20:05:23.385Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,6 +248,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-05-24T14:14:23.842Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/dragon-ball/</loc>
         <lastmod>2020-05-24T14:14:23.842Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,22 +269,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-05-24T14:14:23.842Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-05-24T14:14:23.842Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/como-desenhar-manga/</loc>
-        <lastmod>2020-05-25T18:20:31.429Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -325,7 +283,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/aulas-online/</loc>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/como-desenhar-manga/</loc>
         <lastmod>2020-05-25T18:20:31.429Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -333,6 +291,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-05-25T18:20:31.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/aulas-online/</loc>
         <lastmod>2020-05-25T18:20:31.429Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -369,13 +334,6 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/como-desenhar-para-iniciantes/</loc>
         <lastmod>2020-06-01T13:14:24.343Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-06-02T23:57:12.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar/tags/desenhar-manga/</loc>
         <lastmod>2020-06-03T15:35:11.532Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/a-distancia/</loc>
+        <lastmod>2020-06-05T08:52:11.173Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-06-05T08:52:11.173Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/desenhar-animes/</loc>
+        <lastmod>2020-06-05T08:52:11.173Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/aula-de-desenho/</loc>
+        <lastmod>2020-06-05T08:52:11.173Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/videos-online/</loc>
+        <lastmod>2020-06-05T08:52:11.173Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar/tags/animes/</loc>
+        <lastmod>2020-06-05T08:52:11.173Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

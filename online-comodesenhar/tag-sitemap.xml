@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/tutoriais/</loc>
-        <lastmod>2020-05-14T00:48:04.455Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/a-distancia/</loc>
         <lastmod>2020-05-15T21:55:21.372Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,13 +60,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/goku/</loc>
-        <lastmod>2020-05-16T18:58:21.304Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/ead/</loc>
         <lastmod>2020-05-16T18:58:21.304Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -137,13 +123,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-05-20T20:12:00.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/aulas-online/</loc>
         <lastmod>2020-05-20T20:12:00.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/draw/</loc>
         <lastmod>2020-06-01T13:21:03.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/draw/</loc>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-para-iniciantes/</loc>
         <lastmod>2020-06-01T13:21:03.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-anime/</loc>
-        <lastmod>2020-06-03T00:04:24.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/anime/</loc>
         <lastmod>2020-06-03T00:04:24.600Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,7 +262,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/desenhando-animes/</loc>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-anime/</loc>
         <lastmod>2020-06-03T00:04:24.600Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -327,6 +299,41 @@
     <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso/</loc>
         <lastmod>2020-06-03T15:41:17.345Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/tutoriais/</loc>
+        <lastmod>2020-06-05T09:01:20.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/ead/</loc>
+        <lastmod>2020-06-05T09:01:20.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/desenhando-animes/</loc>
+        <lastmod>2020-06-05T09:01:20.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-06-05T09:01:20.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/aulas-online/</loc>
+        <lastmod>2020-06-05T09:01:20.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

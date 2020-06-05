@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/kerodesenhar/</loc>
-        <lastmod>2020-02-28T19:34:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/kerodesenhar-info/</loc>
         <lastmod>2020-03-07T10:20:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -381,13 +374,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenho/</loc>
-        <lastmod>2020-06-03T00:00:20.899Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/drawing/</loc>
         <lastmod>2020-06-03T00:00:20.899Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,13 +402,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-06-03T15:38:43.489Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/manga/</loc>
         <lastmod>2020-06-03T15:38:43.489Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -432,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-06-03T15:38:43.489Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-06-05T08:56:38.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/desenho/</loc>
+        <lastmod>2020-06-05T08:56:38.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-05T08:56:38.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <lastmod>2020-06-05T08:56:38.742Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

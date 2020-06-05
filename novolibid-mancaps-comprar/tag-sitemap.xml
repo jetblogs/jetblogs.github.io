@@ -17,22 +17,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-04-04T10:35:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-04-04T10:35:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-04-10T11:44:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -88,13 +74,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-composicao/</loc>
-        <lastmod>2020-05-19T21:53:33.207Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-05-19T21:53:33.207Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-06-03T01:05:20.028Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-03T01:05:20.028Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/meu-depoimento-libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-06-03T16:44:12.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-depoimento-sincero/</loc>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-03T16:44:12.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-03T16:44:12.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-06-05T10:53:19.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-05T10:53:19.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-05T10:53:19.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-comprar/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-06-05T10:53:19.348Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

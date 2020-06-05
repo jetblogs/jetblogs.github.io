@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/desenhar-animes/</loc>
-        <lastmod>2020-03-27T03:54:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/como-desenhar-anime/</loc>
         <lastmod>2020-03-30T19:11:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/tutoriais/</loc>
-        <lastmod>2020-05-20T20:07:04.872Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/aula-de-desenho/</loc>
         <lastmod>2020-05-20T20:07:04.872Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,7 +262,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/aprenda-a-desenhar/</loc>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/tutoriais/</loc>
         <lastmod>2020-05-20T20:07:04.872Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -311,13 +297,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/drawing/</loc>
-        <lastmod>2020-05-24T14:16:31.732Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/como-desenhar/</loc>
         <lastmod>2020-05-24T14:16:31.732Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,28 +304,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-05-24T14:16:31.732Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/curso-de-desenho/</loc>
-        <lastmod>2020-05-25T18:22:18.024Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/curso-de-manga/</loc>
-        <lastmod>2020-05-25T18:22:18.024Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/desenhando-animes/</loc>
         <lastmod>2020-05-25T18:22:18.024Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/curso-de-anime/</loc>
         <lastmod>2020-06-03T15:37:18.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/drawing/</loc>
+        <lastmod>2020-06-05T08:54:14.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/curso-de-manga/</loc>
+        <lastmod>2020-06-05T08:54:14.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-06-05T08:54:14.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/desenhando-animes/</loc>
+        <lastmod>2020-06-05T08:54:14.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/desenhar-animes/</loc>
+        <lastmod>2020-06-05T08:54:14.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/aprenda-a-desenhar/</loc>
+        <lastmod>2020-06-05T08:54:14.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

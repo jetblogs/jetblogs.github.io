@@ -129,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/beleza/</loc>
-        <lastmod>2020-03-22T06:07:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/rosedemer/</loc>
         <lastmod>2020-03-22T06:07:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -215,13 +208,6 @@
     <url>
         <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/peeling-rose-de-mer-vale-a-pena/</loc>
         <lastmod>2020-04-05T17:57:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/estetica/</loc>
-        <lastmod>2020-05-13T06:18:54.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -318,13 +304,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/tratamento-facial/</loc>
-        <lastmod>2020-05-19T21:06:58.744Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/peeling-rose-de-mer-antes-e-depois/</loc>
         <lastmod>2020-05-19T21:06:58.744Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -347,13 +326,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/christina-zehavi-rose-de-mer/</loc>
-        <lastmod>2020-05-20T20:19:59.864Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/curso-ead/</loc>
         <lastmod>2020-05-20T20:19:59.864Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -507,6 +479,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-06-03T15:51:21.757Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/curso-de-peeling-rose-de-mer-funciona/</loc>
         <lastmod>2020-06-03T15:51:21.757Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -535,15 +514,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/curso-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/curso-de-peeling-rose-de-mer/</loc>
         <lastmod>2020-06-03T15:51:21.757Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/curso-de-peeling-rose-de-mer/</loc>
-        <lastmod>2020-06-03T15:51:21.757Z</lastmod>
+        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/estetica/</loc>
+        <lastmod>2020-06-05T09:09:07.920Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/beleza/</loc>
+        <lastmod>2020-06-05T09:09:07.920Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/curso-ead/</loc>
+        <lastmod>2020-06-05T09:09:07.920Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulos-rosede-mercurso/tags/tratamento-facial/</loc>
+        <lastmod>2020-06-05T09:09:07.920Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

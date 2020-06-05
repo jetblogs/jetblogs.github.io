@@ -94,21 +94,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-05-20T21:28:35.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/hotmart/</loc>
-        <lastmod>2020-05-21T12:13:05.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/marketing/</loc>
         <lastmod>2020-05-21T12:13:05.073Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -136,6 +122,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/afiliados/</loc>
+        <lastmod>2020-05-24T16:07:29.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-05-24T16:07:29.354Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,20 +138,6 @@
     <url>
         <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-05-24T16:07:29.354Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/afiliados/</loc>
-        <lastmod>2020-05-24T16:07:29.354Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-05-25T19:53:44.921Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,8 +157,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-06-01T15:02:45.357Z</lastmod>
+        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-05-25T19:53:44.921Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -227,6 +206,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-03T17:00:03.882Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-03T17:00:03.882Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,14 +228,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-03T17:00:03.882Z</lastmod>
+        <lastmod>2020-06-05T10:54:16.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-03T17:00:03.882Z</lastmod>
+        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-sua-rotina-curso/</loc>
+        <lastmod>2020-06-05T10:54:16.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/marketing/</loc>
+        <lastmod>2020-06-05T10:54:16.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-sua-rotinamodulos/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-05T10:54:16.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

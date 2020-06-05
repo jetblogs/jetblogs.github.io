@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading-sobrancelha/</loc>
-        <lastmod>2020-03-08T16:31:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading-basico/</loc>
         <lastmod>2020-03-12T10:10:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +61,6 @@
     <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading/</loc>
         <lastmod>2020-03-31T07:09:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading-custo/</loc>
-        <lastmod>2020-04-04T09:56:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,20 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/curso-online/</loc>
-        <lastmod>2020-05-19T00:25:11.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/beleza/</loc>
-        <lastmod>2020-05-19T21:12:12.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading-quanto-custa/</loc>
         <lastmod>2020-05-19T21:12:12.936Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/maquiagem-definitiva/</loc>
-        <lastmod>2020-05-24T14:45:50.176Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-05-25T18:42:38.087Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -332,13 +297,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/sobrancelhas/</loc>
-        <lastmod>2020-06-01T13:47:13.594Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/beleza-e-estetica/</loc>
         <lastmod>2020-06-01T13:47:13.594Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,6 +311,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/sobrancelhas/</loc>
+        <lastmod>2020-06-01T13:47:13.594Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading-valor/</loc>
         <lastmod>2020-06-01T13:47:13.594Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -361,13 +326,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/tebori/</loc>
-        <lastmod>2020-06-03T00:19:20.142Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/curso-microblading/</loc>
         <lastmod>2020-06-03T00:19:20.142Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -418,6 +376,48 @@
     <url>
         <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/curso-de-microblading-online/</loc>
         <lastmod>2020-06-03T15:59:07.321Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading-custo/</loc>
+        <lastmod>2020-06-05T09:15:08.804Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/microblading-sobrancelha/</loc>
+        <lastmod>2020-06-05T09:15:08.804Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/curso-microblading/</loc>
+        <lastmod>2020-06-05T09:15:08.804Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/beleza/</loc>
+        <lastmod>2020-06-05T09:15:08.804Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/curso-online/</loc>
+        <lastmod>2020-06-05T09:15:08.804Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/como-fazermicrobladingblog/tags/maquiagem-definitiva/</loc>
+        <lastmod>2020-06-05T09:15:08.804Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

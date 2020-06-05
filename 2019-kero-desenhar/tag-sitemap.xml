@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/desenhar/</loc>
-        <lastmod>2020-03-08T16:50:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/dragon-ball/</loc>
         <lastmod>2020-03-11T19:11:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -131,20 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-desenhar-animes/</loc>
         <lastmod>2020-03-30T19:12:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/manga/</loc>
-        <lastmod>2020-05-14T00:43:31.347Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kerodesenhar/</loc>
-        <lastmod>2020-05-14T00:43:31.347Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -409,13 +388,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-06-03T15:37:27.244Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-desenhar/</loc>
         <lastmod>2020-06-03T15:37:27.244Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-06-03T15:37:27.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/desenhar/</loc>
+        <lastmod>2020-06-05T08:54:25.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/manga/</loc>
+        <lastmod>2020-06-05T08:54:25.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-06-05T08:54:25.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-05T08:54:25.399Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
