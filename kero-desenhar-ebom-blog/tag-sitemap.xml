@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-05-16T18:58:56.155Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/desenhando/</loc>
         <lastmod>2020-05-16T18:58:56.155Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,6 +87,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/anime/</loc>
+        <lastmod>2020-05-19T00:00:05.248Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-05-19T00:00:05.248Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/anime/</loc>
-        <lastmod>2020-05-19T00:00:05.248Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/drawing/</loc>
         <lastmod>2020-05-19T20:59:03.360Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,14 +115,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/ead/</loc>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-05-20T20:12:34.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/como-melhorar-meus-desenhos/</loc>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/ead/</loc>
         <lastmod>2020-05-20T20:12:34.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/dragon-ball/</loc>
-        <lastmod>2020-05-24T14:22:21.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/desenhar-animes/</loc>
         <lastmod>2020-05-24T14:22:21.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,14 +213,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/draw/</loc>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/dragon-ball/</loc>
         <lastmod>2020-05-24T14:22:21.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/como-desenhar-qualquer-coisa/</loc>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/draw/</loc>
         <lastmod>2020-05-24T14:22:21.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -264,13 +250,6 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-05-25T18:27:14.438Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/desenhar-manga/</loc>
-        <lastmod>2020-06-01T13:21:47.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -369,6 +348,34 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-06-05T09:02:02.457Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-06-06T15:57:49.185Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-06-06T15:57:49.185Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-06-06T15:57:49.185Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenhar-ebom-blog/tags/desenhar-manga/</loc>
+        <lastmod>2020-06-06T15:57:49.185Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

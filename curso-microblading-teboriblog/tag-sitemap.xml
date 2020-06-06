@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/sobrancelha-definitiva/</loc>
-        <lastmod>2020-03-11T18:30:08.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/ead/</loc>
         <lastmod>2020-03-12T10:06:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/curso-de-microblading-barato/</loc>
-        <lastmod>2020-05-20T20:18:23.858Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/microblading-avancado/</loc>
         <lastmod>2020-05-20T20:18:23.858Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -263,13 +249,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-05-23T05:36:05.419Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/beleza-e-estetica/</loc>
         <lastmod>2020-05-23T05:36:05.419Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -339,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/microblading-para-iniciantes/</loc>
-        <lastmod>2020-06-03T00:11:50.718Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/melhor-curso/</loc>
         <lastmod>2020-06-03T00:11:50.718Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -381,20 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/curso-de-microblading-tebori/</loc>
-        <lastmod>2020-06-03T15:50:44.279Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/micropigmentacao/</loc>
-        <lastmod>2020-06-05T09:07:41.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/cursos-microblading/</loc>
         <lastmod>2020-06-05T09:07:41.920Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -411,6 +369,48 @@
     <url>
         <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/ensino-a-distancia/</loc>
         <lastmod>2020-06-05T09:07:41.920Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/microblading-para-iniciantes/</loc>
+        <lastmod>2020-06-06T16:07:12.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/micropigmentacao/</loc>
+        <lastmod>2020-06-06T16:07:12.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/curso-de-microblading-tebori/</loc>
+        <lastmod>2020-06-06T16:07:12.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/curso-de-microblading-barato/</loc>
+        <lastmod>2020-06-06T16:07:12.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/sobrancelha-definitiva/</loc>
+        <lastmod>2020-06-06T16:07:12.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-microblading-teboriblog/tags/beleza-e-estetica/</loc>
+        <lastmod>2020-06-06T16:07:12.879Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
