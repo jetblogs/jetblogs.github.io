@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-03-22T04:45:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/speed-drawing/</loc>
         <lastmod>2020-03-23T09:20:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,20 +40,6 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/manga/</loc>
         <lastmod>2020-05-14T00:46:13.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-o-goku/</loc>
-        <lastmod>2020-05-15T21:47:43.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/curso-de-manga/</loc>
-        <lastmod>2020-05-15T21:47:43.673Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -150,14 +129,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/tecnica-de-desenhar/</loc>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-05-23T05:24:02.416Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/o-kero-desenhar-funciona/</loc>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-05-23T05:24:02.416Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -187,13 +166,6 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/ead/</loc>
         <lastmod>2020-05-24T14:19:52.996Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-05-25T18:24:54.629Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -304,13 +276,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-para-iniciantes/</loc>
-        <lastmod>2020-06-05T08:58:28.146Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-anime/</loc>
         <lastmod>2020-06-05T08:58:28.146Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -333,13 +298,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-06-06T15:55:15.865Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/anime/</loc>
         <lastmod>2020-06-06T15:55:15.865Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -390,6 +348,48 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenho/</loc>
         <lastmod>2020-06-07T22:01:32.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-06-08T21:21:34.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-o-goku/</loc>
+        <lastmod>2020-06-08T21:21:34.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/anime/</loc>
+        <lastmod>2020-06-08T21:21:34.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/kero-desenhar-kaneki/</loc>
+        <lastmod>2020-06-08T21:21:34.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/curso-de-manga/</loc>
+        <lastmod>2020-06-08T21:21:34.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-para-iniciantes/</loc>
+        <lastmod>2020-06-08T21:21:34.846Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

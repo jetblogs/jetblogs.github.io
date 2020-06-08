@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball/</loc>
-        <lastmod>2020-05-03T16:07:02.247Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/anime/</loc>
         <lastmod>2020-05-14T00:50:23.122Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-06-03T15:43:14.884Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/aprender-online/</loc>
         <lastmod>2020-06-03T15:43:14.884Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,14 +199,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/o-kero-desenhar-realmente-funciona/</loc>
-        <lastmod>2020-06-03T15:43:14.884Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-desenhar-goku/</loc>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/kerodesenhar-info/</loc>
         <lastmod>2020-06-03T15:43:14.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -320,6 +299,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/desenhar-do-zero/</loc>
         <lastmod>2020-06-07T22:04:59.380Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-desenhar-naruto/</loc>
+        <lastmod>2020-06-08T21:24:28.639Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-06-08T21:24:28.639Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-06-08T21:24:28.639Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball/</loc>
+        <lastmod>2020-06-08T21:24:28.639Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-06-08T21:24:28.639Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

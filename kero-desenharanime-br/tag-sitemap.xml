@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-03-27T03:53:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar-para-iniciantes/</loc>
         <lastmod>2020-03-27T03:53:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-05-20T20:06:41.569Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/kero-desenhar/</loc>
         <lastmod>2020-05-20T20:06:41.569Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -208,20 +194,6 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/online/</loc>
         <lastmod>2020-05-20T20:06:41.569Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/a-distancia/</loc>
-        <lastmod>2020-05-21T12:22:03.083Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/dragon-ball/</loc>
-        <lastmod>2020-05-23T05:20:30.178Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -325,6 +297,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/speed-drawing/</loc>
+        <lastmod>2020-06-03T15:36:56.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/drawing/</loc>
         <lastmod>2020-06-03T15:36:56.360Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -339,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/speed-drawing/</loc>
-        <lastmod>2020-06-03T15:36:56.360Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-06-03T15:36:56.360Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -354,13 +326,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-06-05T08:53:48.671Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/kerodesenhar-com/</loc>
         <lastmod>2020-06-05T08:53:48.671Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -430,8 +395,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/a-distancia/</loc>
+        <lastmod>2020-06-08T21:18:44.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-06-08T21:18:44.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/dragon-ball/</loc>
+        <lastmod>2020-06-08T21:18:44.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/como-evoluir-nos-meus-desenhos/</loc>
-        <lastmod>2020-06-07T21:58:53.155Z</lastmod>
+        <lastmod>2020-06-08T21:18:44.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-06-08T21:18:44.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanime-br/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-06-08T21:18:44.631Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

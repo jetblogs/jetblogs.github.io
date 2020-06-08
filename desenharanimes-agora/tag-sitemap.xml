@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/videos-online/</loc>
-        <lastmod>2020-03-26T07:13:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar-do-zero/</loc>
         <lastmod>2020-03-29T19:11:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/draw/</loc>
-        <lastmod>2020-05-20T20:06:07.152Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/aula-de-desenho/</loc>
         <lastmod>2020-05-20T20:06:07.152Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -235,13 +221,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar-manga/</loc>
-        <lastmod>2020-05-24T14:15:16.229Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/curso/</loc>
         <lastmod>2020-05-24T14:15:16.229Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -353,21 +332,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-06-05T08:53:03.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-05T08:53:03.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-06-05T08:53:03.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,13 +367,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-desenhar-anime/</loc>
-        <lastmod>2020-06-07T21:58:18.465Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar/</loc>
         <lastmod>2020-06-07T21:58:18.465Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,14 +374,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenho-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-desenhar-anime/</loc>
         <lastmod>2020-06-07T21:58:18.465Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar-animes/</loc>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-07T21:58:18.465Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/kerodesenhar-com/</loc>
         <lastmod>2020-06-07T21:58:18.465Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-06-08T21:18:03.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/draw/</loc>
+        <lastmod>2020-06-08T21:18:03.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/videos-online/</loc>
+        <lastmod>2020-06-08T21:18:03.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar-animes/</loc>
+        <lastmod>2020-06-08T21:18:03.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-06-08T21:18:03.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/curso/</loc>
+        <lastmod>2020-06-08T21:18:03.001Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
