@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/afiliados/</loc>
-        <lastmod>2020-05-21T12:16:10.514Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-05-25T19:55:03.802Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-06-03T01:34:49.793Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-06-03T01:34:49.793Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -165,13 +151,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/msr-mude-sua-rotina-logo/</loc>
-        <lastmod>2020-06-03T17:01:24.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/monetizze/</loc>
         <lastmod>2020-06-03T17:01:24.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,34 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-06-05T10:55:30.019Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-06-05T10:55:30.019Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/hotmart/</loc>
-        <lastmod>2020-06-06T17:14:20.511Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/liberdade-financeira/</loc>
-        <lastmod>2020-06-06T17:14:20.511Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/renda-extra/</loc>
         <lastmod>2020-06-06T17:14:20.511Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,8 +206,57 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/liberdade-financeira/</loc>
+        <lastmod>2020-06-06T17:14:20.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-06-06T17:14:20.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/monetizze/</loc>
+        <lastmod>2020-06-07T23:32:41.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/afiliados/</loc>
+        <lastmod>2020-06-07T23:32:41.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/hotmart/</loc>
+        <lastmod>2020-06-07T23:32:41.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-07T23:32:41.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-06-07T23:32:41.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmudesua-rotinae-bom/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-06-07T23:32:41.175Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

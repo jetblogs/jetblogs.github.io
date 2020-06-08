@@ -136,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/negocios-digitais/</loc>
-        <lastmod>2020-05-24T16:01:46.960Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/hotmart/</loc>
         <lastmod>2020-05-24T16:01:46.960Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,14 +171,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/afiliado/</loc>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-06-01T14:58:26.610Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-sua-rotina-compensa/</loc>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/afiliado/</loc>
         <lastmod>2020-06-01T14:58:26.610Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,21 +206,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-03T16:54:50.069Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/trabalhar-em-casa/</loc>
-        <lastmod>2020-06-03T16:54:50.069Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/treinamento-mude-sua-rotina/</loc>
         <lastmod>2020-06-03T16:54:50.069Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -243,6 +222,13 @@
     <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-sua-rotina/</loc>
         <lastmod>2020-06-03T16:54:50.069Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-06-05T10:50:18.427Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -269,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-06-05T10:50:18.427Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/marketing/</loc>
         <lastmod>2020-06-06T17:09:00.153Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -284,13 +263,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-06T17:09:00.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/marketing-digital/</loc>
         <lastmod>2020-06-06T17:09:00.153Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -306,6 +278,34 @@
     <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/afiliado-iniciante/</loc>
         <lastmod>2020-06-06T17:09:00.153Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-07T23:26:09.534Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-07T23:26:09.534Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/treinamento-mude-sua-rotina/</loc>
+        <lastmod>2020-06-07T23:26:09.534Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotinacomprarblog/tags/marketing-digital/</loc>
+        <lastmod>2020-06-07T23:26:09.534Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

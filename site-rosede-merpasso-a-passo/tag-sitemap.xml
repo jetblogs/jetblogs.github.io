@@ -185,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/ead/</loc>
-        <lastmod>2020-05-24T14:52:10.624Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling/</loc>
         <lastmod>2020-05-24T14:52:10.624Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -207,13 +200,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-para-melasma/</loc>
-        <lastmod>2020-05-25T18:44:46.411Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/estetica/</loc>
         <lastmod>2020-05-25T18:44:46.411Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -376,6 +362,34 @@
     <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/tratamento-facial/</loc>
         <lastmod>2020-06-06T16:16:45.541Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/ead/</loc>
+        <lastmod>2020-06-07T22:22:25.287Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/tratamento-estetico/</loc>
+        <lastmod>2020-06-07T22:22:25.287Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/estetica/</loc>
+        <lastmod>2020-06-07T22:22:25.287Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/rose-de-mer-passo-a-passo/</loc>
+        <lastmod>2020-06-07T22:22:25.287Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

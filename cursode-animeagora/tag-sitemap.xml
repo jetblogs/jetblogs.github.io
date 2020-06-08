@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-03-12T10:33:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenhando-animes/</loc>
         <lastmod>2020-03-20T09:51:54.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,13 +33,6 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/dragon-ball-super/</loc>
         <lastmod>2020-03-27T03:56:16.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/aula-de-desenho/</loc>
-        <lastmod>2020-05-03T16:05:21.551Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -201,20 +187,6 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/ead/</loc>
         <lastmod>2020-05-24T14:19:52.996Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenho/</loc>
-        <lastmod>2020-05-24T14:19:52.996Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-05-25T18:24:54.629Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -390,6 +362,34 @@
     <url>
         <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-06-06T15:55:15.865Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-06-07T22:01:32.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-06-07T22:01:32.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/aula-de-desenho/</loc>
+        <lastmod>2020-06-07T22:01:32.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-animeagora/tags/desenho/</loc>
+        <lastmod>2020-06-07T22:01:32.083Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
