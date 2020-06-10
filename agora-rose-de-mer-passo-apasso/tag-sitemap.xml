@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/ead/</loc>
-        <lastmod>2020-03-06T13:12:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/online/</loc>
         <lastmod>2020-03-06T13:12:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/peeling-rose-de-mer-resultados/</loc>
-        <lastmod>2020-03-30T08:20:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/curso-a-distancia/</loc>
         <lastmod>2020-04-05T17:56:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -172,13 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/beleza/</loc>
-        <lastmod>2020-05-16T19:06:23.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/rose-de-mer-brasil/</loc>
         <lastmod>2020-05-16T19:06:23.294Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -325,13 +304,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/peeling-rose-de-mer-doi/</loc>
-        <lastmod>2020-06-01T13:41:16.478Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/ensino-a-distancia/</loc>
         <lastmod>2020-06-01T13:41:16.478Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,21 +388,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/rose-de-mer-produtos/</loc>
-        <lastmod>2020-06-03T15:50:30.909Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/peeling-rose-de-mer-e-bom/</loc>
-        <lastmod>2020-06-05T09:08:25.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/rose-de-mer-o-que-e/</loc>
         <lastmod>2020-06-05T09:08:25.128Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -544,6 +502,48 @@
     <url>
         <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/peeling-rose-de-mer-como-funciona/</loc>
         <lastmod>2020-06-08T19:13:15.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/peeling-rose-de-mer-doi/</loc>
+        <lastmod>2020-06-10T03:16:06.059Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/peeling-rose-de-mer-resultados/</loc>
+        <lastmod>2020-06-10T03:16:06.059Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/rose-de-mer-o-que-e/</loc>
+        <lastmod>2020-06-10T03:16:06.059Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/ead/</loc>
+        <lastmod>2020-06-10T03:16:06.059Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/rose-de-mer-brasil/</loc>
+        <lastmod>2020-06-10T03:16:06.059Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-rose-de-mer-passo-apasso/tags/rose-de-mer-produtos/</loc>
+        <lastmod>2020-06-10T03:16:06.059Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

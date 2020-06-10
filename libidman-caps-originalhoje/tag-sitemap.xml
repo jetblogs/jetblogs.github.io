@@ -24,22 +24,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-08T20:20:14.624Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-06-10T04:35:48.752Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-08T20:20:14.624Z</lastmod>
+        <lastmod>2020-06-10T04:35:48.752Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-06-08T20:20:14.624Z</lastmod>
+        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-10T04:35:48.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-06-10T04:35:48.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-10T04:35:48.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-originalhoje/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-10T04:35:48.752Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -73,22 +73,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-05-24T15:30:45.381Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-05-24T15:30:45.381Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-05-25T19:55:56.527Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -138,20 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-06-03T16:47:49.498Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-composicao/</loc>
-        <lastmod>2020-06-05T10:56:17.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-caps-para-que-serve/</loc>
-        <lastmod>2020-06-05T10:56:17.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-06-08T19:47:39.559Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-10T04:26:11.921Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-caps-para-que-serve/</loc>
+        <lastmod>2020-06-10T04:26:11.921Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-06-10T04:26:11.921Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capspreco-online/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-10T04:26:11.921Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

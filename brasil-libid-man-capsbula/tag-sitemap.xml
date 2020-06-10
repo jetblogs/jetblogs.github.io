@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-composicao/</loc>
-        <lastmod>2020-05-21T10:50:43.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-05-21T10:50:43.936Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -81,13 +74,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-05-24T15:28:45.783Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libidman-caps/</loc>
         <lastmod>2020-05-24T15:28:45.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -117,13 +103,6 @@
     <url>
         <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-05-25T19:53:03.429Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-01T14:43:41.890Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-07T23:30:09.895Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-06-07T23:30:09.895Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-08T19:37:55.565Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-10T04:23:50.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-10T04:23:50.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-10T04:23:50.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libid-man-capsbula/tags/libidman-caps/</loc>
+        <lastmod>2020-06-10T04:23:50.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

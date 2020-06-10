@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/maquiagem/</loc>
-        <lastmod>2020-03-10T20:07:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/curso-a-distancia/</loc>
         <lastmod>2020-03-11T18:28:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,20 +68,6 @@
     <url>
         <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/maquiagem-definitiva/</loc>
         <lastmod>2020-03-27T03:23:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/online/</loc>
-        <lastmod>2020-03-29T18:35:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/curso-de-microblading-online/</loc>
-        <lastmod>2020-03-31T07:00:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -158,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/microblading-sobrancelha/</loc>
-        <lastmod>2020-05-16T19:02:38.152Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/como-fazer-microblading/</loc>
         <lastmod>2020-05-16T19:02:38.152Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,14 +213,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/sobrancelha-definitiva/</loc>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/microblading-fio-a-fio/</loc>
         <lastmod>2020-05-25T18:34:16.934Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/microblading-fio-a-fio/</loc>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/sobrancelha-definitiva/</loc>
         <lastmod>2020-05-25T18:34:16.934Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-06-03T15:48:56.044Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/beleza/</loc>
         <lastmod>2020-06-03T15:48:56.044Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -332,14 +297,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/microblading-valor/</loc>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/curso/</loc>
         <lastmod>2020-06-06T16:05:16.937Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/curso/</loc>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/microblading-valor/</loc>
         <lastmod>2020-06-06T16:05:16.937Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -423,8 +388,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/curso-de-microblading-online/</loc>
+        <lastmod>2020-06-10T03:13:37.517Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-06-10T03:13:37.517Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/maquiagem/</loc>
+        <lastmod>2020-06-10T03:13:37.517Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/micropigmentacao/</loc>
-        <lastmod>2020-06-08T21:30:42.040Z</lastmod>
+        <lastmod>2020-06-10T03:13:37.517Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/como-fazer-microblading/</loc>
+        <lastmod>2020-06-10T03:13:37.517Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoracomofazermicroblading-online/tags/online/</loc>
+        <lastmod>2020-06-10T03:13:37.517Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

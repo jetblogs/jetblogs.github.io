@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-05-16T19:52:25.268Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libidman-caps/</loc>
         <lastmod>2020-05-17T15:37:22.291Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +81,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-05-25T19:57:52.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps/</loc>
         <lastmod>2020-05-25T19:57:52.379Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-06-05T10:58:05.960Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man/</loc>
         <lastmod>2020-06-05T10:58:05.960Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-06-07T23:35:32.834Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-06-07T23:35:32.834Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-08T19:53:56.651Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-08T19:53:56.651Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -250,6 +215,41 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-08T19:53:56.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-06-10T04:27:45.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-06-10T04:27:45.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-06-10T04:27:45.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-10T04:27:45.863Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-e-bom-brasil/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-10T04:27:45.863Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

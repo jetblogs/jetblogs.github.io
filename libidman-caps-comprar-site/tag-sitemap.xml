@@ -10,20 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-08T20:04:08.822Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-08T20:04:08.822Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-06-08T20:04:08.822Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,6 +26,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-08T20:04:08.822Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libid-man-original/</loc>
+        <lastmod>2020-06-10T04:30:16.872Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libidman-caps/</loc>
+        <lastmod>2020-06-10T04:30:16.872Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-10T04:30:16.872Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-comprar-site/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-10T04:30:16.872Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

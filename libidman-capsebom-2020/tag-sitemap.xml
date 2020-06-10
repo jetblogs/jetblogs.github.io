@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-08T20:12:33.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-08T20:12:33.507Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,6 +33,48 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-original/</loc>
         <lastmod>2020-06-08T20:12:33.507Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-10T04:32:57.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-06-10T04:32:57.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-10T04:32:57.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-10T04:32:57.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-06-10T04:32:57.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsebom-2020/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-06-10T04:32:57.316Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
