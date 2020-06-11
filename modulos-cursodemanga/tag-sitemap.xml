@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/como-desenhar-para-iniciantes/</loc>
-        <lastmod>2020-03-23T09:17:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/aula-de-desenho/</loc>
         <lastmod>2020-03-27T03:53:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -110,13 +103,6 @@
     <url>
         <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/como-desenhar-animes/</loc>
         <lastmod>2020-05-15T21:45:41.701Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-05-16T18:52:07.260Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,6 +192,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/kerodesenhar/</loc>
+        <lastmod>2020-05-24T14:15:54.560Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/goku/</loc>
         <lastmod>2020-05-24T14:15:54.560Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,13 +214,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/aulas-online/</loc>
-        <lastmod>2020-05-24T14:15:54.560Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/kerodesenhar/</loc>
         <lastmod>2020-05-24T14:15:54.560Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -263,13 +249,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/dragon-ball-super/</loc>
-        <lastmod>2020-06-03T15:36:51.733Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/a-distancia/</loc>
         <lastmod>2020-06-03T15:36:51.733Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -430,15 +409,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/ead/</loc>
+        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-06-10T03:02:25.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-06-10T03:02:25.286Z</lastmod>
+        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/como-desenhar-para-iniciantes/</loc>
+        <lastmod>2020-06-11T16:45:48.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-06-11T16:45:48.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/a-distancia/</loc>
+        <lastmod>2020-06-11T16:45:48.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulos-cursodemanga/tags/ead/</loc>
+        <lastmod>2020-06-11T16:45:48.470Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

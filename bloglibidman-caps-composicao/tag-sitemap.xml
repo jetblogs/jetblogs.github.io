@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-original/</loc>
-        <lastmod>2020-02-02T17:56:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libidman-caps-preco/</loc>
         <lastmod>2020-03-27T06:05:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,14 +108,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-efeitos-colaterais/</loc>
+        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-03T01:06:43.480Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-bula/</loc>
+        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-06-03T01:06:43.480Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -165,13 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-06-05T10:55:34.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-onde-comprar/</loc>
         <lastmod>2020-06-05T10:55:34.813Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-08T19:45:18.474Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-06-08T19:45:18.474Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,15 +248,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-depoimentos/</loc>
+        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-10T04:25:34.290Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-10T04:25:34.290Z</lastmod>
+        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-06-11T18:08:24.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-11T18:08:24.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-caps-onde-comprar/</loc>
+        <lastmod>2020-06-11T18:08:24.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibidman-caps-composicao/tags/libid-man-original/</loc>
+        <lastmod>2020-06-11T18:08:24.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

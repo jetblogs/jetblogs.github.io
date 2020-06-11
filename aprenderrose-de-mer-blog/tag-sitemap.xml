@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/online/</loc>
-        <lastmod>2020-05-15T22:10:07.625Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/peeling-rose-de-mer-doi/</loc>
         <lastmod>2020-05-16T19:15:03.188Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/rose-de-mer-youtube/</loc>
-        <lastmod>2020-05-24T14:52:51.998Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/curso-ead/</loc>
         <lastmod>2020-05-24T14:52:51.998Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -158,13 +144,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/peeling-rose-de-mer-cuidados/</loc>
-        <lastmod>2020-06-01T13:52:18.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/peeling-rose-de-mer-valor/</loc>
         <lastmod>2020-06-01T13:52:18.132Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/curso-peeling-rose-de-mer/</loc>
-        <lastmod>2020-06-10T03:25:43.052Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/peeling-rose-de-mer-e-bom/</loc>
         <lastmod>2020-06-10T03:25:43.052Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -397,6 +369,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/rose-de-mer-israel/</loc>
         <lastmod>2020-06-10T03:25:43.052Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/rose-de-mer-youtube/</loc>
+        <lastmod>2020-06-11T17:07:46.469Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/curso-peeling-rose-de-mer/</loc>
+        <lastmod>2020-06-11T17:07:46.469Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/online/</loc>
+        <lastmod>2020-06-11T17:07:46.469Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderrose-de-mer-blog/tags/peeling-rose-de-mer-valor/</loc>
+        <lastmod>2020-06-11T17:07:46.469Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

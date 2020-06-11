@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/desenhando/</loc>
-        <lastmod>2020-05-14T00:51:29.616Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-05-14T00:51:29.616Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -39,13 +32,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/desenhando-animes/</loc>
-        <lastmod>2020-05-17T14:42:43.042Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-05-17T14:42:43.042Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso-de-anime/</loc>
-        <lastmod>2020-06-03T15:44:18.934Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/anime/</loc>
         <lastmod>2020-06-03T15:44:18.934Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-06-07T22:05:53.339Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/kerodesenhar/</loc>
         <lastmod>2020-06-07T22:05:53.339Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,7 +262,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso/</loc>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/draw/</loc>
         <lastmod>2020-06-08T21:25:13.594Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,14 +276,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/draw/</loc>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-06-08T21:25:13.594Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso-kerodesenhar-com/</loc>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso/</loc>
         <lastmod>2020-06-08T21:25:13.594Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -325,6 +297,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/aulas-online/</loc>
+        <lastmod>2020-06-10T03:12:39.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-10T03:12:39.887Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -332,15 +311,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-06-10T03:12:39.887Z</lastmod>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-06-11T16:55:39.093Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/aulas-online/</loc>
-        <lastmod>2020-06-10T03:12:39.887Z</lastmod>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-11T16:55:39.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-06-11T16:55:39.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-06-11T16:55:39.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/desenhando/</loc>
+        <lastmod>2020-06-11T16:55:39.093Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

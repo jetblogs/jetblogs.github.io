@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/ead/</loc>
-        <lastmod>2020-05-17T15:00:53.196Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/rose-de-mer-peeling-do-mar-morto/</loc>
         <lastmod>2020-05-17T15:00:53.196Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +81,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/rose-de-mer-peeling/</loc>
-        <lastmod>2020-05-20T20:27:19.792Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/rose-de-mer-curso/</loc>
         <lastmod>2020-05-20T20:27:19.792Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -201,13 +187,6 @@
     <url>
         <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/curso-online/</loc>
         <lastmod>2020-05-25T18:44:22.106Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/peeling-natural/</loc>
-        <lastmod>2020-06-01T13:51:24.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -325,14 +304,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/curso-de-peeling-rose-de-mer-funciona/</loc>
+        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/carreiras/</loc>
         <lastmod>2020-06-07T22:22:05.737Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/carreiras/</loc>
+        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/curso-de-peeling-rose-de-mer-funciona/</loc>
         <lastmod>2020-06-07T22:22:05.737Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -388,13 +367,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/rose-de-mer-o-que-e/</loc>
-        <lastmod>2020-06-10T03:24:54.587Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/ensino-a-distancia/</loc>
         <lastmod>2020-06-10T03:24:54.587Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -404,6 +376,41 @@
     <url>
         <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/peeling-rose-de-mer-e-bom/</loc>
         <lastmod>2020-06-10T03:24:54.587Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/ead/</loc>
+        <lastmod>2020-06-11T17:06:58.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/peeling-natural/</loc>
+        <lastmod>2020-06-11T17:06:58.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/rose-de-mer-o-que-e/</loc>
+        <lastmod>2020-06-11T17:06:58.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/rose-de-mer-curso/</loc>
+        <lastmod>2020-06-11T17:06:58.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brrose-demere-confiavel/tags/peeling-do-mar-morto/</loc>
+        <lastmod>2020-06-11T17:06:58.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -80,35 +80,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-06-01T14:47:00.710Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-01T14:47:00.710Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-06-03T01:06:39.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-03T01:06:39.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-06-03T01:06:39.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-07T23:32:24.329Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-06-07T23:32:24.329Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -207,6 +172,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-07T23:32:24.329Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-07T23:32:24.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,15 +241,43 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-resultados/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-10T04:25:29.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-10T04:25:29.293Z</lastmod>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-11T18:08:18.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-11T18:08:18.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-11T18:08:18.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-11T18:08:18.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-11T18:08:18.442Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
