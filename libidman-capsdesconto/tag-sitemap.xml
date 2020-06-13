@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-06-10T04:33:38.973Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-11T18:16:51.073Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-06-11T18:16:51.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-11T18:16:51.073Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,8 +80,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-06-13T01:44:27.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-11T18:16:51.073Z</lastmod>
+        <lastmod>2020-06-13T01:44:27.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-06-13T01:44:27.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-06-13T01:44:27.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-06-13T01:44:27.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

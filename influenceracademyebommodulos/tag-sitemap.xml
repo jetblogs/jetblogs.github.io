@@ -157,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-06-03T15:48:32.240Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-06-05T09:04:56.936Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/youtube/</loc>
-        <lastmod>2020-06-06T16:02:32.799Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/online/</loc>
         <lastmod>2020-06-06T16:02:32.799Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,14 +220,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/ensino-a-distancia/</loc>
+        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-08T19:07:45.398Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/curso-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/ensino-a-distancia/</loc>
         <lastmod>2020-06-08T19:07:45.398Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,6 +255,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/curso-a-distancia/</loc>
+        <lastmod>2020-06-10T03:12:55.457Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/influencer-academy-gratis/</loc>
         <lastmod>2020-06-10T03:12:55.457Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,21 +276,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/curso-a-distancia/</loc>
-        <lastmod>2020-06-10T03:12:55.457Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/curso/</loc>
-        <lastmod>2020-06-10T03:12:55.457Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/curso-influencer-academy/</loc>
         <lastmod>2020-06-10T03:12:55.457Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -325,8 +304,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-06-13T00:38:33.999Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/academy/</loc>
-        <lastmod>2020-06-11T16:56:01.553Z</lastmod>
+        <lastmod>2020-06-13T00:38:33.999Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/curso-influencer-academy/</loc>
+        <lastmod>2020-06-13T00:38:33.999Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyebommodulos/tags/youtube/</loc>
+        <lastmod>2020-06-13T00:38:33.999Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

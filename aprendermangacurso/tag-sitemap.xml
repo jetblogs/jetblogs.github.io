@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermangacurso/tags/goku/</loc>
-        <lastmod>2020-05-17T14:39:11.881Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermangacurso/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-05-18T23:57:33.590Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprendermangacurso/tags/como-desenhar/</loc>
-        <lastmod>2020-05-24T14:20:24.391Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermangacurso/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-05-24T14:20:24.391Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -193,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprendermangacurso/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-06-03T00:02:29.083Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermangacurso/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-06-03T00:02:29.083Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -332,28 +311,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermangacurso/tags/videos-online/</loc>
-        <lastmod>2020-06-11T16:50:02.836Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermangacurso/tags/tutoriais/</loc>
-        <lastmod>2020-06-11T16:50:02.836Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermangacurso/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-11T16:50:02.836Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermangacurso/tags/online/</loc>
         <lastmod>2020-06-11T16:50:02.836Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -369,6 +327,48 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermangacurso/tags/como-desenhar-para-iniciantes/</loc>
         <lastmod>2020-06-11T16:50:02.836Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacurso/tags/goku/</loc>
+        <lastmod>2020-06-13T00:30:25.275Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacurso/tags/videos-online/</loc>
+        <lastmod>2020-06-13T00:30:25.275Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacurso/tags/como-desenhar-o-goku/</loc>
+        <lastmod>2020-06-13T00:30:25.275Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacurso/tags/online/</loc>
+        <lastmod>2020-06-13T00:30:25.275Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacurso/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-06-13T00:30:25.275Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermangacurso/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-13T00:30:25.275Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

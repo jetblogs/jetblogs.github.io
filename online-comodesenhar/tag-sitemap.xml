@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-05-03T16:06:11.251Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/a-distancia/</loc>
         <lastmod>2020-05-15T21:55:21.372Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,20 +33,6 @@
     <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso-de-desenho/</loc>
         <lastmod>2020-05-19T20:58:28.712Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/animes/</loc>
-        <lastmod>2020-05-19T20:58:28.712Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-manga/</loc>
-        <lastmod>2020-05-21T12:26:30.371Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso-de-anime/</loc>
-        <lastmod>2020-06-06T15:57:10.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-06-06T15:57:10.402Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -229,13 +201,6 @@
     <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-06-06T15:57:10.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso-de-desenho-online/</loc>
-        <lastmod>2020-06-07T22:02:58.413Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -262,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/speed-drawing/</loc>
-        <lastmod>2020-06-08T21:22:52.682Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-06-08T21:22:52.682Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,7 +241,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/speed-drawing/</loc>
         <lastmod>2020-06-08T21:22:52.682Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -291,6 +249,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-06-08T21:22:52.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-06-08T21:22:52.682Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -355,6 +320,41 @@
     <url>
         <loc>https://jetblogs.github.io/online-comodesenhar/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-06-11T16:52:18.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-13T00:31:56.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-06-13T00:31:56.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-06-13T00:31:56.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/animes/</loc>
+        <lastmod>2020-06-13T00:31:56.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-comodesenhar/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-06-13T00:31:56.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

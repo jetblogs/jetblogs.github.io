@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-06-10T04:34:05.179Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-06-10T04:34:05.179Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-11T18:17:17.733Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-original/</loc>
         <lastmod>2020-06-11T18:17:17.733Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,6 +82,34 @@
     <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-11T18:17:17.733Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-13T01:44:54.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-13T01:44:54.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-13T01:44:54.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-anvisa/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-13T01:44:54.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

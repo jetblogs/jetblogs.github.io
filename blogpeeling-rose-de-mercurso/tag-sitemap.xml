@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/rose-de-mer-funciona/</loc>
-        <lastmod>2020-02-16T21:14:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/cicatrizes-de-acne/</loc>
         <lastmod>2020-02-28T20:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,13 +40,6 @@
     <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/curso-a-distancia/</loc>
         <lastmod>2020-03-05T12:56:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-valor/</loc>
-        <lastmod>2020-03-06T13:16:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -187,13 +173,6 @@
     <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/curso-de-peeling-rose-de-mer-funciona/</loc>
         <lastmod>2020-05-16T19:10:11.510Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-cuidados/</loc>
-        <lastmod>2020-05-17T14:56:29.838Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -360,13 +339,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/cuidar-da-pele/</loc>
-        <lastmod>2020-06-05T09:12:32.053Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/curso-de-peeling-rose-de-mer-download/</loc>
         <lastmod>2020-06-05T09:12:32.053Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -486,14 +458,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-curso/</loc>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/metodo-rose-de-mer/</loc>
         <lastmod>2020-06-10T03:20:03.907Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/metodo-rose-de-mer/</loc>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-curso/</loc>
         <lastmod>2020-06-10T03:20:03.907Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -528,8 +500,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-valor/</loc>
+        <lastmod>2020-06-13T00:46:24.555Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/cuidar-da-pele/</loc>
+        <lastmod>2020-06-13T00:46:24.555Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/peeling-rose-de-mer-cuidados/</loc>
+        <lastmod>2020-06-13T00:46:24.555Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/rose-de-mer-funciona/</loc>
+        <lastmod>2020-06-13T00:46:24.555Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/blogpeeling-rose-de-mercurso/tags/rose-de-mer-brasil/</loc>
-        <lastmod>2020-06-11T17:02:02.311Z</lastmod>
+        <lastmod>2020-06-13T00:46:24.555Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

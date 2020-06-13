@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/curso-de-microblading-gratuito/</loc>
-        <lastmod>2020-05-17T14:57:53.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/microblading-preco/</loc>
         <lastmod>2020-05-19T21:12:41.451Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/sobrancelha-definitiva/</loc>
-        <lastmod>2020-06-05T09:15:45.678Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/como-fazer-microblading/</loc>
         <lastmod>2020-06-06T16:14:35.957Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -299,27 +285,6 @@
     <url>
         <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/como-fazer-fio-a-fio/</loc>
         <lastmod>2020-06-07T22:19:26.124Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/fio-a-fio/</loc>
-        <lastmod>2020-06-07T22:19:26.124Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/estetica/</loc>
-        <lastmod>2020-06-08T21:35:43.709Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/curso-de-microblading-avancado/</loc>
-        <lastmod>2020-06-08T21:35:43.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -395,7 +360,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/online/</loc>
+        <lastmod>2020-06-11T17:05:59.520Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/curso-online-de-microblading/</loc>
         <lastmod>2020-06-11T17:05:59.520Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -409,15 +381,43 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/online/</loc>
-        <lastmod>2020-06-11T17:05:59.520Z</lastmod>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/estetica/</loc>
+        <lastmod>2020-06-13T00:52:12.393Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/curso-online-de-microblading/</loc>
-        <lastmod>2020-06-11T17:05:59.520Z</lastmod>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/passo-a-passo/</loc>
+        <lastmod>2020-06-13T00:52:12.393Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/curso-de-microblading-avancado/</loc>
+        <lastmod>2020-06-13T00:52:12.393Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/sobrancelha-definitiva/</loc>
+        <lastmod>2020-06-13T00:52:12.393Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/fio-a-fio/</loc>
+        <lastmod>2020-06-13T00:52:12.393Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-curso-demicrobladingonline/tags/curso-de-microblading-gratuito/</loc>
+        <lastmod>2020-06-13T00:52:12.393Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
