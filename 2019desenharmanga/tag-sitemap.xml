@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/ead/</loc>
-        <lastmod>2020-05-15T21:47:58.104Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/kerodesenhar-info/</loc>
         <lastmod>2020-05-16T18:56:12.837Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,21 +129,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-05-23T05:24:24.117Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-05-23T05:24:24.117Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/curso/</loc>
         <lastmod>2020-05-23T05:24:24.117Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -353,13 +332,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-naruto/</loc>
-        <lastmod>2020-06-11T16:49:52.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-06-11T16:49:52.897Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -381,14 +353,21 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-13T00:30:10.227Z</lastmod>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-naruto/</loc>
+        <lastmod>2020-06-11T16:49:52.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-06-13T00:30:10.227Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-06-13T00:30:10.227Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -409,15 +388,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-fazer-esboco/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-13T00:30:10.227Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-06-13T00:30:10.227Z</lastmod>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/curso/</loc>
+        <lastmod>2020-06-14T16:31:02.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-06-14T16:31:02.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-06-14T16:31:02.172Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/ead/</loc>
+        <lastmod>2020-06-14T16:31:02.172Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

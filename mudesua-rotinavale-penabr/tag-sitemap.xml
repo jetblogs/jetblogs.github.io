@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/curso-mude-sua-rotina-a-verdade/</loc>
-        <lastmod>2020-05-21T12:01:17.083Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/msr-mude-sua-rotina-logo/</loc>
         <lastmod>2020-05-23T06:35:59.491Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-03T16:53:00.773Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/trabalhar-pela-internet/</loc>
         <lastmod>2020-06-03T16:53:00.773Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,6 +122,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/msr-resultados/</loc>
+        <lastmod>2020-06-05T10:48:57.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/afiliado-iniciante/</loc>
         <lastmod>2020-06-05T10:48:57.897Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -144,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/vendas-online/</loc>
-        <lastmod>2020-06-05T10:48:57.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/msr-resultados/</loc>
         <lastmod>2020-06-05T10:48:57.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -186,20 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/curso-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-06-07T23:24:16.605Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-06-07T23:24:16.605Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/mude-sua-rotina/</loc>
         <lastmod>2020-06-07T23:24:16.605Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,14 +241,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/eduzz/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-11T18:12:15.603Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/msr-mude-sua-rotina-funciona/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/eduzz/</loc>
         <lastmod>2020-06-11T18:12:15.603Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -306,6 +278,34 @@
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/hotmart/</loc>
         <lastmod>2020-06-13T02:01:18.384Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-06-14T18:55:29.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-14T18:55:29.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <lastmod>2020-06-14T18:55:29.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinavale-penabr/tags/mude-sua-rotina/</loc>
+        <lastmod>2020-06-14T18:55:29.096Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

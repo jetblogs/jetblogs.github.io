@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-06-01T13:49:52.527Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-vale-a-pena/</loc>
         <lastmod>2020-06-03T00:22:39.358Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,13 +144,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/curso/</loc>
-        <lastmod>2020-06-06T16:15:15.815Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/gabriella-ferreira/</loc>
         <lastmod>2020-06-06T16:15:15.815Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/ead/</loc>
-        <lastmod>2020-06-10T03:26:10.023Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-gratis/</loc>
         <lastmod>2020-06-10T03:26:10.023Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -236,6 +215,13 @@
     <url>
         <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-10T03:26:10.023Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-06-11T17:09:00.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -269,27 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-e-bom/</loc>
-        <lastmod>2020-06-11T17:09:00.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-06-11T17:09:00.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy/</loc>
-        <lastmod>2020-06-13T00:55:34.643Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-06-13T00:55:34.643Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -306,6 +271,41 @@
     <url>
         <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/curso-ead/</loc>
         <lastmod>2020-06-13T00:55:34.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-06-14T16:52:45.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy-e-bom/</loc>
+        <lastmod>2020-06-14T16:52:45.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/influencer-academy/</loc>
+        <lastmod>2020-06-14T16:52:45.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/gabriella-ferreira/</loc>
+        <lastmod>2020-06-14T16:52:45.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agoraaprenderdigitalinfluencer/tags/ead/</loc>
+        <lastmod>2020-06-14T16:52:45.115Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

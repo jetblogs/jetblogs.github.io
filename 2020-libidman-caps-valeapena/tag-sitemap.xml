@@ -45,21 +45,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man/</loc>
-        <lastmod>2020-06-10T04:28:48.530Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-06-11T18:12:01.727Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-11T18:12:01.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -73,7 +59,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-anvisa/</loc>
+        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-13T01:39:45.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -94,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-13T01:39:45.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-06-13T01:39:45.887Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -110,6 +89,34 @@
     <url>
         <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-13T01:39:45.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-06-14T18:52:31.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-06-14T18:52:31.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man/</loc>
+        <lastmod>2020-06-14T18:52:31.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-libidman-caps-valeapena/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-06-14T18:52:31.735Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -143,22 +143,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/tutoriais/</loc>
-        <lastmod>2020-05-24T14:24:09.565Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-05-25T18:28:51.108Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-06-01T13:23:22.247Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -199,14 +185,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/desenhar-manga/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-06-05T09:03:20.797Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/dragon-ball-super-desenho/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/desenhar-manga/</loc>
         <lastmod>2020-06-05T09:03:20.797Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,20 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/curso/</loc>
-        <lastmod>2020-06-08T21:24:21.318Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-08T21:24:21.318Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/a-distancia/</loc>
         <lastmod>2020-06-08T21:24:21.318Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,14 +325,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/manga/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/aulas-online/</loc>
         <lastmod>2020-06-13T00:34:16.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/aulas-online/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/manga/</loc>
         <lastmod>2020-06-13T00:34:16.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -383,6 +355,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/desenho/</loc>
         <lastmod>2020-06-13T00:34:16.581Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/tutoriais/</loc>
+        <lastmod>2020-06-14T16:34:27.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/curso/</loc>
+        <lastmod>2020-06-14T16:34:27.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-06-14T16:34:27.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-06-14T16:34:27.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-05-19T21:50:31.528Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-05-23T06:24:42.644Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,20 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-06-07T23:27:49.509Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libidman-caps/</loc>
-        <lastmod>2020-06-07T23:27:49.509Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-08T19:31:26.834Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-06-13T01:34:07.412Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libidman-caps-preco/</loc>
         <lastmod>2020-06-13T01:34:07.412Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-13T01:34:07.412Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-06-14T18:38:59.215Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libidman-caps/</loc>
+        <lastmod>2020-06-14T18:38:59.215Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-14T18:38:59.215Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019libidman-caps-comousar/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-06-14T18:38:59.215Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

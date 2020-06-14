@@ -66,20 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/videos-online/</loc>
-        <lastmod>2020-05-23T05:24:51.809Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aula-de-desenho/</loc>
-        <lastmod>2020-05-23T05:24:51.809Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/kerodesenhar/</loc>
         <lastmod>2020-05-24T14:20:38.830Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -89,13 +75,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-05-24T14:20:38.830Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aprenda-a-desenhar/</loc>
-        <lastmod>2020-05-25T18:25:45.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -248,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-animes/</loc>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-08T21:22:09.485Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-fazer-esboco/</loc>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-animes/</loc>
         <lastmod>2020-06-08T21:22:09.485Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,13 +269,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-desenhar-o-goku/</loc>
-        <lastmod>2020-06-11T16:50:16.831Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/kerodesenhar-info/</loc>
         <lastmod>2020-06-11T16:50:16.831Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,13 +297,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/curso-de-manga/</loc>
-        <lastmod>2020-06-13T00:30:44.766Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/para-iniciantes/</loc>
         <lastmod>2020-06-13T00:30:44.766Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -355,6 +320,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/dragon-ball-super/</loc>
         <lastmod>2020-06-13T00:30:44.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/videos-online/</loc>
+        <lastmod>2020-06-14T16:31:25.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/curso-de-manga/</loc>
+        <lastmod>2020-06-14T16:31:25.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-desenhar-o-goku/</loc>
+        <lastmod>2020-06-14T16:31:25.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aula-de-desenho/</loc>
+        <lastmod>2020-06-14T16:31:25.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aprenda-a-desenhar/</loc>
+        <lastmod>2020-06-14T16:31:25.631Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

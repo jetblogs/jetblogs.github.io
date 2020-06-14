@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsvalepenanovo/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-13T01:45:30.176Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsvalepenanovo/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-13T01:45:30.176Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -110,6 +103,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-capsvalepenanovo/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-06-13T01:45:30.176Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsvalepenanovo/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-14T19:02:28.217Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsvalepenanovo/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-14T19:02:28.217Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsvalepenanovo/tags/libid-man/</loc>
+        <lastmod>2020-06-14T19:02:28.217Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsvalepenanovo/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-14T19:02:28.217Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

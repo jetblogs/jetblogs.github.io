@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-desenho/</loc>
-        <lastmod>2020-05-15T21:47:26.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/tutoriais/</loc>
         <lastmod>2020-05-15T21:47:26.862Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -61,13 +54,6 @@
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-05-16T18:55:26.456Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-05-17T14:38:15.211Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,20 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/online/</loc>
-        <lastmod>2020-05-25T18:24:27.974Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-01T13:18:35.174Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/aprender-online/</loc>
         <lastmod>2020-06-01T13:18:35.174Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/ead/</loc>
-        <lastmod>2020-06-05T08:57:20.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-06-05T08:57:20.254Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -270,6 +235,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-06-05T08:57:20.254Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/ead/</loc>
         <lastmod>2020-06-05T08:57:20.254Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -291,13 +263,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-06-07T22:01:11.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-anime/</loc>
         <lastmod>2020-06-07T22:01:11.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -425,6 +390,41 @@
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/para-iniciantes/</loc>
         <lastmod>2020-06-13T00:28:09.461Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/online/</loc>
+        <lastmod>2020-06-14T16:30:21.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-06-14T16:30:21.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-desenho/</loc>
+        <lastmod>2020-06-14T16:30:21.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-14T16:30:21.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-06-14T16:30:21.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

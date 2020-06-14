@@ -17,20 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/curso-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-04-05T19:56:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/negocios-online/</loc>
-        <lastmod>2020-05-08T04:41:17.180Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/monetizze/</loc>
         <lastmod>2020-05-16T19:53:54.441Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-01T14:56:54.808Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-06-01T14:56:54.808Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,14 +94,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-reclame-aqui/</loc>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-06-01T14:56:54.808Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/curso-msr-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-reclame-aqui/</loc>
         <lastmod>2020-06-01T14:56:54.808Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,6 +269,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-13T02:00:38.444Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-13T02:00:38.444Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,22 +283,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-curso/</loc>
-        <lastmod>2020-06-13T02:00:38.444Z</lastmod>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-14T18:54:53.155Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-funciona/</loc>
-        <lastmod>2020-06-13T02:00:38.444Z</lastmod>
+        <lastmod>2020-06-14T18:54:53.155Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-06-13T02:00:38.444Z</lastmod>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/msr-curso/</loc>
+        <lastmod>2020-06-14T18:54:53.155Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/curso-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-14T18:54:53.155Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/simplescurso-mudesuarotina/tags/negocios-online/</loc>
+        <lastmod>2020-06-14T18:54:53.155Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

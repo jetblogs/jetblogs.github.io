@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-03-30T19:11:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-05-03T16:04:16.659Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/animes/</loc>
-        <lastmod>2020-06-01T13:16:05.529Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/desenhar-manga/</loc>
         <lastmod>2020-06-01T13:16:05.529Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,20 +402,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/o-kero-desenhar-realmente-funciona/</loc>
-        <lastmod>2020-06-13T00:24:29.569Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/dragon-ball-super/</loc>
-        <lastmod>2020-06-13T00:24:29.569Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/kerodesenhar-com/</loc>
         <lastmod>2020-06-13T00:24:29.569Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-animes-curso/tags/desenho/</loc>
         <lastmod>2020-06-13T00:24:29.569Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-06-14T16:27:35.020Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/dragon-ball-super/</loc>
+        <lastmod>2020-06-14T16:27:35.020Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/desenhar-manga/</loc>
+        <lastmod>2020-06-14T16:27:35.020Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-animes-curso/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-06-14T16:27:35.020Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

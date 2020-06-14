@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/expert-influencer-academy/</loc>
-        <lastmod>2020-05-24T14:41:50.912Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy/</loc>
         <lastmod>2020-05-24T14:41:50.912Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,6 +67,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-download/</loc>
+        <lastmod>2020-05-24T14:41:50.912Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/expert-influencer-academy/</loc>
         <lastmod>2020-05-24T14:41:50.912Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -96,20 +96,6 @@
     <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/curso/</loc>
         <lastmod>2020-06-01T13:44:56.222Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/ead/</loc>
-        <lastmod>2020-06-01T13:44:56.222Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influenciador-de-midias/</loc>
-        <lastmod>2020-06-03T00:17:35.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-facebook/</loc>
-        <lastmod>2020-06-10T03:21:45.918Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/melhor-curso/</loc>
         <lastmod>2020-06-10T03:21:45.918Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -222,13 +201,6 @@
     <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/youtube/</loc>
         <lastmod>2020-06-10T03:21:45.918Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/treinamento-passo-a-passo/</loc>
-        <lastmod>2020-06-11T17:04:26.779Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -292,6 +264,41 @@
     <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influenciador-digital/</loc>
         <lastmod>2020-06-13T00:51:04.787Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-facebook/</loc>
+        <lastmod>2020-06-14T16:48:16.537Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-06-14T16:48:16.537Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/ead/</loc>
+        <lastmod>2020-06-14T16:48:16.537Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influenciador-de-midias/</loc>
+        <lastmod>2020-06-14T16:48:16.537Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/digital-influencer/</loc>
+        <lastmod>2020-06-14T16:48:16.537Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-05-15T22:58:24.057Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-composicao/</loc>
         <lastmod>2020-05-17T15:29:53.229Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-05-25T19:49:14.369Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-05-25T19:49:14.369Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,21 +73,21 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-06-01T14:34:07.623Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-03T01:03:01.308Z</lastmod>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-05-25T19:49:14.369Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-06-03T01:03:01.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-03T01:03:01.308Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -152,13 +138,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-original/</loc>
         <lastmod>2020-06-05T10:49:58.299Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-06-06T16:53:02.892Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-06-11T18:03:07.307Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-11T18:03:07.307Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-depoimento/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-06-13T01:33:03.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-13T01:33:03.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-13T01:33:03.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-06-14T18:35:38.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-06-14T18:35:38.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-06-14T18:35:38.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisablog/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-14T18:35:38.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
