@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/afiliados/</loc>
-        <lastmod>2020-03-05T13:55:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/msr-resultados/</loc>
         <lastmod>2020-03-22T07:39:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-03T16:51:21.914Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/afiliado-iniciante/</loc>
         <lastmod>2020-06-03T16:51:21.914Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,22 +122,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/trabalhar-em-casa/</loc>
-        <lastmod>2020-06-05T10:47:37.770Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-compensa/</loc>
-        <lastmod>2020-06-05T10:47:37.770Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-06T17:06:35.032Z</lastmod>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-03T16:51:21.914Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,14 +185,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-funciona/</loc>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-pdf/</loc>
         <lastmod>2020-06-10T04:18:41.968Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-pdf/</loc>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-10T04:18:41.968Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,13 +248,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-06-13T01:59:45.819Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/afiliado/</loc>
         <lastmod>2020-06-14T18:53:46.262Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -313,6 +278,41 @@
     <url>
         <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/renda-extra/</loc>
         <lastmod>2020-06-14T18:53:46.262Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/empreendedorismo/</loc>
+        <lastmod>2020-06-16T04:41:22.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/trabalhar-em-casa/</loc>
+        <lastmod>2020-06-16T04:41:22.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-06-16T04:41:22.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/afiliados/</loc>
+        <lastmod>2020-06-16T04:41:22.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mude-suarotina-brasil/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <lastmod>2020-06-16T04:41:22.626Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

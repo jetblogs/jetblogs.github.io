@@ -157,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/desenhar-animes/</loc>
-        <lastmod>2020-05-24T14:17:21.532Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/anime/</loc>
         <lastmod>2020-05-24T14:17:21.532Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -187,13 +180,6 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/kerodesenhar-info/</loc>
         <lastmod>2020-05-25T18:22:50.646Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-06-01T13:16:47.941Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-desenhar-manga/</loc>
-        <lastmod>2020-06-05T08:55:37.494Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/dragon-ball-super/</loc>
         <lastmod>2020-06-05T08:55:37.494Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,21 +262,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/kero-desenhar/</loc>
-        <lastmod>2020-06-06T15:53:05.765Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-desenhar-animes/</loc>
-        <lastmod>2020-06-07T21:59:45.009Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-07T21:59:45.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-desenhar-goku/</loc>
         <lastmod>2020-06-14T16:28:24.709Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-06-16T02:43:17.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-06-16T02:43:17.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/kero-desenhar/</loc>
+        <lastmod>2020-06-16T02:43:17.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/desenhar-animes/</loc>
+        <lastmod>2020-06-16T02:43:17.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/kero-desenhar-kaneki/</loc>
+        <lastmod>2020-06-16T02:43:17.244Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

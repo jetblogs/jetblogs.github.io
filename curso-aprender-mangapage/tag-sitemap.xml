@@ -45,7 +45,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/animes/</loc>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-03-27T03:55:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -59,15 +59,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenho-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/animes/</loc>
         <lastmod>2020-03-27T03:55:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/o-kero-desenhar-realmente-funciona/</loc>
-        <lastmod>2020-03-30T19:13:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -124,13 +117,6 @@
     <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenho/</loc>
         <lastmod>2020-05-21T12:25:01.131Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/como-aprender-a-desenhar-do-zero/</loc>
-        <lastmod>2020-05-24T14:18:59.337Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -234,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/curso-de-desenho/</loc>
-        <lastmod>2020-06-05T08:56:59.667Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/speed-drawing/</loc>
         <lastmod>2020-06-06T15:54:23.698Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/ead/</loc>
-        <lastmod>2020-06-07T22:00:54.252Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/como-desenhar-anime/</loc>
         <lastmod>2020-06-07T22:00:54.252Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -291,13 +263,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/dragon-ball-super/</loc>
-        <lastmod>2020-06-08T21:20:59.924Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenhar-do-zero/</loc>
         <lastmod>2020-06-08T21:20:59.924Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,6 +283,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-06-08T21:20:59.924Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/tutoriais/</loc>
         <lastmod>2020-06-10T03:05:37.296Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -332,14 +304,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/online/</loc>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenhar/</loc>
         <lastmod>2020-06-10T03:05:37.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/desenhar/</loc>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/online/</loc>
         <lastmod>2020-06-10T03:05:37.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/como-desenhar-goku/</loc>
         <lastmod>2020-06-14T16:29:37.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-06-16T02:46:14.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-06-16T02:46:14.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/ead/</loc>
+        <lastmod>2020-06-16T02:46:14.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-aprender-mangapage/tags/curso-de-desenho/</loc>
+        <lastmod>2020-06-16T02:46:14.638Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -73,6 +73,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-original/</loc>
+        <lastmod>2020-06-13T01:40:55.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-13T01:40:55.061Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,8 +87,15 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-original/</loc>
-        <lastmod>2020-06-13T01:40:55.061Z</lastmod>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-06-14T18:54:21.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-06-14T18:54:21.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -101,14 +115,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-06-14T18:54:21.653Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-depoimentos/</loc>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-14T18:54:21.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -116,14 +123,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-06-14T18:54:21.653Z</lastmod>
+        <lastmod>2020-06-16T04:22:23.602Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-para-que-serve/</loc>
-        <lastmod>2020-06-14T18:54:21.653Z</lastmod>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-16T04:22:23.602Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man/</loc>
+        <lastmod>2020-06-16T04:22:23.602Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-16T04:22:23.602Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

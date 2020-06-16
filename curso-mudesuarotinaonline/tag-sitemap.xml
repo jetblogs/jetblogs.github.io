@@ -115,8 +115,15 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-13T02:11:24.769Z</lastmod>
+        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/hotmart/</loc>
+        <lastmod>2020-06-14T19:14:01.783Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-06-14T19:14:01.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -130,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/vendas-online/</loc>
-        <lastmod>2020-06-14T19:14:01.783Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/hotmart/</loc>
         <lastmod>2020-06-14T19:14:01.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -157,8 +157,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-06-14T19:14:01.783Z</lastmod>
+        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-16T04:52:05.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-06-16T04:52:05.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-06-16T04:52:05.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mudesuarotinaonline/tags/curso-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-16T04:52:05.751Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

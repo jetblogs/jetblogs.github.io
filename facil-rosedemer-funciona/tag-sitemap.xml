@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/peeling-rose-de-mer-e-bom/</loc>
-        <lastmod>2020-03-07T11:34:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/rose-de-mer-funciona/</loc>
         <lastmod>2020-03-17T10:50:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,13 +46,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/curso-de-peeling-rose-de-mer/</loc>
-        <lastmod>2020-03-20T10:43:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/curso/</loc>
         <lastmod>2020-03-20T10:43:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,21 +248,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/ead/</loc>
-        <lastmod>2020-06-03T00:17:42.307Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/rose-de-mer-passo-a-passo/</loc>
-        <lastmod>2020-06-03T15:55:04.355Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/peeling-rose-de-mer-como-funciona/</loc>
         <lastmod>2020-06-03T15:55:04.355Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -292,13 +264,6 @@
     <url>
         <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/peeling/</loc>
         <lastmod>2020-06-03T15:55:04.355Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/peeling-rose-de-mer-protocolo/</loc>
-        <lastmod>2020-06-05T09:12:26.530Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -388,13 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/curso-peeling-rose-de-mer-vale-a-pena/</loc>
-        <lastmod>2020-06-08T19:19:13.529Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/curso-ead/</loc>
         <lastmod>2020-06-08T19:19:13.529Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -403,6 +361,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/rose-de-mer-o-que-e/</loc>
+        <lastmod>2020-06-08T19:19:13.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/curso-peeling-rose-de-mer-vale-a-pena/</loc>
         <lastmod>2020-06-08T19:19:13.529Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -551,6 +516,41 @@
     <url>
         <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/cicatrizes-de-acne/</loc>
         <lastmod>2020-06-14T16:46:54.570Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/curso/</loc>
+        <lastmod>2020-06-16T03:07:51.667Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/peeling-rose-de-mer-como-funciona/</loc>
+        <lastmod>2020-06-16T03:07:51.667Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/peeling-rose-de-mer-protocolo/</loc>
+        <lastmod>2020-06-16T03:07:51.667Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/peeling-rose-de-mer-e-bom/</loc>
+        <lastmod>2020-06-16T03:07:51.667Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-rosedemer-funciona/tags/ead/</loc>
+        <lastmod>2020-06-16T03:07:51.667Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

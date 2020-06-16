@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-05-24T14:34:26.785Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-2020/tags/marketing-digital/</loc>
         <lastmod>2020-05-24T14:34:26.785Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -89,13 +82,6 @@
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-2020/tags/curso/</loc>
         <lastmod>2020-06-03T15:51:45.242Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-05T09:08:07.600Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -157,20 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-06-10T03:16:14.406Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/facebook/</loc>
-        <lastmod>2020-06-10T03:16:14.406Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-2020/tags/online/</loc>
         <lastmod>2020-06-10T03:16:14.406Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -186,13 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-2020/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-06-11T16:59:02.499Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/academy/</loc>
         <lastmod>2020-06-11T16:59:02.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -292,6 +257,41 @@
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-2020/tags/curso-ead/</loc>
         <lastmod>2020-06-14T16:42:27.853Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/ensino-a-distancia/</loc>
+        <lastmod>2020-06-16T03:02:04.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-16T03:02:04.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/facebook/</loc>
+        <lastmod>2020-06-16T03:02:04.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/academy/</loc>
+        <lastmod>2020-06-16T03:02:04.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-2020/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-06-16T03:02:04.583Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

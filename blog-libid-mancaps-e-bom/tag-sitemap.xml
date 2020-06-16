@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man/</loc>
-        <lastmod>2020-05-16T19:47:09.586Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-05-17T15:31:20.855Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -81,13 +74,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-original/</loc>
-        <lastmod>2020-06-03T01:03:54.681Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-06-03T01:03:54.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,20 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-06-11T18:04:16.321Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-06-11T18:04:16.321Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libidman-caps/</loc>
         <lastmod>2020-06-11T18:04:16.321Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-06-14T18:38:00.602Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-14T18:38:00.602Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,7 +220,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-resultados/</loc>
+        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-06-14T18:38:00.602Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +243,41 @@
     <url>
         <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-preco/</loc>
         <lastmod>2020-06-14T18:38:00.602Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-14T18:38:00.602Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libidman-caps-funciona/</loc>
+        <lastmod>2020-06-16T04:10:46.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-06-16T04:10:46.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-06-16T04:10:46.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-libid-mancaps-e-bom/tags/libid-man/</loc>
+        <lastmod>2020-06-16T04:10:46.289Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

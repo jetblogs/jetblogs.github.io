@@ -45,14 +45,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-preco/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man/</loc>
         <lastmod>2020-05-25T19:55:04.438Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-preco/</loc>
         <lastmod>2020-05-25T19:55:04.438Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-06-05T10:55:29.239Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps/</loc>
         <lastmod>2020-06-05T10:55:29.239Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,7 +87,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-como-tomar/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-06-05T10:55:29.239Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -136,20 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-06-07T23:32:24.329Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-07T23:32:24.329Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-08T19:45:00.619Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-08T19:45:00.619Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-08T19:45:00.619Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,13 +151,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-06-10T04:25:29.293Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-06-10T04:25:29.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,15 +234,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-como-usar/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-14T18:45:51.485Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-14T18:45:51.485Z</lastmod>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-16T04:15:10.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-16T04:15:10.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-06-16T04:15:10.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-como-tomar/</loc>
+        <lastmod>2020-06-16T04:15:10.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-06-16T04:15:10.712Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-2020/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-16T04:15:10.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

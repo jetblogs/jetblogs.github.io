@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-como-desenhar/tags/tutoriais/</loc>
-        <lastmod>2020-03-22T04:44:54.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-como-desenhar/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-03-30T19:13:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,13 +46,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/online-como-desenhar/tags/dragon-ball/</loc>
-        <lastmod>2020-05-03T16:05:10.166Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-como-desenhar/tags/manga/</loc>
         <lastmod>2020-05-03T16:05:10.166Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,13 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-como-desenhar/tags/dragon-ball-super/</loc>
-        <lastmod>2020-06-11T16:49:01.826Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-como-desenhar/tags/aula-de-desenho/</loc>
         <lastmod>2020-06-13T00:28:02.850Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,20 +395,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/online-como-desenhar/tags/como-desenhar-animes/</loc>
-        <lastmod>2020-06-14T16:29:51.492Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/online-como-desenhar/tags/tutorial-de-desenho/</loc>
-        <lastmod>2020-06-14T16:29:51.492Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/online-como-desenhar/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-06-14T16:29:51.492Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/online-como-desenhar/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-06-14T16:29:51.492Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-como-desenhar/tags/dragon-ball-super/</loc>
+        <lastmod>2020-06-16T02:46:34.600Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-como-desenhar/tags/manga/</loc>
+        <lastmod>2020-06-16T02:46:34.600Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-como-desenhar/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-06-16T02:46:34.600Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-como-desenhar/tags/tutoriais/</loc>
+        <lastmod>2020-06-16T02:46:34.600Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/online-como-desenhar/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-06-16T02:46:34.600Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
