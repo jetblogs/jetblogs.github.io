@@ -234,28 +234,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/a-distancia/</loc>
-        <lastmod>2020-06-10T03:11:05.800Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/tutoriais/</loc>
-        <lastmod>2020-06-10T03:11:05.800Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/drawing/</loc>
-        <lastmod>2020-06-10T03:11:05.800Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-06-10T03:11:05.800Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,13 +292,6 @@
     <url>
         <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/desenhar/</loc>
         <lastmod>2020-06-13T00:33:55.144Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/desenhar-manga/</loc>
-        <lastmod>2020-06-14T16:34:06.526Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -383,6 +355,34 @@
     <url>
         <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/aulas-online/</loc>
         <lastmod>2020-06-16T02:53:01.393Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/desenhar-manga/</loc>
+        <lastmod>2020-06-17T02:15:56.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/a-distancia/</loc>
+        <lastmod>2020-06-17T02:15:56.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-06-17T02:15:56.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-animes/tags/drawing/</loc>
+        <lastmod>2020-06-17T02:15:56.299Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

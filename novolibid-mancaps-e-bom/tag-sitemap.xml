@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-14T18:52:52.304Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps/</loc>
         <lastmod>2020-06-14T18:52:52.304Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,7 +115,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/depoimento-libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-06-14T18:52:52.304Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -159,6 +152,48 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-16T04:20:53.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-para-que-serve/</loc>
+        <lastmod>2020-06-17T03:26:32.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-17T03:26:32.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-17T03:26:32.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-06-17T03:26:32.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-17T03:26:32.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-06-17T03:26:32.354Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

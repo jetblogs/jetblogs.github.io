@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/curso-a-distancia/</loc>
-        <lastmod>2020-05-23T05:40:40.949Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/curso-ead/</loc>
         <lastmod>2020-05-24T14:43:19.934Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,13 +68,6 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-facebook/</loc>
         <lastmod>2020-06-01T13:46:00.544Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/gabriella-ferreira/</loc>
-        <lastmod>2020-06-03T00:18:28.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -192,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-gabriella-ferreira/</loc>
-        <lastmod>2020-06-11T17:05:19.528Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/carreiras/</loc>
         <lastmod>2020-06-11T17:05:19.528Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-gabi-ferreira/</loc>
-        <lastmod>2020-06-13T00:51:57.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer/</loc>
         <lastmod>2020-06-13T00:51:57.936Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,13 +214,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/youtube/</loc>
-        <lastmod>2020-06-14T16:49:03.229Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy/</loc>
         <lastmod>2020-06-14T16:49:03.229Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -306,6 +271,41 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-06-16T03:11:30.845Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-gabriella-ferreira/</loc>
+        <lastmod>2020-06-17T02:26:20.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy/</loc>
+        <lastmod>2020-06-17T02:26:20.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/curso-a-distancia/</loc>
+        <lastmod>2020-06-17T02:26:20.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-gabi-ferreira/</loc>
+        <lastmod>2020-06-17T02:26:20.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/gabriella-ferreira/</loc>
+        <lastmod>2020-06-17T02:26:20.742Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

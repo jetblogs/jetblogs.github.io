@@ -122,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/mude-sua-rotina-depoimento/</loc>
-        <lastmod>2020-06-08T19:23:10.259Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/marketing-de-afiliados/</loc>
         <lastmod>2020-06-08T19:23:10.259Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,6 +130,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/marketing/</loc>
+        <lastmod>2020-06-08T19:23:10.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-06-08T19:23:10.259Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,20 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-10T04:18:44.104Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/afiliado/</loc>
-        <lastmod>2020-06-11T18:11:10.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-06-11T18:11:10.654Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,8 +213,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/curso-mude-sua-rotina-a-verdade/</loc>
-        <lastmod>2020-06-13T01:59:48.696Z</lastmod>
+        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/afiliado/</loc>
+        <lastmod>2020-06-11T18:11:10.654Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -248,14 +234,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/eduzz/</loc>
-        <lastmod>2020-06-14T18:53:50.265Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/treinamento-msr/</loc>
+        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-14T18:53:50.265Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -270,13 +249,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-06-14T18:53:50.265Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-14T18:53:50.265Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,8 +276,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/treinamento-msr/</loc>
+        <lastmod>2020-06-17T04:00:08.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/eduzz/</loc>
+        <lastmod>2020-06-17T04:00:08.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <lastmod>2020-06-17T04:00:08.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/marketing-digital/</loc>
-        <lastmod>2020-06-16T04:41:25.780Z</lastmod>
+        <lastmod>2020-06-17T04:00:08.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brcomprar-msr-mudesuarotina/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-17T04:00:08.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

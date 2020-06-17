@@ -45,22 +45,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/para-iniciantes/</loc>
-        <lastmod>2020-05-19T21:00:54.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/speed-drawing/</loc>
         <lastmod>2020-05-21T12:27:56.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/drawing/</loc>
-        <lastmod>2020-05-23T05:29:06.308Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -73,8 +59,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/desenhar-manga/</loc>
-        <lastmod>2020-05-24T14:25:28.314Z</lastmod>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/drawing/</loc>
+        <lastmod>2020-05-23T05:29:06.308Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -143,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/draw/</loc>
-        <lastmod>2020-06-06T15:59:48.713Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/desenhando/</loc>
         <lastmod>2020-06-06T15:59:48.713Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -207,13 +186,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/aprender-online/</loc>
-        <lastmod>2020-06-08T21:24:54.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/kerodesenhar-info/</loc>
         <lastmod>2020-06-08T21:24:54.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -382,7 +354,35 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020-desenharmanga/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-16T02:54:26.595Z</lastmod>
+        <lastmod>2020-06-17T02:17:10.507Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/desenhar-manga/</loc>
+        <lastmod>2020-06-17T02:17:10.507Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/para-iniciantes/</loc>
+        <lastmod>2020-06-17T02:17:10.507Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/draw/</loc>
+        <lastmod>2020-06-17T02:17:10.507Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenharmanga/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-06-17T02:17:10.507Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

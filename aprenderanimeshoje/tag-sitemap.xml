@@ -3,22 +3,8 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/curso/</loc>
-        <lastmod>2020-05-14T00:50:01.398Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-05-16T19:00:00.780Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/como-desenhar-manga-passo-a-passo/</loc>
-        <lastmod>2020-05-19T00:01:49.655Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -95,13 +81,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/kerodesenhar/</loc>
-        <lastmod>2020-05-25T18:28:38.139Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/a-distancia/</loc>
         <lastmod>2020-05-25T18:28:38.139Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -193,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/para-iniciantes/</loc>
-        <lastmod>2020-06-07T22:04:41.885Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/aulas-online/</loc>
         <lastmod>2020-06-07T22:04:41.885Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,13 +276,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/online/</loc>
-        <lastmod>2020-06-13T00:34:05.364Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/como-desenhar/</loc>
         <lastmod>2020-06-13T00:34:05.364Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,14 +290,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/como-desenhar-goku/</loc>
+        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/aula-de-desenho/</loc>
         <lastmod>2020-06-14T16:34:17.317Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/aula-de-desenho/</loc>
+        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/como-desenhar-goku/</loc>
         <lastmod>2020-06-14T16:34:17.317Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -397,6 +362,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-06-16T02:53:14.621Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/online/</loc>
+        <lastmod>2020-06-17T02:16:17.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/a-distancia/</loc>
+        <lastmod>2020-06-17T02:16:17.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/curso/</loc>
+        <lastmod>2020-06-17T02:16:17.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <lastmod>2020-06-17T02:16:17.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimeshoje/tags/aulas-online/</loc>
+        <lastmod>2020-06-17T02:16:17.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

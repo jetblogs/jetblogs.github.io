@@ -3,29 +3,8 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenho/</loc>
-        <lastmod>2020-03-01T14:07:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/dragon-ball-super/</loc>
-        <lastmod>2020-03-08T16:51:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-03-23T09:20:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/kerodesenhar/</loc>
-        <lastmod>2020-03-27T03:55:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/ead/</loc>
-        <lastmod>2020-06-05T08:57:20.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-06-05T08:57:20.254Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -264,13 +236,6 @@
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenhando-animes/</loc>
         <lastmod>2020-06-08T21:21:15.486Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-10T03:05:56.760Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -339,13 +304,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-06-13T00:28:09.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenhar/</loc>
         <lastmod>2020-06-13T00:28:09.461Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -367,6 +325,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-14T16:30:21.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-desenho/</loc>
         <lastmod>2020-06-14T16:30:21.400Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -375,13 +340,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-14T16:30:21.400Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/curso-de-anime/</loc>
         <lastmod>2020-06-14T16:30:21.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -425,6 +383,48 @@
     <url>
         <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/goku/</loc>
         <lastmod>2020-06-16T02:46:40.691Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/ead/</loc>
+        <lastmod>2020-06-17T02:11:33.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-06-17T02:11:33.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-06-17T02:11:33.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-17T02:11:33.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/desenho/</loc>
+        <lastmod>2020-06-17T02:11:33.120Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilkero-desenharebom/tags/dragon-ball-super/</loc>
+        <lastmod>2020-06-17T02:11:33.120Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

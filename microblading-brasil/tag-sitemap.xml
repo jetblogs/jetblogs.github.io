@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/microblading-basico/</loc>
-        <lastmod>2020-05-19T00:12:39.743Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/beleza/</loc>
         <lastmod>2020-05-19T21:05:03.112Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +81,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/sobrancelhas/</loc>
-        <lastmod>2020-05-20T20:17:50.927Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/fio-a-fio/</loc>
         <lastmod>2020-05-20T20:17:50.927Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/design-de-sobrancelhas/</loc>
-        <lastmod>2020-05-25T18:35:23.105Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/curso-ead/</loc>
         <lastmod>2020-06-01T13:37:25.219Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -200,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/passo-a-passo/</loc>
-        <lastmod>2020-06-03T15:50:00.097Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/microblading-avancado/</loc>
         <lastmod>2020-06-03T15:50:00.097Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -311,6 +283,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/curso-de-microblading-gratuito/</loc>
+        <lastmod>2020-06-11T16:58:00.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/microblading-fio-a-fio/</loc>
         <lastmod>2020-06-11T16:58:00.726Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -319,13 +298,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/design-sobrancelhas/</loc>
-        <lastmod>2020-06-11T16:58:00.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/curso-de-microblading-gratuito/</loc>
         <lastmod>2020-06-11T16:58:00.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -360,21 +332,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/curso-tebori/</loc>
-        <lastmod>2020-06-14T16:42:17.021Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/curso/</loc>
-        <lastmod>2020-06-14T16:42:17.021Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/maquiagem-definitiva/</loc>
         <lastmod>2020-06-14T16:42:17.021Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -395,6 +353,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/microblading-passo-a-passo/</loc>
+        <lastmod>2020-06-16T03:00:47.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/microblading-brasil/tags/melhor-curso/</loc>
         <lastmod>2020-06-16T03:00:47.046Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -402,7 +367,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/microblading-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/curso-de-microblading/</loc>
         <lastmod>2020-06-16T03:00:47.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,8 +381,43 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/microblading-brasil/tags/curso-de-microblading/</loc>
-        <lastmod>2020-06-16T03:00:47.046Z</lastmod>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/curso-tebori/</loc>
+        <lastmod>2020-06-17T02:19:02.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/fio-a-fio/</loc>
+        <lastmod>2020-06-17T02:19:02.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/microblading-basico/</loc>
+        <lastmod>2020-06-17T02:19:02.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/microblading-avancado/</loc>
+        <lastmod>2020-06-17T02:19:02.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/maquiagem-definitiva/</loc>
+        <lastmod>2020-06-17T02:19:02.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/microblading-brasil/tags/design-de-sobrancelhas/</loc>
+        <lastmod>2020-06-17T02:19:02.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

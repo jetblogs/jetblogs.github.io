@@ -136,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/aulas-online/</loc>
-        <lastmod>2020-06-03T00:02:24.950Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-03T00:02:24.950Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-06-05T08:58:55.418Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/a-distancia/</loc>
         <lastmod>2020-06-05T08:58:55.418Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,22 +262,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-06-11T16:49:58.094Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/como-desenhar-manga/</loc>
         <lastmod>2020-06-11T16:49:58.094Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/manga/</loc>
-        <lastmod>2020-06-13T00:30:18.663Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -304,7 +276,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/desenhar/</loc>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/manga/</loc>
         <lastmod>2020-06-13T00:30:18.663Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -312,6 +284,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/desenhar-manga/</loc>
+        <lastmod>2020-06-13T00:30:18.663Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/desenhar/</loc>
         <lastmod>2020-06-13T00:30:18.663Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -388,8 +367,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/a-distancia/</loc>
+        <lastmod>2020-06-17T02:12:16.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-06-17T02:12:16.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-06-16T02:47:44.481Z</lastmod>
+        <lastmod>2020-06-17T02:12:16.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/aulas-online/</loc>
+        <lastmod>2020-06-17T02:12:16.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

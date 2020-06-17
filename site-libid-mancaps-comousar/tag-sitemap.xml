@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-composicao/</loc>
-        <lastmod>2020-06-05T10:57:12.560Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-06T17:01:03.473Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -131,13 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-06-07T23:34:28.471Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-08T19:50:40.979Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -179,13 +165,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-13T01:37:32.004Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-06-13T01:37:32.004Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,20 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-16T04:17:16.705Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man/</loc>
-        <lastmod>2020-06-16T04:17:16.705Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-16T04:17:16.705Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -271,6 +236,41 @@
     <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-estimulante-sexual/</loc>
         <lastmod>2020-06-16T04:17:16.705Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-17T03:24:48.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-17T03:24:48.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man/</loc>
+        <lastmod>2020-06-17T03:24:48.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-06-17T03:24:48.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-comousar/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-17T03:24:48.808Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
