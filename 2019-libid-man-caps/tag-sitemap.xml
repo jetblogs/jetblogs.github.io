@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-06-10T04:23:40.312Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-10T04:23:40.312Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,7 +122,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libidman-caps/</loc>
+        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-10T04:23:40.312Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -157,7 +150,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-depoimentos/</loc>
+        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-13T01:35:10.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,7 +164,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-anvisa/</loc>
+        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-13T01:35:10.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-06-16T04:13:02.220Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps/</loc>
         <lastmod>2020-06-16T04:13:02.220Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,7 +227,21 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-06-16T04:13:02.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-17T03:21:54.932Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-17T03:21:54.932Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -256,28 +256,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-17T03:21:54.932Z</lastmod>
+        <lastmod>2020-06-18T20:01:47.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-17T03:21:54.932Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-06-17T03:21:54.932Z</lastmod>
+        <lastmod>2020-06-18T20:01:47.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-17T03:21:54.932Z</lastmod>
+        <lastmod>2020-06-18T20:01:47.893Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-libid-man-caps/tags/libidman-caps/</loc>
+        <lastmod>2020-06-18T20:01:47.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

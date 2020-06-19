@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-06-13T01:39:59.450Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-06-13T01:39:59.450Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,15 +178,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-e-bom/</loc>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-06-17T03:26:32.354Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-06-17T03:26:32.354Z</lastmod>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-18T20:06:34.592Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-06-18T20:06:34.592Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man/</loc>
+        <lastmod>2020-06-18T20:06:34.592Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-original/</loc>
+        <lastmod>2020-06-18T20:06:34.592Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

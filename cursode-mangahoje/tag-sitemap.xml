@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/tutoriais/</loc>
-        <lastmod>2020-03-22T04:42:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-mangahoje/tags/como-desenhar-manga/</loc>
         <lastmod>2020-03-30T19:12:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,14 +206,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/como-desenhar-qualquer-coisa/</loc>
+        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/aula-de-desenho/</loc>
         <lastmod>2020-06-07T21:59:31.625Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/aula-de-desenho/</loc>
+        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-06-07T21:59:31.625Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -374,20 +367,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/tutorial-de-desenho/</loc>
-        <lastmod>2020-06-16T02:42:58.840Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/a-distancia/</loc>
-        <lastmod>2020-06-16T02:42:58.840Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursode-mangahoje/tags/como-desenhar-goku/</loc>
         <lastmod>2020-06-16T02:42:58.840Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -430,15 +409,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/kerodesenhar-com/</loc>
+        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/desenhando/</loc>
         <lastmod>2020-06-17T02:07:51.202Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/desenhando/</loc>
-        <lastmod>2020-06-17T02:07:51.202Z</lastmod>
+        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-06-18T18:41:02.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-06-18T18:41:02.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/tutoriais/</loc>
+        <lastmod>2020-06-18T18:41:02.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursode-mangahoje/tags/a-distancia/</loc>
+        <lastmod>2020-06-18T18:41:02.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

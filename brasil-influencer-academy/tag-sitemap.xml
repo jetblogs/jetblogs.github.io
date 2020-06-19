@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influenciador-de-midias/</loc>
-        <lastmod>2020-05-17T14:59:26.911Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-login/</loc>
         <lastmod>2020-05-19T00:26:11.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-gabriella-ferreira/</loc>
-        <lastmod>2020-06-01T13:48:59.700Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/gabriella-ferreira/</loc>
         <lastmod>2020-06-01T13:48:59.700Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -116,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/online/</loc>
-        <lastmod>2020-06-03T00:21:29.171Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/negocios-digitais/</loc>
         <lastmod>2020-06-03T00:21:29.171Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-e-bom/</loc>
-        <lastmod>2020-06-08T19:27:51.413Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/melhor-curso/</loc>
         <lastmod>2020-06-08T19:27:51.413Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-gratis/</loc>
-        <lastmod>2020-06-10T03:25:03.458Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/midias-sociais/</loc>
         <lastmod>2020-06-10T03:25:03.458Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,8 +192,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-06-14T16:51:52.730Z</lastmod>
+        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-gratis/</loc>
+        <lastmod>2020-06-10T03:25:03.458Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -276,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/marketing-digital/</loc>
-        <lastmod>2020-06-17T02:28:46.403Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/carreiras/</loc>
         <lastmod>2020-06-17T02:28:46.403Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -306,6 +264,48 @@
     <url>
         <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-gabi-ferreira/</loc>
         <lastmod>2020-06-17T02:28:46.403Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-e-bom/</loc>
+        <lastmod>2020-06-18T19:07:33.737Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/marketing-digital/</loc>
+        <lastmod>2020-06-18T19:07:33.737Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/ensino-a-distancia/</loc>
+        <lastmod>2020-06-18T19:07:33.737Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-18T19:07:33.737Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influencer-academy-gabriella-ferreira/</loc>
+        <lastmod>2020-06-18T19:07:33.737Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-influencer-academy/tags/influenciador-de-midias/</loc>
+        <lastmod>2020-06-18T19:07:33.737Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
