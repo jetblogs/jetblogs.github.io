@@ -17,22 +17,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/kero-desenhar/</loc>
-        <lastmod>2020-05-17T14:39:24.987Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/kerodesenhar-com/</loc>
         <lastmod>2020-05-18T23:57:53.457Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/speed-drawing/</loc>
-        <lastmod>2020-05-19T20:57:36.418Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -60,13 +46,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/kerodesenhar/</loc>
-        <lastmod>2020-05-24T14:20:38.830Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-05-24T14:20:38.830Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -157,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-06-07T22:02:10.885Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-06-08T21:22:09.485Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -180,13 +152,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-animes/</loc>
         <lastmod>2020-06-08T21:22:09.485Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/a-distancia/</loc>
-        <lastmod>2020-06-10T03:07:02.399Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -362,6 +327,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-06-18T18:46:02.100Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/a-distancia/</loc>
+        <lastmod>2020-06-20T00:35:17.296Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/speed-drawing/</loc>
+        <lastmod>2020-06-20T00:35:17.296Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/kero-desenhar/</loc>
+        <lastmod>2020-06-20T00:35:17.296Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-06-20T00:35:17.296Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-06-20T00:35:17.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

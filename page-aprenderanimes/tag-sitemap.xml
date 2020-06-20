@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-05-25T18:26:18.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-aprenderanimes/tags/draw/</loc>
         <lastmod>2020-06-01T13:20:41.783Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-06-03T15:41:03.689Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-aprenderanimes/tags/desenhar/</loc>
         <lastmod>2020-06-05T08:59:57.642Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,29 +157,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/como-desenhar-manga-passo-a-passo/</loc>
-        <lastmod>2020-06-07T22:02:45.321Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-07T22:02:45.321Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-aprenderanimes/tags/curso-de-desenho/</loc>
         <lastmod>2020-06-07T22:02:45.321Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/kero-desenhar/</loc>
-        <lastmod>2020-06-08T21:22:40.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -207,6 +172,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/page-aprenderanimes/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-06-08T21:22:40.772Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/kero-desenhar/</loc>
         <lastmod>2020-06-08T21:22:40.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -297,20 +269,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/como-desenhar-manga/</loc>
-        <lastmod>2020-06-14T16:32:01.784Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/aprender-online/</loc>
-        <lastmod>2020-06-14T16:32:01.784Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-aprenderanimes/tags/online/</loc>
         <lastmod>2020-06-16T02:50:06.378Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -390,6 +348,48 @@
     <url>
         <loc>https://jetblogs.github.io/page-aprenderanimes/tags/manga/</loc>
         <lastmod>2020-06-18T18:46:46.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <lastmod>2020-06-20T00:36:04.447Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-06-20T00:36:04.447Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/aprender-online/</loc>
+        <lastmod>2020-06-20T00:36:04.447Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-06-20T00:36:04.447Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-20T00:36:04.447Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-aprenderanimes/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-06-20T00:36:04.447Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

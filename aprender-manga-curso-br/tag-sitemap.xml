@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-05-19T20:55:04.831Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-05-20T20:08:46.195Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,21 +185,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-06-07T22:00:23.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/curso/</loc>
-        <lastmod>2020-06-08T21:20:30.139Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/aulas-online/</loc>
         <lastmod>2020-06-08T21:20:30.139Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -221,6 +200,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/curso-de-desenho/</loc>
+        <lastmod>2020-06-08T21:20:30.139Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/aulas-online/</loc>
         <lastmod>2020-06-08T21:20:30.139Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-06-11T16:47:54.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/dragon-ball/</loc>
         <lastmod>2020-06-11T16:47:54.867Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -263,6 +242,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-06-11T16:47:54.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-11T16:47:54.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,22 +276,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-06-13T00:26:57.445Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/aprender-online/</loc>
         <lastmod>2020-06-13T00:26:57.445Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/draw/</loc>
-        <lastmod>2020-06-14T16:29:04.744Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -327,13 +299,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/videos-online/</loc>
         <lastmod>2020-06-14T16:29:04.744Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/desenhar-manga/</loc>
-        <lastmod>2020-06-16T02:44:16.047Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -416,13 +381,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/como-desenhar-para-iniciantes/</loc>
-        <lastmod>2020-06-18T18:42:26.473Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-06-18T18:42:26.473Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-06-18T18:42:26.473Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/desenhar-manga/</loc>
+        <lastmod>2020-06-20T00:32:53.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/draw/</loc>
+        <lastmod>2020-06-20T00:32:53.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-06-20T00:32:53.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/como-desenhar-para-iniciantes/</loc>
+        <lastmod>2020-06-20T00:32:53.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-06-20T00:32:53.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-curso-br/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-06-20T00:32:53.300Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

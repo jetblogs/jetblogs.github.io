@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-03T01:02:55.088Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-03T16:39:30.961Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-14T18:35:22.789Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man/</loc>
         <lastmod>2020-06-14T18:35:22.789Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,14 +178,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-preco/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-06-16T04:09:23.544Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-preco/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-preco/</loc>
         <lastmod>2020-06-16T04:09:23.544Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -221,34 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-17T03:19:21.650Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-17T03:19:21.650Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-06-17T03:19:21.650Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-06-17T03:19:21.650Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-17T03:19:21.650Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-18T19:59:04.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-20T01:53:35.865Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-20T01:53:35.865Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-20T01:53:35.865Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-06-20T01:53:35.865Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-20T01:53:35.865Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapscomprarbrasil/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-20T01:53:35.865Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-original/</loc>
-        <lastmod>2020-06-08T20:11:13.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-08T20:11:13.882Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,13 +18,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-caps-para-que-serve/</loc>
-        <lastmod>2020-06-11T18:15:41.587Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-06-11T18:15:41.587Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -178,8 +164,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-06-20T02:08:21.718Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-06-18T20:09:24.920Z</lastmod>
+        <lastmod>2020-06-20T02:08:21.718Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-original/</loc>
+        <lastmod>2020-06-20T02:08:21.718Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man/</loc>
+        <lastmod>2020-06-20T02:08:21.718Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funcionaonline/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-20T02:08:21.718Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

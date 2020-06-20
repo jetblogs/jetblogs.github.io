@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/peeling-natural/</loc>
-        <lastmod>2020-05-24T14:56:41.436Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/rose-de-mer-kit/</loc>
         <lastmod>2020-05-25T18:47:50.405Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-06-11T17:10:22.706Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/peeling-rose-de-mer-preco/</loc>
         <lastmod>2020-06-11T17:10:22.706Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -374,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/peeling-rose-de-mer-protocolo/</loc>
-        <lastmod>2020-06-17T02:32:04.728Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/peeling-rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-06-17T02:32:04.728Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -425,6 +404,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/christina-zehavi/</loc>
         <lastmod>2020-06-18T19:11:23.212Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/ensino-a-distancia/</loc>
+        <lastmod>2020-06-20T01:03:48.072Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/peeling-rose-de-mer-protocolo/</loc>
+        <lastmod>2020-06-20T01:03:48.072Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/peeling-natural/</loc>
+        <lastmod>2020-06-20T01:03:48.072Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderpeeling-rosedemer2020/tags/passo-a-passo/</loc>
+        <lastmod>2020-06-20T01:03:48.072Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
