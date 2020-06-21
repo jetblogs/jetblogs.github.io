@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/sobrancelhas-design/</loc>
-        <lastmod>2020-05-15T22:31:37.312Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/estetica/</loc>
         <lastmod>2020-05-17T14:43:56.595Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-06T16:04:01.433Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-06T16:04:01.433Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,14 +157,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-de-microblading-3d/</loc>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/empreendedorismo/</loc>
         <lastmod>2020-06-06T16:04:01.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-tebori/</loc>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-de-microblading-3d/</loc>
         <lastmod>2020-06-06T16:04:01.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/maquiagem/</loc>
-        <lastmod>2020-06-10T03:12:17.347Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-microblading/</loc>
         <lastmod>2020-06-10T03:12:17.347Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -271,13 +250,6 @@
     <url>
         <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/passo-a-passo/</loc>
         <lastmod>2020-06-13T00:37:01.806Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/como-fazer-microblading/</loc>
-        <lastmod>2020-06-14T16:39:31.087Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -388,6 +360,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-de-microblading-4d/</loc>
+        <lastmod>2020-06-20T00:43:49.660Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/fio-a-fio/</loc>
         <lastmod>2020-06-20T00:43:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,15 +395,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-de-microblading-4d/</loc>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/microblading-passo-a-passo/</loc>
         <lastmod>2020-06-20T00:43:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/microblading-passo-a-passo/</loc>
-        <lastmod>2020-06-20T00:43:49.660Z</lastmod>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/maquiagem/</loc>
+        <lastmod>2020-06-21T14:43:23.329Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/como-fazer-microblading/</loc>
+        <lastmod>2020-06-21T14:43:23.329Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/curso-tebori/</loc>
+        <lastmod>2020-06-21T14:43:23.329Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/braprendermicrobladingcursoonline/tags/sobrancelhas-design/</loc>
+        <lastmod>2020-06-21T14:43:23.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

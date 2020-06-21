@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/rose-de-mer-passo-a-passo/</loc>
-        <lastmod>2020-05-23T05:43:32.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/tratamento-rose-de-mer/</loc>
         <lastmod>2020-05-23T05:43:32.844Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,21 +283,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/rosedemer/</loc>
-        <lastmod>2020-06-08T19:23:54.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/metodo-rose-de-mer/</loc>
-        <lastmod>2020-06-10T03:22:57.992Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-06-10T03:22:57.992Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -514,8 +493,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/rose-de-mer-passo-a-passo/</loc>
+        <lastmod>2020-06-21T14:54:09.941Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-06-21T14:54:09.941Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/tratamento-estetico/</loc>
-        <lastmod>2020-06-20T00:55:07.354Z</lastmod>
+        <lastmod>2020-06-21T14:54:09.941Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/moduloscursopeeling-rosedemer/tags/rosedemer/</loc>
+        <lastmod>2020-06-21T14:54:09.941Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

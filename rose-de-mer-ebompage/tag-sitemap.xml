@@ -115,20 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/ead/</loc>
-        <lastmod>2020-06-03T00:28:00.398Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/beleza/</loc>
-        <lastmod>2020-06-03T16:05:01.225Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/curso-de-peeling-rose-de-mer-e-confiavel/</loc>
         <lastmod>2020-06-03T16:05:01.225Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,21 +339,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/ros-de-mer-peeling/</loc>
-        <lastmod>2020-06-17T02:32:31.577Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/peeling-rose-de-mer/</loc>
+        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/curso-de-peeling-rose-de-mer/</loc>
         <lastmod>2020-06-18T19:11:52.479Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/curso-de-peeling-rose-de-mer/</loc>
+        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/peeling-rose-de-mer/</loc>
         <lastmod>2020-06-18T19:11:52.479Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,13 +395,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/christina-zehavi/</loc>
-        <lastmod>2020-06-20T01:04:22.349Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/metodo-rose-de-mer/</loc>
         <lastmod>2020-06-20T01:04:22.349Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +411,41 @@
     <url>
         <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/peeling-natural/</loc>
         <lastmod>2020-06-20T01:04:22.349Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/ead/</loc>
+        <lastmod>2020-06-21T15:00:32.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/ros-de-mer-peeling/</loc>
+        <lastmod>2020-06-21T15:00:32.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/rose-de-mer-peeling-do-mar-morto/</loc>
+        <lastmod>2020-06-21T15:00:32.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/christina-zehavi/</loc>
+        <lastmod>2020-06-21T15:00:32.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mer-ebompage/tags/beleza/</loc>
+        <lastmod>2020-06-21T15:00:32.216Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

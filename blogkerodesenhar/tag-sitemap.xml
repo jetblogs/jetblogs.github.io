@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-03-12T10:30:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-05-14T00:42:05.799Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,20 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-06-10T03:01:13.628Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-06-10T03:01:13.628Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-06-11T16:45:14.682Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,14 +248,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/ead/</loc>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/anime/</loc>
         <lastmod>2020-06-13T00:22:20.865Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/anime/</loc>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/ead/</loc>
         <lastmod>2020-06-13T00:22:20.865Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -297,13 +276,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/desenhar/</loc>
-        <lastmod>2020-06-14T16:26:32.599Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/kerodesenhar/</loc>
         <lastmod>2020-06-14T16:26:32.599Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -312,13 +284,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-06-14T16:26:32.599Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-14T16:26:32.599Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -334,13 +299,6 @@
     <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-06-16T02:41:22.341Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/online/</loc>
-        <lastmod>2020-06-17T02:06:31.498Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/blogkerodesenhar/tags/draw/</loc>
         <lastmod>2020-06-20T00:29:19.930Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/desenhar/</loc>
+        <lastmod>2020-06-21T14:30:57.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/online/</loc>
+        <lastmod>2020-06-21T14:30:57.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-06-21T14:30:57.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-06-21T14:30:57.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-06-21T14:30:57.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogkerodesenhar/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-06-21T14:30:57.270Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

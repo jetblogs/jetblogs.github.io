@@ -10,20 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/online/</loc>
-        <lastmod>2020-05-14T01:04:00.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/carreiras/</loc>
-        <lastmod>2020-05-15T22:04:40.689Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy/</loc>
         <lastmod>2020-06-03T16:00:00.779Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-06-08T19:25:01.932Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/ensino-a-distancia/</loc>
         <lastmod>2020-06-10T03:23:09.817Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,13 +103,6 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/facebook/</loc>
         <lastmod>2020-06-10T03:23:09.817Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-06-11T17:06:09.261Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -199,7 +171,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-login/</loc>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/academy/</loc>
         <lastmod>2020-06-17T02:26:57.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -207,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/passo-a-passo/</loc>
-        <lastmod>2020-06-17T02:26:57.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/academy/</loc>
         <lastmod>2020-06-17T02:26:57.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -242,13 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/curso-ead/</loc>
-        <lastmod>2020-06-18T19:05:06.984Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-06-18T19:05:06.984Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,6 +271,48 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-ganhar-dinheiro/</loc>
         <lastmod>2020-06-20T00:56:28.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-gabriella-ferreira/</loc>
+        <lastmod>2020-06-21T14:53:35.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-06-21T14:53:35.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-login/</loc>
+        <lastmod>2020-06-21T14:53:35.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-06-21T14:53:35.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/carreiras/</loc>
+        <lastmod>2020-06-21T14:53:35.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomnovo/tags/online/</loc>
+        <lastmod>2020-06-21T14:53:35.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

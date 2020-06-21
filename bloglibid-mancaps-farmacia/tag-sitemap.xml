@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-funciona-mesmo/</loc>
-        <lastmod>2020-03-31T07:51:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-04-10T11:41:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,14 +108,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-13T01:33:43.830Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-e-bom/</loc>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-13T01:33:43.830Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -131,13 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-06-14T18:37:43.773Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-16T04:10:37.315Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,14 +164,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-composicao/</loc>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-17T03:20:14.053Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-depoimento/</loc>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-17T03:20:14.053Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-onde-comprar/</loc>
-        <lastmod>2020-06-18T20:00:01.554Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-18T20:00:01.554Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-06-20T01:54:50.810Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-20T01:54:50.810Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-original/</loc>
         <lastmod>2020-06-20T01:54:50.810Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-06-21T16:04:02.821Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-onde-comprar/</loc>
+        <lastmod>2020-06-21T16:04:02.821Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-06-21T16:04:02.821Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/bloglibid-mancaps-farmacia/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-06-21T16:04:02.821Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

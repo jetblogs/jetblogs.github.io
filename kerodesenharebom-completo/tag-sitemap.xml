@@ -318,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-06-14T16:29:19.552Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/curso-de-manga/</loc>
         <lastmod>2020-06-14T16:29:19.552Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -360,13 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-06-17T02:09:59.644Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-17T02:09:59.644Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -395,22 +381,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/como-aprender-a-desenhar-do-zero/</loc>
-        <lastmod>2020-06-18T18:42:43.739Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/aprender-online/</loc>
         <lastmod>2020-06-18T18:42:43.739Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/draw/</loc>
-        <lastmod>2020-06-20T00:33:07.645Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/aulas-online/</loc>
         <lastmod>2020-06-20T00:33:07.645Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/draw/</loc>
+        <lastmod>2020-06-21T14:34:34.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-06-21T14:34:34.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/kerodesenhar-funciona/</loc>
+        <lastmod>2020-06-21T14:34:34.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom-completo/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-06-21T14:34:34.662Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

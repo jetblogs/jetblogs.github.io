@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-05-24T14:25:05.532Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/online/</loc>
         <lastmod>2020-05-25T18:29:33.198Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,21 +87,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-aprender-a-desenhar-do-zero/</loc>
-        <lastmod>2020-06-07T22:05:22.387Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenhar-animes/</loc>
-        <lastmod>2020-06-07T22:05:22.387Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-goku/</loc>
         <lastmod>2020-06-07T22:05:22.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -122,6 +101,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-06-08T21:24:46.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-06-08T21:24:46.952Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +116,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/dragon-ball/</loc>
-        <lastmod>2020-06-08T21:24:46.952Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-manga/</loc>
         <lastmod>2020-06-08T21:24:46.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -173,13 +152,6 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-06-10T03:12:02.773Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar/</loc>
-        <lastmod>2020-06-11T16:55:06.843Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -276,13 +248,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-16T02:54:13.658Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-16T02:54:13.658Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,7 +255,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenho/</loc>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-06-16T02:54:13.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -404,6 +369,41 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/para-iniciantes/</loc>
         <lastmod>2020-06-20T00:39:46.838Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-aprender-a-desenhar-do-zero/</loc>
+        <lastmod>2020-06-21T14:41:20.775Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenho/</loc>
+        <lastmod>2020-06-21T14:41:20.775Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar/</loc>
+        <lastmod>2020-06-21T14:41:20.775Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-06-21T14:41:20.775Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-06-21T14:41:20.775Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

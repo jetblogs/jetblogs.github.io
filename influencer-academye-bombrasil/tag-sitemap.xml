@@ -66,22 +66,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-06-03T00:22:33.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/influencer-academy-e-bom/</loc>
         <lastmod>2020-06-03T16:03:13.814Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-05T09:18:36.239Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -144,20 +130,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/curso-online/</loc>
-        <lastmod>2020-06-11T17:08:55.935Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/midias-sociais/</loc>
-        <lastmod>2020-06-11T17:08:55.935Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/curso-a-distancia/</loc>
         <lastmod>2020-06-11T17:08:55.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,6 +262,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/influencer-academy-reclame-aqui/</loc>
+        <lastmod>2020-06-20T01:00:57.794Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/online/</loc>
         <lastmod>2020-06-20T01:00:57.794Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,8 +290,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/influencer-academy-reclame-aqui/</loc>
-        <lastmod>2020-06-20T01:00:57.794Z</lastmod>
+        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-06-21T14:56:16.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/midias-sociais/</loc>
+        <lastmod>2020-06-21T14:56:16.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-21T14:56:16.040Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bombrasil/tags/curso-a-distancia/</loc>
+        <lastmod>2020-06-21T14:56:16.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
