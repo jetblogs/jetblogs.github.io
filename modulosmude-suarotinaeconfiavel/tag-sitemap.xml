@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/liberdade-financeira/</loc>
-        <lastmod>2020-06-08T19:51:16.742Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/msr-mude-sua-rotina-logo/</loc>
         <lastmod>2020-06-08T19:51:16.742Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +61,6 @@
     <url>
         <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/trabalhar-em-casa/</loc>
         <lastmod>2020-06-14T19:09:35.454Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/afiliados/</loc>
-        <lastmod>2020-06-16T04:50:38.626Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,6 +192,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/afiliado/</loc>
+        <lastmod>2020-06-21T16:09:23.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-06-21T16:09:23.752Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,8 +213,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/afiliado/</loc>
-        <lastmod>2020-06-21T16:09:23.752Z</lastmod>
+        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/afiliados/</loc>
+        <lastmod>2020-06-23T03:00:25.042Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/liberdade-financeira/</loc>
+        <lastmod>2020-06-23T03:00:25.042Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/plataforma-mude-sua-rotina/</loc>
+        <lastmod>2020-06-23T03:00:25.042Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/modulosmude-suarotinaeconfiavel/tags/curso-msr-mude-sua-rotina/</loc>
+        <lastmod>2020-06-23T03:00:25.042Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

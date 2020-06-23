@@ -157,22 +157,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-14T18:45:57.082Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-14T18:45:57.082Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-06-16T04:15:13.560Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -207,13 +193,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-18T20:03:26.916Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-18T20:03:26.916Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-21T16:08:32.874Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-06-21T16:08:32.874Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man/</loc>
         <lastmod>2020-06-21T16:08:32.874Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-06-23T02:59:34.014Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-23T02:59:34.014Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-23T02:59:34.014Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-libid-mancaps-oficial/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-23T02:59:34.014Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilmudesua-rotina/tags/monetizze/</loc>
-        <lastmod>2020-06-11T18:22:40.338Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilmudesua-rotina/tags/msr-funciona/</loc>
         <lastmod>2020-06-13T02:14:12.597Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,8 +185,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brasilmudesua-rotina/tags/monetizze/</loc>
+        <lastmod>2020-06-23T03:04:40.339Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brasilmudesua-rotina/tags/msr-mude-sua-rotina/</loc>
-        <lastmod>2020-06-21T16:13:51.643Z</lastmod>
+        <lastmod>2020-06-23T03:04:40.339Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilmudesua-rotina/tags/msr-resultados/</loc>
+        <lastmod>2020-06-23T03:04:40.339Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilmudesua-rotina/tags/msr-curso/</loc>
+        <lastmod>2020-06-23T03:04:40.339Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

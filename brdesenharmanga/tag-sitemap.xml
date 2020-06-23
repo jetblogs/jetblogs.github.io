@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhando/</loc>
-        <lastmod>2020-06-03T00:07:17.624Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/curso-de-desenho/</loc>
         <lastmod>2020-06-03T15:44:23.110Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,21 +164,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-06-10T03:12:44.548Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/o-kero-desenhar-realmente-funciona/</loc>
-        <lastmod>2020-06-10T03:12:44.548Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-06-10T03:12:44.548Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,8 +178,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/anime/</loc>
-        <lastmod>2020-06-11T16:55:43.678Z</lastmod>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-06-10T03:12:44.548Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -227,14 +206,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-13T00:36:54.261Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenho-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-06-13T00:36:54.261Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-06-14T16:36:24.273Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/goku/</loc>
         <lastmod>2020-06-14T16:36:24.273Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -263,6 +235,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/como-desenhar-manga/</loc>
+        <lastmod>2020-06-14T16:36:24.273Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhar-do-zero/</loc>
         <lastmod>2020-06-14T16:36:24.273Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,14 +346,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/a-distancia/</loc>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhando-animes/</loc>
         <lastmod>2020-06-21T14:41:58.598Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhando-animes/</loc>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/a-distancia/</loc>
         <lastmod>2020-06-21T14:41:58.598Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -404,6 +383,34 @@
     <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-06-21T14:41:58.598Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/kerodesenhar-funciona/</loc>
+        <lastmod>2020-06-23T01:46:00.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/anime/</loc>
+        <lastmod>2020-06-23T01:46:00.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhando/</loc>
+        <lastmod>2020-06-23T01:46:00.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-06-23T01:46:00.336Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

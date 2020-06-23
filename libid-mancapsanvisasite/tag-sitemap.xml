@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-06-11T18:15:08.915Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-13T01:42:47.353Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,13 +60,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-14T18:57:44.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-06-14T18:57:44.610Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,7 +136,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-efeitos-colaterais/</loc>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-06-20T02:07:46.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -158,13 +144,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-06-20T02:07:46.711Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-06-20T02:07:46.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-06-21T16:15:45.088Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-21T16:15:45.088Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,8 +185,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-06-23T03:06:20.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-06-21T16:15:45.088Z</lastmod>
+        <lastmod>2020-06-23T03:06:20.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-23T03:06:20.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-23T03:06:20.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancapsanvisasite/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-23T03:06:20.168Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -52,14 +52,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-06-14T19:05:14.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libidman-caps-funciona/</loc>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-14T19:05:14.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-17T03:31:56.107Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-17T03:31:56.107Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,14 +101,21 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-06-18T20:12:08.781Z</lastmod>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-17T03:31:56.107Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-18T20:12:08.781Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-18T20:12:08.781Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -143,20 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-06-20T02:11:49.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-20T02:11:49.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-06-20T02:11:49.111Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,21 +164,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-06-21T16:19:51.738Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-21T16:19:51.738Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man/</loc>
         <lastmod>2020-06-21T16:19:51.738Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -208,6 +180,48 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-21T16:19:51.738Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-23T03:10:28.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-06-23T03:10:28.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man/</loc>
+        <lastmod>2020-06-23T03:10:28.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libidman-caps/</loc>
+        <lastmod>2020-06-23T03:10:28.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-06-23T03:10:28.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capse-confiavel/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-23T03:10:28.779Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

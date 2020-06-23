@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-18T20:06:21.330Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-06-18T20:06:21.330Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,15 +185,43 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-e-bom/</loc>
+        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-21T16:12:19.966Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-06-21T16:12:19.966Z</lastmod>
+        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-23T03:03:07.935Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-06-23T03:03:07.935Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-23T03:03:07.935Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-23T03:03:07.935Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-mancaps-site/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-23T03:03:07.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/afiliado/</loc>
-        <lastmod>2020-05-19T22:20:26.050Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/negocios-online/</loc>
         <lastmod>2020-05-24T16:08:43.117Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/mude-sua-rotina-reclame-aqui/</loc>
-        <lastmod>2020-06-10T04:25:09.374Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/msr-resultados/</loc>
         <lastmod>2020-06-11T18:17:58.909Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-06-14T19:07:07.412Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-06-14T19:07:07.412Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,6 +130,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/vendas-online/</loc>
+        <lastmod>2020-06-14T19:07:07.412Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-06-14T19:07:07.412Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,22 +171,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-06-17T04:05:30.091Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/hotmart/</loc>
         <lastmod>2020-06-17T04:05:30.091Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/liberdade-financeira/</loc>
-        <lastmod>2020-06-18T20:41:15.705Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -221,13 +193,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-18T20:41:15.705Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/marketing-digital/</loc>
         <lastmod>2020-06-18T20:41:15.705Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,6 +264,41 @@
     <url>
         <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/monetizze/</loc>
         <lastmod>2020-06-21T16:08:20.264Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/mude-sua-rotina-reclame-aqui/</loc>
+        <lastmod>2020-06-23T02:59:21.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/liberdade-financeira/</loc>
+        <lastmod>2020-06-23T02:59:21.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <lastmod>2020-06-23T02:59:21.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/marketing-digital/</loc>
+        <lastmod>2020-06-23T02:59:21.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesuarotinavalea-pena-blog/tags/afiliado/</loc>
+        <lastmod>2020-06-23T02:59:21.246Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

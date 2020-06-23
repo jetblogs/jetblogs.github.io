@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-08T20:09:37.012Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-08T20:09:37.012Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,21 +17,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/negocios-online/</loc>
-        <lastmod>2020-06-08T20:09:37.012Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/mude-sua-rotina/</loc>
-        <lastmod>2020-06-11T18:23:10.660Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-06-11T18:23:10.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -108,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/msr-curso/</loc>
-        <lastmod>2020-06-17T04:10:06.558Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/hotmart/</loc>
         <lastmod>2020-06-18T20:45:31.622Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -123,13 +95,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-06-18T20:45:31.622Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-06-18T20:45:31.622Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -222,6 +187,48 @@
     <url>
         <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/afiliado/</loc>
         <lastmod>2020-06-21T16:14:30.970Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/msr-curso/</loc>
+        <lastmod>2020-06-23T03:05:17.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-23T03:05:17.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-06-23T03:05:17.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/empreendedorismo/</loc>
+        <lastmod>2020-06-23T03:05:17.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/negocios-online/</loc>
+        <lastmod>2020-06-23T03:05:17.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagecurso-mude-suarotina-funciona/tags/mude-sua-rotina-depoimento/</loc>
+        <lastmod>2020-06-23T03:05:17.415Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
