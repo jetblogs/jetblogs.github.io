@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotina-ebomdownload/tags/afiliados/</loc>
-        <lastmod>2020-06-18T20:42:01.999Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-ebomdownload/tags/renda-extra/</loc>
         <lastmod>2020-06-20T02:26:20.947Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -229,6 +222,34 @@
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-ebomdownload/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-06-23T03:00:27.531Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-ebomdownload/tags/curso-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-24T00:07:57.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-ebomdownload/tags/afiliados/</loc>
+        <lastmod>2020-06-24T00:07:57.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-ebomdownload/tags/mude-sua-rotina-marketing-digital/</loc>
+        <lastmod>2020-06-24T00:07:57.967Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-ebomdownload/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-24T00:07:57.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -66,22 +66,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/kero-desenhar/</loc>
-        <lastmod>2020-05-24T14:22:09.583Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/desenhando-animes/</loc>
         <lastmod>2020-05-25T18:27:04.182Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/como-desenhar-manga-passo-a-passo/</loc>
-        <lastmod>2020-06-03T00:04:51.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -151,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/como-desenhar-naruto/</loc>
-        <lastmod>2020-06-08T21:23:16.980Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/como-desenhar-animes/</loc>
         <lastmod>2020-06-08T21:23:16.980Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/como-desenhar/</loc>
-        <lastmod>2020-06-23T01:42:41.890Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/tutoriais/</loc>
         <lastmod>2020-06-23T01:42:41.890Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -404,6 +376,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/videos-online/</loc>
         <lastmod>2020-06-23T01:42:41.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/como-desenhar/</loc>
+        <lastmod>2020-06-23T22:44:43.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-06-23T22:44:43.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <lastmod>2020-06-23T22:44:43.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-a-desenhar-hoje/tags/kero-desenhar/</loc>
+        <lastmod>2020-06-23T22:44:43.583Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

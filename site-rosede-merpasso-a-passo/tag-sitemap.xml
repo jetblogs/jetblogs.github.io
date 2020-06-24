@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/rose-de-mer-israel/</loc>
-        <lastmod>2020-05-23T05:46:13.871Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling/</loc>
         <lastmod>2020-05-24T14:52:10.624Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-doi/</loc>
-        <lastmod>2020-06-10T03:25:18.667Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-funciona/</loc>
         <lastmod>2020-06-10T03:25:18.667Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,13 +269,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-como-funciona/</loc>
-        <lastmod>2020-06-14T16:52:29.931Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-funciona-mesmo/</loc>
         <lastmod>2020-06-16T03:15:54.234Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,13 +306,6 @@
     <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-06-17T02:28:49.430Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-06-18T19:07:59.533Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -444,6 +416,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/rose-de-mer-youtube/</loc>
+        <lastmod>2020-06-23T02:06:05.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-o-que-e/</loc>
         <lastmod>2020-06-23T02:06:05.346Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -451,8 +430,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/rose-de-mer-youtube/</loc>
-        <lastmod>2020-06-23T02:06:05.346Z</lastmod>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-doi/</loc>
+        <lastmod>2020-06-23T23:05:38.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-06-23T23:05:38.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/peeling-rose-de-mer-como-funciona/</loc>
+        <lastmod>2020-06-23T23:05:38.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-rosede-merpasso-a-passo/tags/rose-de-mer-israel/</loc>
+        <lastmod>2020-06-23T23:05:38.021Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

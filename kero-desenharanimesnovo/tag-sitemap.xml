@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/desenhar-animes/</loc>
-        <lastmod>2020-05-21T12:23:58.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-05-23T05:22:01.533Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,13 +138,6 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/desenhando/</loc>
         <lastmod>2020-06-05T08:55:58.170Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/goku/</loc>
-        <lastmod>2020-06-06T15:53:26.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -388,21 +374,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-06-21T14:33:41.817Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/como-fazer-esboco/</loc>
-        <lastmod>2020-06-21T14:33:41.817Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/videos-online/</loc>
         <lastmod>2020-06-21T14:33:41.817Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/curso-de-manga/</loc>
         <lastmod>2020-06-23T01:38:10.329Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-06-23T22:38:22.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/videos-online/</loc>
+        <lastmod>2020-06-23T22:38:22.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/goku/</loc>
+        <lastmod>2020-06-23T22:38:22.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharanimesnovo/tags/desenhar-animes/</loc>
+        <lastmod>2020-06-23T22:38:22.619Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

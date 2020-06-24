@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-06-16T04:22:23.602Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-16T04:22:23.602Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,20 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-18T20:07:20.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-06-18T20:07:20.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-06-18T20:07:20.901Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,13 +116,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-20T02:05:44.519Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-06-20T02:05:44.519Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-06-21T16:13:40.505Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-21T16:13:40.505Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,15 +178,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-estimulante-sexual/</loc>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-23T03:04:22.342Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-23T03:04:22.342Z</lastmod>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-06-23T23:41:32.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-06-23T23:41:32.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-23T23:41:32.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-23T23:41:32.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-23T23:41:32.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-estimulante-sexual/</loc>
+        <lastmod>2020-06-23T23:41:32.007Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

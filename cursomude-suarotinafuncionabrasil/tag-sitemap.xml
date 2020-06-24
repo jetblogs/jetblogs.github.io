@@ -3,21 +3,7 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-08T20:04:33.796Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-10T04:29:10.893Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-06-10T04:29:10.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -101,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/treinamento-mude-sua-rotina/</loc>
-        <lastmod>2020-06-18T20:44:29.770Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/trabalhar-pela-internet/</loc>
         <lastmod>2020-06-18T20:44:29.770Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,14 +101,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/msr-resultados/</loc>
         <lastmod>2020-06-20T02:30:12.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/msr-resultados/</loc>
+        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-06-20T02:30:12.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-06-23T03:03:53.520Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-23T03:03:53.520Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -222,6 +194,41 @@
     <url>
         <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/monetizze/</loc>
         <lastmod>2020-06-23T03:03:53.520Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-24T00:10:53.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-06-24T00:10:53.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-24T00:10:53.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/treinamento-mude-sua-rotina/</loc>
+        <lastmod>2020-06-24T00:10:53.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-suarotinafuncionabrasil/tags/liberdade-financeira/</loc>
+        <lastmod>2020-06-24T00:10:53.698Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

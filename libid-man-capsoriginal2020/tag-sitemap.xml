@@ -3,22 +3,8 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-05-19T01:15:25.921Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-anvisa/</loc>
         <lastmod>2020-05-20T21:11:38.323Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libidman-caps/</loc>
-        <lastmod>2020-05-25T19:56:30.421Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -87,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-06-11T18:09:39.253Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-preco/</loc>
         <lastmod>2020-06-11T18:09:39.253Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-16T04:16:44.616Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-16T04:16:44.616Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,7 +101,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libidman-caps-como-usar/</loc>
+        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-16T04:16:44.616Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -152,13 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-17T03:24:31.538Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-06-18T20:04:27.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -257,6 +222,41 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-06-23T03:00:48.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libidman-caps/</loc>
+        <lastmod>2020-06-23T23:31:08.720Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-23T23:31:08.720Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-06-23T23:31:08.720Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-23T23:31:08.720Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-capsoriginal2020/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-06-23T23:31:08.720Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-06-07T22:11:48.710Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-login/</loc>
         <lastmod>2020-06-08T19:13:57.794Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,15 +136,15 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-download/</loc>
-        <lastmod>2020-06-13T00:42:34.671Z</lastmod>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/instagram/</loc>
+        <lastmod>2020-06-14T16:42:14.037Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/instagram/</loc>
-        <lastmod>2020-06-14T16:42:14.037Z</lastmod>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-16T03:01:40.627Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-16T03:01:40.627Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/curso/</loc>
         <lastmod>2020-06-16T03:01:40.627Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,21 +171,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-gabriella-ferreira/</loc>
-        <lastmod>2020-06-16T03:01:40.627Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/carreiras/</loc>
-        <lastmod>2020-06-17T02:20:08.649Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-funciona/</loc>
         <lastmod>2020-06-17T02:20:08.649Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/curso-online/</loc>
-        <lastmod>2020-06-20T00:48:31.701Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influenciador-digital/</loc>
         <lastmod>2020-06-20T00:48:31.701Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -263,13 +228,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-instagram/</loc>
-        <lastmod>2020-06-21T14:46:02.298Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/curso-influencer-academy/</loc>
         <lastmod>2020-06-21T14:46:02.298Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -320,6 +278,48 @@
     <url>
         <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-gabi-ferreira/</loc>
         <lastmod>2020-06-23T01:53:09.847Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-06-23T22:52:47.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-gabriella-ferreira/</loc>
+        <lastmod>2020-06-23T22:52:47.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/curso-online/</loc>
+        <lastmod>2020-06-23T22:52:47.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/curso-influencer-academy/</loc>
+        <lastmod>2020-06-23T22:52:47.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-download/</loc>
+        <lastmod>2020-06-23T22:52:47.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluenceracademy/tags/influencer-academy-funciona/</loc>
+        <lastmod>2020-06-23T22:52:47.843Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-11T18:18:10.314Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-13T01:45:46.408Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,13 +40,6 @@
     <url>
         <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-14T19:03:14.097Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-06-16T04:29:49.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -103,13 +89,6 @@
     <url>
         <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-17T03:31:17.707Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-composicao/</loc>
-        <lastmod>2020-06-18T20:11:27.857Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,6 +157,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-23T03:09:22.509Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libidman-caps-preco/</loc>
         <lastmod>2020-06-23T03:09:22.509Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,8 +178,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-23T03:09:22.509Z</lastmod>
+        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-23T23:52:40.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-06-23T23:52:40.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-23T23:52:40.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libid-man-capse-confiavel/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-06-23T23:52:40.470Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

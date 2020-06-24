@@ -143,21 +143,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/afiliados/</loc>
-        <lastmod>2020-06-13T02:05:46.581Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/renda-extra/</loc>
-        <lastmod>2020-06-14T19:00:33.002Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-14T19:00:33.002Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -186,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/monetizze/</loc>
-        <lastmod>2020-06-17T04:03:20.904Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-06-17T04:03:20.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/marketing-digital/</loc>
-        <lastmod>2020-06-21T16:05:17.338Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/negocios-online/</loc>
         <lastmod>2020-06-21T16:05:17.338Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,14 +248,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/afiliado/</loc>
+        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/marketing-digital/</loc>
         <lastmod>2020-06-21T16:05:17.338Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/curso-mude-sua-rotina-funciona/</loc>
+        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/afiliado/</loc>
         <lastmod>2020-06-21T16:05:17.338Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -311,8 +283,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-24T00:02:59.195Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/mude-sua-rotina-depoimento/</loc>
+        <lastmod>2020-06-24T00:02:59.195Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/afiliados/</loc>
+        <lastmod>2020-06-24T00:02:59.195Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/marketing-de-afiliados/</loc>
-        <lastmod>2020-06-23T02:56:31.854Z</lastmod>
+        <lastmod>2020-06-24T00:02:59.195Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comprar-cursomudesuarotina-brasil/tags/curso-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-24T00:02:59.195Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man/</loc>
-        <lastmod>2020-06-14T19:02:57.842Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-original/</loc>
         <lastmod>2020-06-16T04:29:43.998Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,14 +87,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-mercado-livre/</loc>
+        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-18T20:11:22.778Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-original/</loc>
+        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-06-18T20:11:22.778Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -143,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-21T16:18:53.798Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-21T16:18:53.798Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -159,13 +145,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-21T16:18:53.798Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-06-23T03:09:17.760Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -185,8 +164,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-23T23:52:33.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libidman-caps/</loc>
-        <lastmod>2020-06-23T03:09:17.760Z</lastmod>
+        <lastmod>2020-06-23T23:52:33.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man/</loc>
+        <lastmod>2020-06-23T23:52:33.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-23T23:52:33.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-23T23:52:33.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-valepena/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-06-23T23:52:33.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

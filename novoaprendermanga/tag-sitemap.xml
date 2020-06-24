@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-05-21T12:23:18.232Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novoaprendermanga/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-05-21T12:23:18.232Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/ead/</loc>
-        <lastmod>2020-06-07T21:59:40.056Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novoaprendermanga/tags/kerodesenhar-com/</loc>
         <lastmod>2020-06-08T21:19:39.859Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,22 +199,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/draw/</loc>
-        <lastmod>2020-06-10T03:03:25.385Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novoaprendermanga/tags/desenho/</loc>
         <lastmod>2020-06-10T03:03:25.385Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/tutorial-de-desenho/</loc>
-        <lastmod>2020-06-11T16:47:13.280Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -270,13 +242,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novoaprendermanga/tags/videos-online/</loc>
-        <lastmod>2020-06-14T16:28:20.001Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-06-14T16:28:20.001Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -353,14 +318,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/kero-desenhar/</loc>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-06-20T00:32:01.666Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/curso-kerodesenhar-com/</loc>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/kero-desenhar/</loc>
         <lastmod>2020-06-20T00:32:01.666Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,13 +381,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novoaprendermanga/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-23T01:37:45.012Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novoaprendermanga/tags/como-desenhar-goku/</loc>
         <lastmod>2020-06-23T01:37:45.012Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/novoaprendermanga/tags/como-desenhar-anime/</loc>
         <lastmod>2020-06-23T01:37:45.012Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/draw/</loc>
+        <lastmod>2020-06-23T22:37:41.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-06-23T22:37:41.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-06-23T22:37:41.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-23T22:37:41.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <lastmod>2020-06-23T22:37:41.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novoaprendermanga/tags/ead/</loc>
+        <lastmod>2020-06-23T22:37:41.516Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

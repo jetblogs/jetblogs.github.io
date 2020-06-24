@@ -17,20 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-01T14:51:38.756Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-06-03T01:08:18.298Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-06-03T01:08:18.298Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-17T03:25:24.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-caps-onde-comprar/</loc>
         <lastmod>2020-06-17T03:25:24.424Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -165,13 +144,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-06-18T20:05:22.840Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-original/</loc>
         <lastmod>2020-06-18T20:05:22.840Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -214,13 +186,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-21T16:11:02.838Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-21T16:11:02.838Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -271,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-23T03:01:57.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-23T23:33:53.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-06-23T23:33:53.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-06-23T23:33:53.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-23T23:33:53.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-original/</loc>
+        <lastmod>2020-06-23T23:33:53.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brlibid-man-caps/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-06-23T23:33:53.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
