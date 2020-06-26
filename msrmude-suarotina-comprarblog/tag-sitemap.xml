@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-03T01:22:04.161Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-03T16:52:32.575Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,22 +73,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/trabalhar-em-casa/</loc>
-        <lastmod>2020-06-07T23:23:44.180Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-08T19:25:25.037Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-10T04:19:28.607Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/curso-msr-mude-sua-rotina/</loc>
-        <lastmod>2020-06-20T02:18:05.621Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/marketing/</loc>
         <lastmod>2020-06-21T16:01:41.362Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,14 +234,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/msr-mude-a-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/marketing-digital/</loc>
         <lastmod>2020-06-23T23:58:21.348Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/marketing-digital/</loc>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-06-23T23:58:21.348Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,6 +276,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/mude-sua-rotina-marketing-digital/</loc>
+        <lastmod>2020-06-25T20:35:33.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-06-25T20:35:33.399Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,8 +290,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-06-25T20:35:33.399Z</lastmod>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/empreendedorismo/</loc>
+        <lastmod>2020-06-26T13:13:42.627Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/trabalhar-em-casa/</loc>
+        <lastmod>2020-06-26T13:13:42.627Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/curso-msr-mude-sua-rotina/</loc>
+        <lastmod>2020-06-26T13:13:42.627Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotina-comprarblog/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-26T13:13:42.627Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/estetica/</loc>
-        <lastmod>2020-05-24T14:57:51.803Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/rose-de-mer-brasil/</loc>
         <lastmod>2020-06-01T13:56:33.505Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +81,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/peeling-rose-de-mer-funciona-mesmo/</loc>
-        <lastmod>2020-06-03T16:05:22.428Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/peeling-rose-de-mer-vale-a-pena/</loc>
         <lastmod>2020-06-03T16:05:22.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,6 +192,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/cuidar-da-pele/</loc>
+        <lastmod>2020-06-14T16:57:02.792Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/empreendedorismo/</loc>
         <lastmod>2020-06-14T16:57:02.792Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/cuidar-da-pele/</loc>
-        <lastmod>2020-06-14T16:57:02.792Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/curso-ead/</loc>
         <lastmod>2020-06-16T03:20:56.781Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,13 +228,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/rose-de-mer-produtos/</loc>
-        <lastmod>2020-06-16T03:20:56.781Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/peeling-rose-de-mer-resultados/</loc>
         <lastmod>2020-06-16T03:20:56.781Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -430,7 +409,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/melhor-curso/</loc>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-06-25T20:32:45.155Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -444,7 +423,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/rose-de-mer-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/melhor-curso/</loc>
         <lastmod>2020-06-25T20:32:45.155Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -453,6 +432,41 @@
     <url>
         <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/curso-de-peeling-rose-de-mer-vale-a-pena/</loc>
         <lastmod>2020-06-25T20:32:45.155Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/peeling-rose-de-mer-resultados/</loc>
+        <lastmod>2020-06-26T13:14:22.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/peeling-rose-de-mer-vale-a-pena/</loc>
+        <lastmod>2020-06-26T13:14:22.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/peeling-rose-de-mer-como-funciona/</loc>
+        <lastmod>2020-06-26T13:14:22.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/estetica/</loc>
+        <lastmod>2020-06-26T13:14:22.881Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasilrosede-mere-bom/tags/curso-online/</loc>
+        <lastmod>2020-06-26T13:14:22.881Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

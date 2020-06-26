@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libidman-caps/</loc>
-        <lastmod>2020-06-10T04:31:23.627Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-10T04:31:23.627Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-21T16:15:10.499Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-06-21T16:15:10.499Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-06-23T03:05:47.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-06-23T03:05:47.111Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -193,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-06-23T23:46:07.711Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-23T23:46:07.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -243,6 +215,41 @@
     <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-original/</loc>
         <lastmod>2020-06-25T21:03:40.482Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-06-26T13:40:44.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-26T13:40:44.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-26T13:40:44.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libidman-caps/</loc>
+        <lastmod>2020-06-26T13:40:44.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-06-26T13:40:44.203Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

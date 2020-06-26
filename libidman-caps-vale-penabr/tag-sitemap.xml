@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-06-14T18:55:57.101Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-06-14T18:55:57.101Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-18T20:08:07.300Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libidman-caps-preco/</loc>
         <lastmod>2020-06-20T02:06:43.668Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,14 +108,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-06-20T02:06:43.668Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-resultados/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps/</loc>
         <lastmod>2020-06-20T02:06:43.668Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -178,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-06-23T03:05:19.884Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-preco/</loc>
         <lastmod>2020-06-23T23:45:05.648Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,21 +192,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-23T23:45:05.648Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-anvisa/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-06-25T21:02:39.416Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-mercado-livre/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-06-25T21:02:39.416Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -243,6 +215,48 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-25T21:02:39.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-06-26T13:39:06.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-06-26T13:39:06.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-funciona-mesmo-sera/</loc>
+        <lastmod>2020-06-26T13:39:06.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-06-26T13:39:06.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-26T13:39:06.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-vale-penabr/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-26T13:39:06.197Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

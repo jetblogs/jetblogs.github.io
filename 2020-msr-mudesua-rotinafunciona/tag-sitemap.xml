@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-10T04:30:28.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/curso-mude-sua-rotina/</loc>
         <lastmod>2020-06-10T04:30:28.535Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,21 +199,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/hotmart/</loc>
-        <lastmod>2020-06-24T00:12:08.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/curso-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-06-24T00:12:08.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-24T00:12:08.670Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -257,6 +236,34 @@
     <url>
         <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/mude-sua-rotina-reclame-aqui/</loc>
         <lastmod>2020-06-25T21:08:30.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/empreendedorismo/</loc>
+        <lastmod>2020-06-26T13:44:49.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/hotmart/</loc>
+        <lastmod>2020-06-26T13:44:49.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-26T13:44:49.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/curso-msr-mude-sua-rotina/</loc>
+        <lastmod>2020-06-26T13:44:49.527Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/como-desenhar-goku/</loc>
-        <lastmod>2020-03-08T16:51:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/como-desenhar-naruto/</loc>
         <lastmod>2020-03-14T09:51:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -52,22 +45,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/tutoriais/</loc>
-        <lastmod>2020-05-15T21:47:06.900Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/a-distancia/</loc>
         <lastmod>2020-05-15T21:47:06.900Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/desenhar/</loc>
-        <lastmod>2020-05-16T18:54:55.570Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -96,13 +75,6 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-05-20T20:09:06.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/desenhando/</loc>
-        <lastmod>2020-05-24T14:18:48.623Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -374,13 +346,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/curso-de-anime/</loc>
-        <lastmod>2020-06-23T01:39:00.766Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/anime/</loc>
         <lastmod>2020-06-23T01:39:00.766Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -395,14 +360,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/drawing/</loc>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/manga/</loc>
         <lastmod>2020-06-23T22:39:39.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/manga/</loc>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/drawing/</loc>
         <lastmod>2020-06-23T22:39:39.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/kerodesenhar-info/</loc>
         <lastmod>2020-06-25T19:55:02.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/tutoriais/</loc>
+        <lastmod>2020-06-26T12:39:33.463Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-26T12:39:33.463Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-06-26T12:39:33.463Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/desenhar/</loc>
+        <lastmod>2020-06-26T12:39:33.463Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-mangahoje/tags/desenhando/</loc>
+        <lastmod>2020-06-26T12:39:33.463Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

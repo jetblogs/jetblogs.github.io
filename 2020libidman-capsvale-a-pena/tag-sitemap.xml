@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-06-03T01:04:05.134Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-03T16:41:36.064Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-18T20:00:19.313Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-06-18T20:00:19.313Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -116,6 +102,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-06-18T20:00:19.313Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-18T20:00:19.313Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -157,21 +150,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-06-20T01:55:28.429Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-06-21T16:04:26.376Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-funciona-mesmo/</loc>
         <lastmod>2020-06-21T16:04:26.376Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -187,13 +166,6 @@
     <url>
         <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-21T16:04:26.376Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-06-23T02:55:42.019Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -262,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-06-25T20:38:27.414Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps/</loc>
         <lastmod>2020-06-25T20:38:27.414Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,8 +241,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-26T13:16:19.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-06-26T13:16:19.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-06-26T13:16:19.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-06-26T13:16:19.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-original/</loc>
-        <lastmod>2020-06-25T20:38:27.414Z</lastmod>
+        <lastmod>2020-06-26T13:16:19.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020libidman-capsvale-a-pena/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-06-26T13:16:19.619Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

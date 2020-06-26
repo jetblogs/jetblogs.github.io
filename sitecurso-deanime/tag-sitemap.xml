@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-06-08T21:25:13.594Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso/</loc>
         <lastmod>2020-06-08T21:25:13.594Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,14 +115,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/kerodesenhar-info/</loc>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso-de-anime/</loc>
         <lastmod>2020-06-11T16:55:39.093Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/curso-de-anime/</loc>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/kerodesenhar-info/</loc>
         <lastmod>2020-06-11T16:55:39.093Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -157,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-desenhar-naruto/</loc>
-        <lastmod>2020-06-13T00:36:47.798Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-06-14T16:36:19.905Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/speed-drawing/</loc>
-        <lastmod>2020-06-16T02:54:58.220Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/desenho/</loc>
         <lastmod>2020-06-16T02:54:58.220Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -193,6 +172,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-06-16T02:54:58.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/speed-drawing/</loc>
         <lastmod>2020-06-16T02:54:58.220Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -242,13 +228,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/manga/</loc>
-        <lastmod>2020-06-20T00:40:27.002Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-20T00:40:27.002Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-desenhar-o-goku/</loc>
-        <lastmod>2020-06-25T20:05:30.255Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-06-25T20:05:30.255Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -397,6 +369,34 @@
     <url>
         <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-desenhar-para-iniciantes/</loc>
         <lastmod>2020-06-25T20:05:30.255Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-06-26T12:47:46.957Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-06-26T12:47:46.957Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-desenhar-o-goku/</loc>
+        <lastmod>2020-06-26T12:47:46.957Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/sitecurso-deanime/tags/como-desenhar-naruto/</loc>
+        <lastmod>2020-06-26T12:47:46.957Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
