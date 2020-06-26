@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/msr-resultados/</loc>
-        <lastmod>2020-06-14T19:08:31.403Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/afiliado/</loc>
         <lastmod>2020-06-16T04:50:17.906Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,22 +185,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/mude-sua-rotina-depoimento/</loc>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/eduzz/</loc>
         <lastmod>2020-06-24T00:07:30.130Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/mude-sua-rotina-depoimento/</loc>
+        <lastmod>2020-06-25T20:55:51.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-24T00:07:30.130Z</lastmod>
+        <lastmod>2020-06-25T20:55:51.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/eduzz/</loc>
-        <lastmod>2020-06-24T00:07:30.130Z</lastmod>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/msr-resultados/</loc>
+        <lastmod>2020-06-25T20:55:51.750Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/trabalhar-pela-internet/</loc>
+        <lastmod>2020-06-25T20:55:51.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

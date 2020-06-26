@@ -45,20 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/hotmart/</loc>
-        <lastmod>2020-06-06T17:09:54.624Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/monetizze/</loc>
-        <lastmod>2020-06-07T23:27:16.596Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-06-07T23:27:16.596Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,13 +283,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/mude-sua-rotina-compensa/</loc>
-        <lastmod>2020-06-24T00:01:31.393Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/treinamento-msr/</loc>
         <lastmod>2020-06-24T00:01:31.393Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,8 +290,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/hotmart/</loc>
+        <lastmod>2020-06-25T20:43:10.369Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/monetizze/</loc>
+        <lastmod>2020-06-25T20:43:10.369Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-06-25T20:43:10.369Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/agora-mudesua-rotina-funciona/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-24T00:01:31.393Z</lastmod>
+        <lastmod>2020-06-25T20:43:10.369Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

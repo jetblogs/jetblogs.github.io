@@ -38,20 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-03T01:08:01.434Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-03T01:08:01.434Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-03T16:49:20.904Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-06-18T20:05:03.078Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-18T20:05:03.078Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-21T16:10:37.173Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-06-23T03:01:32.369Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-23T23:32:54.084Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-06-23T23:32:54.084Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -271,6 +236,41 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-23T23:32:54.084Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-25T20:53:56.290Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-25T20:53:56.290Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-25T20:53:56.290Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-06-25T20:53:56.290Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-brasil/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-25T20:53:56.290Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

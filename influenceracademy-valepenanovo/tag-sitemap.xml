@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-06-07T22:12:56.114Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influencer-academy-facebook/</loc>
         <lastmod>2020-06-07T22:12:56.114Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,13 +75,6 @@
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-06-11T16:59:53.793Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/facebook/</loc>
-        <lastmod>2020-06-13T00:44:19.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -164,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/carreiras/</loc>
-        <lastmod>2020-06-18T18:57:54.751Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influenciador-de-midias/</loc>
         <lastmod>2020-06-18T18:57:54.751Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/youtube/</loc>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influencer-academy-e-bom/</loc>
         <lastmod>2020-06-21T14:47:16.274Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -235,13 +214,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influencer-academy-instagram/</loc>
-        <lastmod>2020-06-21T14:47:16.274Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influencer-academy-e-bom/</loc>
         <lastmod>2020-06-21T14:47:16.274Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influenciador-digital/</loc>
-        <lastmod>2020-06-23T22:54:14.036Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/ead/</loc>
         <lastmod>2020-06-23T22:54:14.036Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,14 +262,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/academy/</loc>
-        <lastmod>2020-06-23T22:54:14.036Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influenciador-digital/</loc>
         <lastmod>2020-06-23T22:54:14.036Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,6 +271,48 @@
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/expert-influencer-academy/</loc>
         <lastmod>2020-06-23T22:54:14.036Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/carreiras/</loc>
+        <lastmod>2020-06-25T20:12:49.744Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/facebook/</loc>
+        <lastmod>2020-06-25T20:12:49.744Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/youtube/</loc>
+        <lastmod>2020-06-25T20:12:49.744Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/passo-a-passo/</loc>
+        <lastmod>2020-06-25T20:12:49.744Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/academy/</loc>
+        <lastmod>2020-06-25T20:12:49.744Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-valepenanovo/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-06-25T20:12:49.744Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

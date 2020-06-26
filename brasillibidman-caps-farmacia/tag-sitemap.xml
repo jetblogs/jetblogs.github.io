@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-03-19T08:50:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-anvisa/</loc>
         <lastmod>2020-05-25T19:49:39.116Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,13 +19,6 @@
     <url>
         <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-03T01:03:18.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-para-que-serve/</loc>
-        <lastmod>2020-06-05T10:50:21.399Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -67,13 +53,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-10T04:21:03.713Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-10T04:21:03.713Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-23T23:15:23.959Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-23T23:15:23.959Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-23T23:15:23.959Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-06-25T20:34:42.955Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-25T20:34:42.955Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-25T20:34:42.955Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasillibidman-caps-farmacia/tags/libid-man-caps-para-que-serve/</loc>
+        <lastmod>2020-06-25T20:34:42.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

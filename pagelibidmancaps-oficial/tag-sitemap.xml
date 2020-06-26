@@ -31,20 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-06-11T18:13:50.713Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-13T01:41:32.155Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-06-14T18:55:19.836Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,6 +59,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-16T04:23:29.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-caps-onde-comprar/</loc>
         <lastmod>2020-06-16T04:23:29.054Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -81,13 +74,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man/</loc>
-        <lastmod>2020-06-16T04:23:29.054Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-16T04:23:29.054Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-21T16:14:20.766Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-23T03:05:00.446Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -222,6 +201,34 @@
     <url>
         <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-23T23:43:38.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-06-25T21:01:58.882Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-06-25T21:01:58.882Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-06-25T21:01:58.882Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibidmancaps-oficial/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-25T21:01:58.882Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

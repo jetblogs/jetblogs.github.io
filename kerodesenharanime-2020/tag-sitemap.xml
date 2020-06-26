@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/online/</loc>
-        <lastmod>2020-06-03T00:02:24.950Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-03T00:02:24.950Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,13 +138,6 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-06-05T08:58:55.418Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/dragon-ball/</loc>
-        <lastmod>2020-06-07T22:01:53.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/como-fazer-esboco/</loc>
-        <lastmod>2020-06-16T02:47:44.481Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-06-17T02:12:16.862Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -284,13 +263,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-06-18T18:45:40.604Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/aulas-online/</loc>
         <lastmod>2020-06-18T18:45:40.604Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -388,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/desenho/</loc>
-        <lastmod>2020-06-23T22:41:41.308Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-06-23T22:41:41.308Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -411,6 +376,41 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/kerodesenhar-info/</loc>
         <lastmod>2020-06-23T22:41:41.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/desenho/</loc>
+        <lastmod>2020-06-25T19:58:00.730Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/online/</loc>
+        <lastmod>2020-06-25T19:58:00.730Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-06-25T19:58:00.730Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/aulas-online/</loc>
+        <lastmod>2020-06-25T19:58:00.730Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanime-2020/tags/dragon-ball/</loc>
+        <lastmod>2020-06-25T19:58:00.730Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

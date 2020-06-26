@@ -24,21 +24,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-11T18:14:39.116Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-06-13T01:42:19.002Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-13T01:42:19.002Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -110,13 +96,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-18T20:08:32.662Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-20T02:07:14.857Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -222,6 +201,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-06-23T23:46:13.937Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-25T21:03:46.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-06-25T21:03:46.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-25T21:03:46.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-funcionasite/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-06-25T21:03:46.259Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

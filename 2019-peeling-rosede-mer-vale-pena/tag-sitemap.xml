@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/peeling-rose-de-mer-vale-a-pena/</loc>
-        <lastmod>2020-03-27T05:09:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/empreendedorismo/</loc>
         <lastmod>2020-04-05T17:54:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,27 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/curso-de-peeling-rose-de-mer-e-confiavel/</loc>
-        <lastmod>2020-06-13T00:38:23.116Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/rose-de-mer-produtos/</loc>
-        <lastmod>2020-06-13T00:38:23.116Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/rose-de-mer-peeling-antes-e-depois/</loc>
-        <lastmod>2020-06-13T00:38:23.116Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/curso-de-peeling-rose-de-mer/</loc>
         <lastmod>2020-06-13T00:38:23.116Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -326,13 +298,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/tratamento-rose-de-mer/</loc>
-        <lastmod>2020-06-16T02:59:22.187Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/online/</loc>
         <lastmod>2020-06-16T02:59:22.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -479,13 +444,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/curso/</loc>
-        <lastmod>2020-06-23T01:52:07.451Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/beleza/</loc>
         <lastmod>2020-06-23T01:52:07.451Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -544,6 +502,48 @@
     <url>
         <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/tratamento-facial/</loc>
         <lastmod>2020-06-23T22:50:48.602Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/curso/</loc>
+        <lastmod>2020-06-25T20:06:31.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/online/</loc>
+        <lastmod>2020-06-25T20:06:31.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/rose-de-mer-produtos/</loc>
+        <lastmod>2020-06-25T20:06:31.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/curso-de-peeling-rose-de-mer-e-confiavel/</loc>
+        <lastmod>2020-06-25T20:06:31.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/rose-de-mer-peeling-antes-e-depois/</loc>
+        <lastmod>2020-06-25T20:06:31.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-peeling-rosede-mer-vale-pena/tags/peeling-rose-de-mer-vale-a-pena/</loc>
+        <lastmod>2020-06-25T20:06:31.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

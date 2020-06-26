@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/animes/</loc>
-        <lastmod>2020-06-03T15:44:23.110Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhar-animes/</loc>
         <lastmod>2020-06-03T15:44:23.110Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/a-distancia/</loc>
-        <lastmod>2020-06-21T14:41:58.598Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/desenhar-manga/</loc>
         <lastmod>2020-06-21T14:41:58.598Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -360,13 +346,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-06-23T01:46:00.336Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/anime/</loc>
         <lastmod>2020-06-23T01:46:00.336Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -376,13 +355,6 @@
     <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-06-23T01:46:00.336Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brdesenharmanga/tags/ead/</loc>
-        <lastmod>2020-06-23T22:46:46.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -418,6 +390,34 @@
     <url>
         <loc>https://jetblogs.github.io/brdesenharmanga/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-23T22:46:46.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/kerodesenhar-funciona/</loc>
+        <lastmod>2020-06-25T20:05:37.292Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/ead/</loc>
+        <lastmod>2020-06-25T20:05:37.292Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/animes/</loc>
+        <lastmod>2020-06-25T20:05:37.292Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brdesenharmanga/tags/a-distancia/</loc>
+        <lastmod>2020-06-25T20:05:37.292Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
