@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/a-distancia/</loc>
-        <lastmod>2020-03-02T08:34:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-03-30T19:12:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,13 +19,6 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/dragon-ball/</loc>
         <lastmod>2020-03-30T19:12:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/aula-de-desenho/</loc>
-        <lastmod>2020-05-17T14:36:25.242Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -157,14 +143,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/aulas-online/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-06-11T16:47:25.703Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/tecnica-de-desenhar/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/aulas-online/</loc>
         <lastmod>2020-06-11T16:47:25.703Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,21 +171,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-06-13T00:25:12.235Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/desenhar-animes/</loc>
-        <lastmod>2020-06-13T00:25:12.235Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/aprender-online/</loc>
         <lastmod>2020-06-13T00:25:12.235Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-06-17T02:09:12.733Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/ead/</loc>
         <lastmod>2020-06-17T02:09:12.733Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,14 +290,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/online/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/speed-drawing/</loc>
         <lastmod>2020-06-20T00:32:17.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/speed-drawing/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/online/</loc>
         <lastmod>2020-06-20T00:32:17.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-26T12:37:34.370Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-06-27T09:27:51.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-06-27T09:27:51.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/aprender-online/</loc>
+        <lastmod>2020-06-27T09:27:51.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/a-distancia/</loc>
+        <lastmod>2020-06-27T09:27:51.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharcursobrasil/tags/aula-de-desenho/</loc>
+        <lastmod>2020-06-27T09:27:51.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

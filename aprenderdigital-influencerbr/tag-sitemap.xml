@@ -52,22 +52,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-07T22:15:24.025Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-07T22:15:24.025Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy/</loc>
-        <lastmod>2020-06-10T03:19:56.777Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -122,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy-reclame-aqui/</loc>
-        <lastmod>2020-06-16T03:07:37.185Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influenciador-de-midias/</loc>
         <lastmod>2020-06-16T03:07:37.185Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-06-17T02:23:56.804Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-06-18T19:01:19.995Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/negocios-de-sucesso/</loc>
-        <lastmod>2020-06-21T14:50:21.009Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy-funciona/</loc>
         <lastmod>2020-06-21T14:50:21.009Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,13 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/midias-sociais/</loc>
-        <lastmod>2020-06-23T01:58:14.434Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/academia-de-influenciadores/</loc>
         <lastmod>2020-06-23T01:58:14.434Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -327,6 +285,48 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy-login/</loc>
         <lastmod>2020-06-26T13:00:52.402Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy-reclame-aqui/</loc>
+        <lastmod>2020-06-27T09:53:13.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-06-27T09:53:13.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/negocios-de-sucesso/</loc>
+        <lastmod>2020-06-27T09:53:13.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-27T09:53:13.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/academia-de-influenciadores/</loc>
+        <lastmod>2020-06-27T09:53:13.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigital-influencerbr/tags/influencer-academy/</loc>
+        <lastmod>2020-06-27T09:53:13.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/eduzz/</loc>
-        <lastmod>2020-06-17T04:07:13.987Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-06-17T04:07:13.987Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,14 +129,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-sua-rotina-compensa/</loc>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-06-23T03:01:40.090Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-sua-rotina-curso/</loc>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-06-23T03:01:40.090Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,14 +157,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/msr-mude-sua-rotina-logo/</loc>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/empreendedorismo/</loc>
         <lastmod>2020-06-24T00:09:00.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/empreendedorismo/</loc>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/msr-mude-sua-rotina-logo/</loc>
         <lastmod>2020-06-24T00:09:00.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,20 +185,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/afiliado-iniciante/</loc>
-        <lastmod>2020-06-24T00:09:00.656Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-24T00:09:00.656Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-06-25T21:00:10.087Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,14 +192,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-06-25T21:00:10.087Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/plataforma-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-06-25T21:00:10.087Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,22 +227,43 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/curso-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-06-26T13:34:07.530Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-06-27T10:28:42.016Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/eduzz/</loc>
+        <lastmod>2020-06-27T10:28:42.016Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/afiliado-iniciante/</loc>
+        <lastmod>2020-06-27T10:28:42.016Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-27T10:28:42.016Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/marketing-digital/</loc>
-        <lastmod>2020-06-26T13:34:07.530Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/agora-msr-mude-sua-rotina-funciona/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-06-26T13:34:07.530Z</lastmod>
+        <lastmod>2020-06-27T10:28:42.016Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

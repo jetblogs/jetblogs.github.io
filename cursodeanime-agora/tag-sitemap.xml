@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/desenhando/</loc>
-        <lastmod>2020-06-10T03:08:19.707Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanime-agora/tags/curso-de-anime/</loc>
         <lastmod>2020-06-10T03:08:19.707Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-06-21T14:37:44.852Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanime-agora/tags/aulas-online/</loc>
         <lastmod>2020-06-21T14:37:44.852Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,14 +262,21 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-06-23T01:41:20.399Z</lastmod>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-06-21T14:37:44.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/cursodeanime-agora/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-06-23T01:41:20.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/kerodesenhar-com/</loc>
         <lastmod>2020-06-23T01:41:20.399Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -312,13 +305,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursodeanime-agora/tags/como-desenhar-anime-e-manga/</loc>
-        <lastmod>2020-06-23T22:42:40.041Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/aprender-online/</loc>
         <lastmod>2020-06-23T22:42:40.041Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,13 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/como-desenhar-o-goku/</loc>
-        <lastmod>2020-06-25T19:58:44.439Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanime-agora/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-06-26T12:43:08.373Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -402,15 +381,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/desenhar-do-zero/</loc>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/goku/</loc>
         <lastmod>2020-06-26T12:43:08.373Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/goku/</loc>
-        <lastmod>2020-06-26T12:43:08.373Z</lastmod>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-06-27T09:33:14.403Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/desenhando/</loc>
+        <lastmod>2020-06-27T09:33:14.403Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/aprender-online/</loc>
+        <lastmod>2020-06-27T09:33:14.403Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/como-desenhar-o-goku/</loc>
+        <lastmod>2020-06-27T09:33:14.403Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

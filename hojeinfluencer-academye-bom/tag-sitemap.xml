@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/influencer/</loc>
-        <lastmod>2020-06-14T16:46:13.143Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/negocios-digitais/</loc>
         <lastmod>2020-06-16T03:07:29.799Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,21 +255,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/influencer-academy-da-gabi/</loc>
-        <lastmod>2020-06-25T20:17:52.815Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/carreiras/</loc>
-        <lastmod>2020-06-25T20:17:52.815Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-06-25T20:17:52.815Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,7 +269,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/ensino-a-distancia/</loc>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-06-25T20:17:52.815Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,8 +297,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/influencer/</loc>
+        <lastmod>2020-06-27T09:53:06.848Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/influencer-academy-da-gabi/</loc>
+        <lastmod>2020-06-27T09:53:06.848Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/influencer-academy-e-bom/</loc>
-        <lastmod>2020-06-26T13:00:46.353Z</lastmod>
+        <lastmod>2020-06-27T09:53:06.848Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/ensino-a-distancia/</loc>
+        <lastmod>2020-06-27T09:53:06.848Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academye-bom/tags/academy/</loc>
+        <lastmod>2020-06-27T09:53:06.848Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

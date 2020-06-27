@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/mude-sua-rotina-hotmart/</loc>
-        <lastmod>2020-06-03T16:50:55.890Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-06-05T10:47:06.403Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-08T19:22:11.403Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/msr-mude-sua-rotina-logo/</loc>
         <lastmod>2020-06-11T18:10:48.953Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/vendas-online/</loc>
-        <lastmod>2020-06-14T18:53:13.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-16T04:40:58.436Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -138,13 +117,6 @@
     <url>
         <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/monetizze/</loc>
         <lastmod>2020-06-16T04:40:58.436Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/msr-mude-sua-rotina/</loc>
-        <lastmod>2020-06-17T03:59:51.093Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -276,20 +248,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-26T13:10:34.693Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/renda-extra/</loc>
-        <lastmod>2020-06-26T13:10:34.693Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/msr-curso/</loc>
         <lastmod>2020-06-26T13:10:34.693Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,7 +262,21 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-26T13:10:34.693Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-26T13:10:34.693Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/renda-extra/</loc>
         <lastmod>2020-06-26T13:10:34.693Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,6 +285,34 @@
     <url>
         <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/msr-resultados/</loc>
         <lastmod>2020-06-26T13:10:34.693Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-06-27T10:05:43.531Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/mude-sua-rotina-hotmart/</loc>
+        <lastmod>2020-06-27T10:05:43.531Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-27T10:05:43.531Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-cursomude-sua-rotina-e-bom/tags/vendas-online/</loc>
+        <lastmod>2020-06-27T10:05:43.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

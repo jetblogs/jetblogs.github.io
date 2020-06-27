@@ -52,22 +52,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/curso-mude-sua-rotina-a-verdade/</loc>
-        <lastmod>2020-06-11T18:13:08.175Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-06-11T18:13:08.175Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-13T02:02:47.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -82,20 +68,6 @@
     <url>
         <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/msr-resultados/</loc>
         <lastmod>2020-06-14T18:57:04.165Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/mude-sua-rotina-compensa/</loc>
-        <lastmod>2020-06-14T18:57:04.165Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/afiliado-iniciante/</loc>
-        <lastmod>2020-06-16T04:43:59.058Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-25T20:39:57.049Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-06-25T20:39:57.049Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -313,6 +278,41 @@
     <url>
         <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/renda-extra/</loc>
         <lastmod>2020-06-26T13:16:09.264Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-06-27T10:13:00.798Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/afiliado-iniciante/</loc>
+        <lastmod>2020-06-27T10:13:00.798Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <lastmod>2020-06-27T10:13:00.798Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-27T10:13:00.798Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-mude-sua-rotina/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-27T10:13:00.798Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

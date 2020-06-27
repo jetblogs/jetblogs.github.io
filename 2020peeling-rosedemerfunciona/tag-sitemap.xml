@@ -164,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/beleza-e-estetica/</loc>
-        <lastmod>2020-06-10T03:26:40.786Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/peeling-rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-06-10T03:26:40.786Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,6 +172,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/ensino-a-distancia/</loc>
+        <lastmod>2020-06-10T03:26:40.786Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/beleza-e-estetica/</loc>
         <lastmod>2020-06-10T03:26:40.786Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -339,28 +339,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/ead/</loc>
-        <lastmod>2020-06-21T14:57:56.606Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/peeling-rose-de-mer-como-funciona/</loc>
-        <lastmod>2020-06-21T14:57:56.606Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/estetica/</loc>
-        <lastmod>2020-06-21T14:57:56.606Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-06-21T14:57:56.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -481,6 +460,34 @@
     <url>
         <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/rose-de-mer-peeling/</loc>
         <lastmod>2020-06-26T13:11:40.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/ead/</loc>
+        <lastmod>2020-06-27T10:04:26.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/estetica/</loc>
+        <lastmod>2020-06-27T10:04:26.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/ros-de-mer-peeling/</loc>
+        <lastmod>2020-06-27T10:04:26.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020peeling-rosedemerfunciona/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-06-27T10:04:26.379Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

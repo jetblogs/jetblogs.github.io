@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/kerodesenhar-funciona/</loc>
-        <lastmod>2020-06-03T15:42:28.979Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/anime/</loc>
         <lastmod>2020-06-05T09:02:44.385Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/curso-de-anime/</loc>
-        <lastmod>2020-06-21T14:40:14.477Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/kero-desenhar/</loc>
         <lastmod>2020-06-21T14:40:14.477Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -312,13 +298,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/como-desenhar/</loc>
-        <lastmod>2020-06-23T22:45:22.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/drawing/</loc>
         <lastmod>2020-06-23T22:45:22.424Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,8 +381,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/kerodesenhar-funciona/</loc>
+        <lastmod>2020-06-27T09:37:08.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-27T09:37:08.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/aprender-manga-2020/tags/desenhar/</loc>
-        <lastmod>2020-06-26T12:45:47.510Z</lastmod>
+        <lastmod>2020-06-27T09:37:08.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-2020/tags/drawing/</loc>
+        <lastmod>2020-06-27T09:37:08.224Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
