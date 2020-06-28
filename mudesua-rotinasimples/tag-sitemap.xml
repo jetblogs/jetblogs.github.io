@@ -157,20 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/hotmart/</loc>
-        <lastmod>2020-06-21T16:05:22.502Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/msr-curso/</loc>
-        <lastmod>2020-06-21T16:05:22.502Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-06-23T02:56:36.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/marketing-de-afiliados/</loc>
-        <lastmod>2020-06-26T13:22:02.035Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-06-26T13:22:02.035Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,8 +290,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/hotmart/</loc>
+        <lastmod>2020-06-28T10:25:07.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/msr-curso/</loc>
+        <lastmod>2020-06-28T10:25:07.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/mude-sua-rotina/</loc>
-        <lastmod>2020-06-27T10:19:03.578Z</lastmod>
+        <lastmod>2020-06-28T10:25:07.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinasimples/tags/marketing-de-afiliados/</loc>
+        <lastmod>2020-06-28T10:25:07.135Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

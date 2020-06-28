@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/tutoriais/</loc>
-        <lastmod>2020-06-01T13:19:16.835Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/curso/</loc>
         <lastmod>2020-06-01T13:19:16.835Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,6 +206,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-06-18T18:45:29.084Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-18T18:45:29.084Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,13 +221,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/como-desenhar-anime/</loc>
-        <lastmod>2020-06-18T18:45:29.084Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-06-18T18:45:29.084Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,14 +283,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/curso-de-desenho/</loc>
+        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/desenhando/</loc>
         <lastmod>2020-06-21T14:35:50.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/desenhando/</loc>
+        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/curso-de-desenho/</loc>
         <lastmod>2020-06-21T14:35:50.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -312,13 +305,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/animes/</loc>
-        <lastmod>2020-06-23T01:40:19.943Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-06-23T01:40:19.943Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,21 +353,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/dragon-ball-super/</loc>
-        <lastmod>2020-06-25T19:56:29.464Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/desenhar-animes/</loc>
-        <lastmod>2020-06-26T12:40:53.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/online/</loc>
         <lastmod>2020-06-26T12:40:53.102Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +404,34 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-06-27T09:32:12.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/tutoriais/</loc>
+        <lastmod>2020-06-28T09:41:45.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <lastmod>2020-06-28T09:41:45.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/dragon-ball-super/</loc>
+        <lastmod>2020-06-28T09:41:45.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderanimes-curso-blog/tags/online/</loc>
+        <lastmod>2020-06-28T09:41:45.017Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

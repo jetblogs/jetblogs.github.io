@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/ros-de-mer-peeling/</loc>
-        <lastmod>2020-05-23T05:50:13.429Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/peeling-rose-de-mer-protocolo/</loc>
         <lastmod>2020-05-24T14:56:59.398Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -116,13 +109,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/peeling-rose-de-mer-vale-a-pena/</loc>
-        <lastmod>2020-06-03T00:27:39.518Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/ead/</loc>
         <lastmod>2020-06-03T00:27:39.518Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -325,13 +311,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-06-20T01:04:01.947Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/peeling-rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-06-20T01:04:01.947Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -354,13 +333,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/curso-peeling-rose-de-mer/</loc>
-        <lastmod>2020-06-21T15:00:17.107Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/rose-de-mer-produtos/</loc>
         <lastmod>2020-06-21T15:00:17.107Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -437,20 +409,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-26T13:13:48.328Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/treinamento-passo-a-passo/</loc>
-        <lastmod>2020-06-26T13:13:48.328Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/rose-de-mer-youtube/</loc>
         <lastmod>2020-06-26T13:13:48.328Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -465,6 +423,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-06-26T13:13:48.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/peeling-rose-de-mer-funciona/</loc>
         <lastmod>2020-06-27T10:07:59.318Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -472,14 +437,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/beneficios-do-peeling-rose-de-mer/</loc>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/rose-de-mer/</loc>
         <lastmod>2020-06-27T10:07:59.318Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/rose-de-mer/</loc>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/beneficios-do-peeling-rose-de-mer/</loc>
         <lastmod>2020-06-27T10:07:59.318Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -502,6 +467,41 @@
     <url>
         <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/melhor-curso/</loc>
         <lastmod>2020-06-27T10:07:59.318Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/empreendedorismo/</loc>
+        <lastmod>2020-06-28T10:13:08.234Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/ros-de-mer-peeling/</loc>
+        <lastmod>2020-06-28T10:13:08.234Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/ensino-a-distancia/</loc>
+        <lastmod>2020-06-28T10:13:08.234Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/ead/</loc>
+        <lastmod>2020-06-28T10:13:08.234Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-brasil/tags/rose-de-mer-produtos/</loc>
+        <lastmod>2020-06-28T10:13:08.234Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

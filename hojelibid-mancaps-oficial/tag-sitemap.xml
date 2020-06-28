@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-06-16T04:24:31.028Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-17T03:28:16.279Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-25T21:03:22.059Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-06-25T21:03:22.059Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man/</loc>
-        <lastmod>2020-06-27T10:33:19.363Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-27T10:33:19.363Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -264,6 +243,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libidman-caps-preco/</loc>
         <lastmod>2020-06-27T10:33:19.363Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man/</loc>
+        <lastmod>2020-06-28T10:55:42.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-06-28T10:55:42.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-06-28T10:55:42.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-06-28T10:55:42.900Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

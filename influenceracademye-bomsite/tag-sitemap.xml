@@ -52,21 +52,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/academy/</loc>
-        <lastmod>2020-06-03T16:01:25.643Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/influencer-academy-gabriella-ferreira/</loc>
-        <lastmod>2020-06-10T03:24:24.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/digital-influencer/</loc>
         <lastmod>2020-06-10T03:24:24.153Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -116,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-06-17T02:28:02.682Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/negocios-digitais/</loc>
         <lastmod>2020-06-17T02:28:02.682Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/curso-ead/</loc>
-        <lastmod>2020-06-25T20:25:49.227Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-06-25T20:25:49.227Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,6 +234,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/influencer-academy-reclame-aqui/</loc>
+        <lastmod>2020-06-26T13:07:52.394Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/influencer-academy-e-confiavel/</loc>
         <lastmod>2020-06-26T13:07:52.394Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,8 +255,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/influencer-academy-reclame-aqui/</loc>
-        <lastmod>2020-06-26T13:07:52.394Z</lastmod>
+        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/midias-sociais/</loc>
+        <lastmod>2020-06-27T10:02:06.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -304,15 +283,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/midias-sociais/</loc>
+        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-06-27T10:02:06.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/treinamento-passo-a-passo/</loc>
-        <lastmod>2020-06-27T10:02:06.606Z</lastmod>
+        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/digital-influencer/</loc>
+        <lastmod>2020-06-28T10:08:44.276Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/curso-ead/</loc>
+        <lastmod>2020-06-28T10:08:44.276Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/academy/</loc>
+        <lastmod>2020-06-28T10:08:44.276Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademye-bomsite/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-28T10:08:44.276Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

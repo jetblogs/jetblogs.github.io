@@ -157,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/msr-curso/</loc>
-        <lastmod>2020-06-25T20:58:30.714Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-06-25T20:58:30.714Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/mude-sua-rotina-compensa/</loc>
-        <lastmod>2020-06-26T13:32:45.084Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/mude-sua-rotina-pdf/</loc>
         <lastmod>2020-06-26T13:32:45.084Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,6 +220,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/mude-sua-rotina/</loc>
+        <lastmod>2020-06-27T10:27:43.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/msr-resultados/</loc>
         <lastmod>2020-06-27T10:27:43.653Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,8 +241,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/mude-sua-rotina/</loc>
-        <lastmod>2020-06-27T10:27:43.653Z</lastmod>
+        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/msr-curso/</loc>
+        <lastmod>2020-06-28T10:46:12.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-06-28T10:46:12.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/trabalhar-em-casa/</loc>
+        <lastmod>2020-06-28T10:46:12.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinavale-penasite/tags/treinamento-mude-sua-rotina/</loc>
+        <lastmod>2020-06-28T10:46:12.342Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

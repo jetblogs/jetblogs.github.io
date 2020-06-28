@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-03T01:06:28.691Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man/</loc>
         <lastmod>2020-06-05T10:55:11.956Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -60,13 +53,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-06-10T04:25:14.718Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-10T04:25:14.718Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -129,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-06-18T20:03:10.839Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-20T01:59:34.384Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,13 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-20T01:59:34.384Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-06-21T16:08:13.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-27T10:22:03.364Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-06-28T10:25:30.716Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-28T10:25:30.716Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-06-28T10:25:30.716Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-anvisa-novo/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-28T10:25:30.716Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
