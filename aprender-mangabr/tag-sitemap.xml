@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/manga/</loc>
-        <lastmod>2020-06-10T03:07:02.399Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-06-13T00:30:44.766Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,14 +220,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-fazer-esboco/</loc>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-06-23T01:40:56.216Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aprender-a-desenhar/</loc>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-23T01:40:56.216Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -243,13 +236,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-animes/</loc>
         <lastmod>2020-06-23T01:40:56.216Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-06-23T22:42:11.491Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -276,14 +262,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/videos-online/</loc>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-06-25T19:58:22.668Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/videos-online/</loc>
         <lastmod>2020-06-25T19:58:22.668Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -346,21 +332,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-06-27T09:32:49.784Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/como-desenhar-goku/</loc>
-        <lastmod>2020-06-27T09:32:49.784Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aprender-online/</loc>
         <lastmod>2020-06-27T09:32:49.784Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -374,6 +346,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/speed-drawing/</loc>
+        <lastmod>2020-06-28T09:42:19.146Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/aprender-mangabr/tags/dragon-ball-super/</loc>
         <lastmod>2020-06-28T09:42:19.146Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -381,7 +360,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/speed-drawing/</loc>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-manga/</loc>
         <lastmod>2020-06-28T09:42:19.146Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,8 +381,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-mangabr/tags/desenhar-manga/</loc>
-        <lastmod>2020-06-28T09:42:19.146Z</lastmod>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/kero-desenhar-kaneki/</loc>
+        <lastmod>2020-06-30T00:36:15.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-06-30T00:36:15.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/manga/</loc>
+        <lastmod>2020-06-30T00:36:15.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-mangabr/tags/aprender-online/</loc>
+        <lastmod>2020-06-30T00:36:15.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

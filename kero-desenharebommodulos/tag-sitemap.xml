@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-evoluir-nos-meus-desenhos/</loc>
-        <lastmod>2020-05-23T05:23:07.271Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/curso/</loc>
         <lastmod>2020-05-23T05:23:07.271Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,13 +290,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-desenhar-animes/</loc>
-        <lastmod>2020-06-23T22:39:47.999Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-25T19:55:08.354Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,22 +339,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-06-26T12:39:38.990Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/desenho/</loc>
         <lastmod>2020-06-26T12:39:38.990Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-aprender-a-desenhar-do-zero/</loc>
-        <lastmod>2020-06-27T09:29:16.605Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -382,6 +354,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/dragon-ball-super/</loc>
+        <lastmod>2020-06-27T09:29:16.605Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-06-27T09:29:16.605Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,13 +381,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/desenhar-animes/</loc>
-        <lastmod>2020-06-28T09:39:05.769Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/manga/</loc>
         <lastmod>2020-06-28T09:39:05.769Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,7 +388,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/anime-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/desenhar-animes/</loc>
+        <lastmod>2020-06-28T09:39:05.769Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-06-28T09:39:05.769Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -437,8 +416,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-06-28T09:39:05.769Z</lastmod>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <lastmod>2020-06-30T00:33:59.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-06-30T00:33:59.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-06-30T00:33:59.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kero-desenharebommodulos/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-06-30T00:33:59.662Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

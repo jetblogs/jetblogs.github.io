@@ -45,22 +45,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/curso-mude-sua-rotina-a-verdade/</loc>
-        <lastmod>2020-06-18T20:42:05.521Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-06-18T20:42:05.521Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/eduzz/</loc>
-        <lastmod>2020-06-20T02:26:26.840Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -143,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/marketing/</loc>
-        <lastmod>2020-06-24T00:08:02.325Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/afiliado-iniciante/</loc>
         <lastmod>2020-06-25T20:57:16.688Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/msr-curso/</loc>
-        <lastmod>2020-06-25T20:57:16.688Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-25T20:57:16.688Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,14 +157,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/msr-mude-sua-rotina-logo/</loc>
-        <lastmod>2020-06-26T13:31:20.542Z</lastmod>
+        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/msr-curso/</loc>
+        <lastmod>2020-06-25T20:57:16.688Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/trabalhar-pela-internet/</loc>
+        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/msr-mude-sua-rotina-logo/</loc>
         <lastmod>2020-06-26T13:31:20.542Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -250,6 +222,34 @@
     <url>
         <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-06-28T10:43:18.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/eduzz/</loc>
+        <lastmod>2020-06-30T01:38:45.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/marketing/</loc>
+        <lastmod>2020-06-30T01:38:45.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <lastmod>2020-06-30T01:38:45.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilmsr-mudesua-rotinavaleapena/tags/trabalhar-pela-internet/</loc>
+        <lastmod>2020-06-30T01:38:45.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-08T20:04:31.996Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-10T04:30:21.811Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-06-25T21:01:39.585Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-25T21:01:39.585Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-27T10:32:00.356Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-27T10:32:00.356Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-28T10:51:32.176Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-28T10:51:32.176Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,8 +213,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-06-30T01:43:50.738Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-06-28T10:51:32.176Z</lastmod>
+        <lastmod>2020-06-30T01:43:50.738Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-06-30T01:43:50.738Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-06-30T01:43:50.738Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapse-confiavel/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-30T01:43:50.738Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

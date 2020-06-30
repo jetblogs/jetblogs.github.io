@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-br/tags/draw/</loc>
-        <lastmod>2020-05-23T05:21:13.566Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanime-br/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-05-24T14:16:52.732Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-br/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-03T15:37:31.731Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanime-br/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-06-03T15:37:31.731Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursodeanime-br/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-06-07T21:59:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanime-br/tags/videos-online/</loc>
         <lastmod>2020-06-07T21:59:27.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,7 +297,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-br/tags/como-desenhar-animes/</loc>
+        <loc>https://jetblogs.github.io/cursodeanime-br/tags/online/</loc>
         <lastmod>2020-06-25T19:52:48.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -326,13 +305,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursodeanime-br/tags/desenhar/</loc>
-        <lastmod>2020-06-25T19:52:48.448Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanime-br/tags/online/</loc>
         <lastmod>2020-06-25T19:52:48.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -361,13 +333,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursodeanime-br/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-06-26T12:37:00.408Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanime-br/tags/anime/</loc>
         <lastmod>2020-06-26T12:37:00.408Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/cursodeanime-br/tags/dragon-ball/</loc>
         <lastmod>2020-06-28T09:36:35.628Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-br/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-06-30T00:31:46.439Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-br/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-06-30T00:31:46.439Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-br/tags/videos-online/</loc>
+        <lastmod>2020-06-30T00:31:46.439Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-br/tags/draw/</loc>
+        <lastmod>2020-06-30T00:31:46.439Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-br/tags/anime/</loc>
+        <lastmod>2020-06-30T00:31:46.439Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-05-19T21:11:28.718Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/instagram/</loc>
         <lastmod>2020-05-25T18:43:27.305Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -46,13 +39,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/carreiras/</loc>
-        <lastmod>2020-06-08T19:25:53.780Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-download/</loc>
         <lastmod>2020-06-08T19:25:53.780Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,22 +199,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influenciador-digital/</loc>
-        <lastmod>2020-06-23T23:03:39.354Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-vale-a-pena/</loc>
         <lastmod>2020-06-23T23:03:39.354Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/treinamento-passo-a-passo/</loc>
-        <lastmod>2020-06-25T20:24:55.198Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/marketing-digital/</loc>
         <lastmod>2020-06-28T10:07:54.024Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/treinamento-passo-a-passo/</loc>
+        <lastmod>2020-06-30T01:12:14.761Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influenciador-digital/</loc>
+        <lastmod>2020-06-30T01:12:14.761Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-download/</loc>
+        <lastmod>2020-06-30T01:12:14.761Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-e-bomblog/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-06-30T01:12:14.761Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

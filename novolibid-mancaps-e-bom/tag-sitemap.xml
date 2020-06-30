@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-06-23T03:03:24.680Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-original/</loc>
         <lastmod>2020-06-23T03:03:24.680Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,21 +115,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-23T23:39:15.288Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-06-23T23:39:15.288Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man/</loc>
         <lastmod>2020-06-23T23:39:15.288Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-06-27T10:29:28.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-06-27T10:29:28.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -250,6 +222,34 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-28T10:43:48.872Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-06-30T01:40:40.366Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-06-30T01:40:40.366Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man/</loc>
+        <lastmod>2020-06-30T01:40:40.366Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-30T01:40:40.366Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

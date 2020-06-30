@@ -227,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-17T02:10:21.311Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/speed-drawing/</loc>
         <lastmod>2020-06-17T02:10:21.311Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -339,27 +332,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/para-iniciantes/</loc>
-        <lastmod>2020-06-25T19:55:21.262Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-25T19:55:21.262Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-25T19:55:21.262Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-06-26T12:39:50.459Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-06-28T09:39:17.069Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-06-30T00:34:09.099Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/para-iniciantes/</loc>
+        <lastmod>2020-06-30T00:34:09.099Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-06-30T00:34:09.099Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-30T00:34:09.099Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

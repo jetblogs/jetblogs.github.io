@@ -38,22 +38,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/a-distancia/</loc>
-        <lastmod>2020-06-06T15:59:38.960Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenhar-animes/</loc>
         <lastmod>2020-06-07T22:05:22.387Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-manga/</loc>
-        <lastmod>2020-06-08T21:24:46.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -67,6 +53,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/dragon-ball/</loc>
+        <lastmod>2020-06-08T21:24:46.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-manga/</loc>
         <lastmod>2020-06-08T21:24:46.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-goku/</loc>
-        <lastmod>2020-06-21T14:41:20.775Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/goku/</loc>
         <lastmod>2020-06-23T01:45:12.433Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -353,13 +339,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/curso-de-anime/</loc>
-        <lastmod>2020-06-27T09:38:33.878Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/desenhando/</loc>
         <lastmod>2020-06-27T09:38:33.878Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -368,13 +347,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/aprenda-a-desenhar/</loc>
-        <lastmod>2020-06-27T09:38:33.878Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharebom/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-27T09:38:33.878Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -418,6 +390,34 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-animes/</loc>
         <lastmod>2020-06-28T09:48:21.240Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-30T00:41:26.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/a-distancia/</loc>
+        <lastmod>2020-06-30T00:41:26.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-06-30T00:41:26.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharebom/tags/kero-desenhar-kaneki/</loc>
+        <lastmod>2020-06-30T00:41:26.805Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

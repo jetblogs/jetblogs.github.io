@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-18T20:35:21.210Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/afiliado/</loc>
         <lastmod>2020-06-20T02:17:19.534Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,21 +192,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-23T23:57:20.363Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/msr-funciona/</loc>
-        <lastmod>2020-06-25T20:32:25.958Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/mude-sua-rotina/</loc>
         <lastmod>2020-06-25T20:32:25.958Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,15 +206,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/monetizze/</loc>
-        <lastmod>2020-06-26T13:11:38.479Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/msr-mude-sua-rotina-logo/</loc>
-        <lastmod>2020-06-26T13:11:38.479Z</lastmod>
+        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/mude-sua-rotina/</loc>
+        <lastmod>2020-06-25T20:32:25.958Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -283,7 +255,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/mude-sua-rotina-hotmart/</loc>
+        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-06-28T10:11:34.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -291,13 +263,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/eduzz/</loc>
-        <lastmod>2020-06-28T10:11:34.783Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-06-28T10:11:34.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,6 +278,41 @@
     <url>
         <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-28T10:11:34.783Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/mude-sua-rotina-hotmart/</loc>
+        <lastmod>2020-06-28T10:11:34.783Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/monetizze/</loc>
+        <lastmod>2020-06-30T01:17:19.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/negocios-digitais/</loc>
+        <lastmod>2020-06-30T01:17:19.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/msr-mude-sua-rotina-logo/</loc>
+        <lastmod>2020-06-30T01:17:19.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmudesua-rotinacomprarpdf/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-30T01:17:19.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

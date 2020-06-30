@@ -3,20 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/afiliados/</loc>
-        <lastmod>2020-05-19T22:09:34.372Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/hotmart/</loc>
-        <lastmod>2020-06-01T14:57:39.588Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/afiliado/</loc>
         <lastmod>2020-06-03T01:29:29.597Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,13 +19,6 @@
     <url>
         <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/mude-sua-rotina-resultados/</loc>
         <lastmod>2020-06-07T23:24:50.273Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-06-08T19:27:38.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -115,14 +94,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/monetizze/</loc>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/empreendedorismo/</loc>
         <lastmod>2020-06-20T02:18:52.503Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/empreendedorismo/</loc>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/monetizze/</loc>
         <lastmod>2020-06-20T02:18:52.503Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/negocios-online/</loc>
-        <lastmod>2020-06-23T23:59:19.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-25T20:38:45.179Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -236,13 +208,6 @@
     <url>
         <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-25T20:38:45.179Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/eduzz/</loc>
-        <lastmod>2020-06-26T13:15:11.585Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -290,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-06-28T10:17:18.161Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/mude-sua-rotina-pdf/</loc>
         <lastmod>2020-06-28T10:17:18.161Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -313,6 +271,48 @@
     <url>
         <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-06-28T10:17:18.161Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/eduzz/</loc>
+        <lastmod>2020-06-30T01:22:16.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/hotmart/</loc>
+        <lastmod>2020-06-30T01:22:16.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/mude-sua-rotina-marketing-digital/</loc>
+        <lastmod>2020-06-30T01:22:16.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/negocios-online/</loc>
+        <lastmod>2020-06-30T01:22:16.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <lastmod>2020-06-30T01:22:16.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msr-mudesua-rotinae-bom-site/tags/afiliados/</loc>
+        <lastmod>2020-06-30T01:22:16.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

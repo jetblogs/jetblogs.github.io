@@ -80,22 +80,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influenceracademy/tags/curso-a-distancia/</loc>
-        <lastmod>2020-06-11T17:00:03.220Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-influenceracademy/tags/carreiras/</loc>
         <lastmod>2020-06-11T17:00:03.220Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-influenceracademy/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-06-13T00:44:32.384Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -108,7 +94,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-e-confiavel/</loc>
+        <loc>https://jetblogs.github.io/site-influenceracademy/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-13T00:44:32.384Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -116,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/site-influenceracademy/tags/curso-ead/</loc>
-        <lastmod>2020-06-14T16:43:41.459Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-ganhar-dinheiro/</loc>
         <lastmod>2020-06-14T16:43:41.459Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -165,13 +144,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer/</loc>
-        <lastmod>2020-06-21T14:47:25.749Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-06-21T14:47:25.749Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,13 +248,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-da-gabi/</loc>
-        <lastmod>2020-06-27T09:49:15.090Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-influenceracademy/tags/midias-sociais/</loc>
         <lastmod>2020-06-27T09:49:15.090Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -320,6 +285,41 @@
     <url>
         <loc>https://jetblogs.github.io/site-influenceracademy/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-06-28T09:56:53.921Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-06-30T01:02:46.331Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-ganhar-dinheiro/</loc>
+        <lastmod>2020-06-30T01:02:46.331Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-e-confiavel/</loc>
+        <lastmod>2020-06-30T01:02:46.331Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influenceracademy/tags/curso-a-distancia/</loc>
+        <lastmod>2020-06-30T01:02:46.331Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influenceracademy/tags/influencer-academy-da-gabi/</loc>
+        <lastmod>2020-06-30T01:02:46.331Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
