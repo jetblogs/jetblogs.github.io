@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/renda-extra/</loc>
-        <lastmod>2020-06-08T19:49:39.378Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/negocios-online/</loc>
         <lastmod>2020-06-11T18:18:33.313Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/liberdade-financeira/</loc>
-        <lastmod>2020-06-13T02:09:10.836Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/afiliados/</loc>
         <lastmod>2020-06-13T02:09:10.836Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -45,14 +31,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/plataforma-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/mude-sua-rotina/</loc>
         <lastmod>2020-06-14T19:08:24.990Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-06-14T19:08:24.990Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -122,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/msr-funciona/</loc>
-        <lastmod>2020-06-23T02:59:56.767Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/marketing-digital/</loc>
         <lastmod>2020-06-23T02:59:56.767Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/afiliado/</loc>
-        <lastmod>2020-06-24T00:07:27.582Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/mude-sua-rotina-pdf/</loc>
         <lastmod>2020-06-25T20:55:46.327Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -165,20 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-06-25T20:55:46.327Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-06-25T20:55:46.327Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-06-25T20:55:46.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -271,6 +229,48 @@
     <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-06-30T01:37:07.192Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/afiliado/</loc>
+        <lastmod>2020-07-01T05:55:46.358Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-07-01T05:55:46.358Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <lastmod>2020-07-01T05:55:46.358Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/msr-funciona/</loc>
+        <lastmod>2020-07-01T05:55:46.358Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/renda-extra/</loc>
+        <lastmod>2020-07-01T05:55:46.358Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bomonline/tags/liberdade-financeira/</loc>
+        <lastmod>2020-07-01T05:55:46.358Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -45,20 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/influenciador-digital/</loc>
-        <lastmod>2020-06-03T15:49:05.742Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/youtube/</loc>
-        <lastmod>2020-06-06T16:03:11.390Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-influencer-academy/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-06-07T22:09:46.836Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/facebook/</loc>
-        <lastmod>2020-06-26T12:51:12.263Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facil-influencer-academy/tags/negocios-digitais/</loc>
         <lastmod>2020-06-26T12:51:12.263Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/midias-sociais/</loc>
-        <lastmod>2020-06-27T09:43:38.295Z</lastmod>
+        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/facebook/</loc>
+        <lastmod>2020-06-26T12:51:12.263Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/online/</loc>
+        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/midias-sociais/</loc>
         <lastmod>2020-06-27T09:43:38.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -325,8 +304,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/influenciador-digital/</loc>
+        <lastmod>2020-07-01T05:07:16.621Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/online/</loc>
+        <lastmod>2020-07-01T05:07:16.621Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facil-influencer-academy/tags/youtube/</loc>
+        <lastmod>2020-07-01T05:07:16.621Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/facil-influencer-academy/tags/influencer-academy-facebook/</loc>
-        <lastmod>2020-06-30T00:58:38.356Z</lastmod>
+        <lastmod>2020-07-01T05:07:16.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

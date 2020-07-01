@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar-manga-passo-a-passo/</loc>
-        <lastmod>2020-03-06T12:01:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-03-12T10:32:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,13 +60,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-06-06T15:53:40.780Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/desenhar-do-zero/</loc>
         <lastmod>2020-06-06T15:53:40.780Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,14 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/ead/</loc>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar/</loc>
         <lastmod>2020-06-23T01:38:26.480Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar/</loc>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/ead/</loc>
         <lastmod>2020-06-23T01:38:26.480Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,20 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-06-27T09:28:25.217Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/goku/</loc>
-        <lastmod>2020-06-27T09:28:25.217Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/aula-de-desenho/</loc>
         <lastmod>2020-06-28T09:38:18.194Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -402,13 +374,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/dragon-ball/</loc>
-        <lastmod>2020-06-30T00:33:20.659Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/aulas-online/</loc>
         <lastmod>2020-06-30T00:33:20.659Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -417,6 +382,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/animes/</loc>
+        <lastmod>2020-06-30T00:33:20.659Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/dragon-ball/</loc>
         <lastmod>2020-06-30T00:33:20.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-06-30T00:33:20.659Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <lastmod>2020-07-01T04:53:26.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-07-01T04:53:26.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/goku/</loc>
+        <lastmod>2020-07-01T04:53:26.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojekero-desenhar/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-07-01T04:53:26.127Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

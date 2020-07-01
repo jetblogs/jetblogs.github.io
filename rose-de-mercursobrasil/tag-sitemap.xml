@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/rose-de-mer/</loc>
-        <lastmod>2020-05-21T10:49:05.453Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/curso/</loc>
         <lastmod>2020-05-24T14:42:28.873Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -173,13 +166,6 @@
     <url>
         <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/christina-zehavi/</loc>
         <lastmod>2020-06-08T19:19:06.091Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/rose-de-mer-passo-a-passo/</loc>
-        <lastmod>2020-06-10T03:19:53.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -319,13 +305,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/rosto/</loc>
-        <lastmod>2020-06-21T14:51:02.322Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/estetica/</loc>
         <lastmod>2020-06-21T14:51:02.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -521,13 +500,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/passo-a-passo-do-peeling-rose-de-mer/</loc>
-        <lastmod>2020-06-30T01:04:30.715Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/cuidar-da-pele/</loc>
         <lastmod>2020-06-30T01:04:30.715Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -551,6 +523,34 @@
     <url>
         <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/ead/</loc>
         <lastmod>2020-06-30T01:04:30.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/estetica/</loc>
+        <lastmod>2020-07-01T05:16:07.984Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/passo-a-passo-do-peeling-rose-de-mer/</loc>
+        <lastmod>2020-07-01T05:16:07.984Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/rose-de-mer-passo-a-passo/</loc>
+        <lastmod>2020-07-01T05:16:07.984Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-de-mercursobrasil/tags/rose-de-mer/</loc>
+        <lastmod>2020-07-01T05:16:07.984Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

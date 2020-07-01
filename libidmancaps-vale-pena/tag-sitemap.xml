@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-06-10T04:33:23.569Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-06-11T18:16:34.987Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,20 +26,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-06-14T18:59:55.635Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-14T18:59:55.635Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-16T04:27:44.773Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -80,21 +59,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-06-20T02:09:19.259Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-bula/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-06-21T16:17:17.565Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-como-tomar/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-21T16:17:17.565Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -110,13 +82,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-06-23T03:07:48.210Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-23T23:50:03.472Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-06-27T10:36:57.181Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-06-27T10:36:57.181Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -193,6 +151,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-27T10:36:57.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-06-27T10:36:57.181Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,7 +185,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-vale-a-pena/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-06-30T01:50:11.468Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,7 +199,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-depoimentos/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-06-30T01:50:11.468Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -257,6 +222,41 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-30T01:50:11.468Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-07-01T06:18:56.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps/</loc>
+        <lastmod>2020-07-01T06:18:56.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-01T06:18:56.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-07-01T06:18:56.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-vale-pena/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-07-01T06:18:56.682Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
