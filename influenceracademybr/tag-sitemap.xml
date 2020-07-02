@@ -38,20 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademybr/tags/influencer/</loc>
-        <lastmod>2020-06-08T19:11:43.883Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademybr/tags/curso-a-distancia/</loc>
-        <lastmod>2020-06-11T16:57:53.575Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademybr/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-06-13T00:41:11.579Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademybr/tags/influencer-academy-reclame-aqui/</loc>
-        <lastmod>2020-06-27T09:44:54.823Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademybr/tags/passo-a-passo/</loc>
         <lastmod>2020-06-27T09:44:54.823Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,8 +304,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influenceracademybr/tags/influencer-academy-reclame-aqui/</loc>
+        <lastmod>2020-07-02T14:59:28.519Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademybr/tags/influencer/</loc>
+        <lastmod>2020-07-02T14:59:28.519Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademybr/tags/curso-a-distancia/</loc>
+        <lastmod>2020-07-02T14:59:28.519Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influenceracademybr/tags/ead/</loc>
-        <lastmod>2020-07-01T05:10:02.844Z</lastmod>
+        <lastmod>2020-07-02T14:59:28.519Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

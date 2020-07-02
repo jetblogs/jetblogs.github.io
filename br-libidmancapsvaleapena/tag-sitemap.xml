@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-composicao/</loc>
-        <lastmod>2020-06-11T18:13:34.849Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps/</loc>
         <lastmod>2020-06-13T01:41:16.271Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,14 +17,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-17T03:27:33.623Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-anvisa/</loc>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-17T03:27:33.623Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -61,20 +54,6 @@
     <url>
         <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-18T20:07:38.546Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-06-20T02:06:07.008Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-21T16:14:02.996Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -136,14 +115,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-farmacia/</loc>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-27T10:31:46.523Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-para-que-serve/</loc>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-27T10:31:46.523Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,15 +220,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-e-bom/</loc>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-07-01T06:07:35.968Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-07-01T06:07:35.968Z</lastmod>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-07-02T15:51:56.365Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-composicao/</loc>
+        <lastmod>2020-07-02T15:51:56.365Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-07-02T15:51:56.365Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-libidmancapsvaleapena/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-07-02T15:51:56.365Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

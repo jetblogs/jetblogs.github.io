@@ -136,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-23T23:26:00.857Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-06-25T20:46:43.161Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -152,13 +145,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-06-25T20:46:43.161Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-26T13:23:44.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-28T10:24:44.769Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-28T10:24:44.769Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -194,20 +173,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-06-28T10:24:44.769Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-28T10:24:44.769Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-30T01:30:25.392Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -269,15 +234,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man/</loc>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libidman-caps/</loc>
         <lastmod>2020-07-01T05:49:09.495Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libidman-caps/</loc>
-        <lastmod>2020-07-01T05:49:09.495Z</lastmod>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man/</loc>
+        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

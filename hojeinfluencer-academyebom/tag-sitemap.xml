@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/influencer-academy-login/</loc>
-        <lastmod>2020-06-13T00:51:47.181Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/youtube/</loc>
         <lastmod>2020-06-14T16:48:53.202Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -81,13 +74,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/influencer/</loc>
-        <lastmod>2020-06-14T16:48:53.202Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/influencer-academy-instagram/</loc>
         <lastmod>2020-06-14T16:48:53.202Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -124,13 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/academia-de-influenciadores/</loc>
         <lastmod>2020-06-18T19:04:14.056Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/gabriella-ferreira/</loc>
-        <lastmod>2020-06-20T00:55:23.757Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -220,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/facebook/</loc>
-        <lastmod>2020-06-27T09:58:01.763Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/marketing-digital/</loc>
         <lastmod>2020-06-27T09:58:01.763Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/influenciador-digital/</loc>
-        <lastmod>2020-07-01T05:23:15.604Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/passo-a-passo/</loc>
         <lastmod>2020-07-01T05:23:15.604Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,7 +269,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/melhor-curso/</loc>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/influenciador-digital/</loc>
+        <lastmod>2020-07-01T05:23:15.604Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-07-01T05:23:15.604Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,8 +290,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/treinamento-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/melhor-curso/</loc>
         <lastmod>2020-07-01T05:23:15.604Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/gabriella-ferreira/</loc>
+        <lastmod>2020-07-02T15:13:19.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/influencer-academy-instagram/</loc>
+        <lastmod>2020-07-02T15:13:19.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/facebook/</loc>
+        <lastmod>2020-07-02T15:13:19.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeinfluencer-academyebom/tags/influencer-academy-login/</loc>
+        <lastmod>2020-07-02T15:13:19.346Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
