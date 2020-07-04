@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-06-08T19:36:26.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-10T04:23:28.530Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-20T01:57:26.833Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-21T16:06:13.656Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,22 +101,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-23T23:22:18.785Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-06-23T23:22:18.785Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-06-25T20:42:28.282Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -144,6 +116,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-06-25T20:42:28.282Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-06-25T20:42:28.282Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -186,13 +165,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-28T10:20:19.999Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-06-28T10:20:19.999Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +248,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-07-03T23:31:46.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man/</loc>
-        <lastmod>2020-07-02T15:32:22.672Z</lastmod>
+        <lastmod>2020-07-03T23:31:46.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-03T23:31:46.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-03T23:31:46.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-03T23:31:46.436Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

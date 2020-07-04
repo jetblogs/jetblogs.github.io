@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-21T16:15:52.245Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/msr-funciona/</loc>
         <lastmod>2020-06-23T03:06:35.991Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +123,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/eduzz/</loc>
-        <lastmod>2020-06-26T13:47:12.972Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/empreendedorismo/</loc>
         <lastmod>2020-06-26T13:47:12.972Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/curso-msr-mude-sua-rotina/</loc>
-        <lastmod>2020-07-01T06:21:09.981Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/treinamento-mude-sua-rotina/</loc>
         <lastmod>2020-07-01T06:21:09.981Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -298,7 +277,28 @@
 
     <url>
         <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/curso-mude-sua-rotina-e-bom/</loc>
-        <lastmod>2020-07-02T15:59:53.196Z</lastmod>
+        <lastmod>2020-07-04T00:02:43.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/curso-msr-mude-sua-rotina/</loc>
+        <lastmod>2020-07-04T00:02:43.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/empreendedorismo/</loc>
+        <lastmod>2020-07-04T00:02:43.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomudesua-rotinamarketingdigital/tags/negocios-digitais/</loc>
+        <lastmod>2020-07-04T00:02:43.436Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

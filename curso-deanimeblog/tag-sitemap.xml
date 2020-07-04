@@ -192,20 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/tutorial-de-desenho/</loc>
-        <lastmod>2020-06-23T01:45:18.152Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/desenhar-animes/</loc>
-        <lastmod>2020-06-23T22:46:19.266Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/kerodesenhar/</loc>
         <lastmod>2020-06-23T22:46:19.266Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,13 +242,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/aula-de-desenho/</loc>
-        <lastmod>2020-06-27T09:39:54.196Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-27T09:39:54.196Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -374,13 +353,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-desenhar-naruto/</loc>
-        <lastmod>2020-07-01T05:05:14.782Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/speed-drawing/</loc>
         <lastmod>2020-07-01T05:05:14.782Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -418,6 +390,34 @@
     <url>
         <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-desenhar-goku/</loc>
         <lastmod>2020-07-02T14:52:57.842Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-07-03T22:45:07.291Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/como-desenhar-naruto/</loc>
+        <lastmod>2020-07-03T22:45:07.291Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-07-03T22:45:07.291Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-deanimeblog/tags/desenhar-animes/</loc>
+        <lastmod>2020-07-03T22:45:07.291Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

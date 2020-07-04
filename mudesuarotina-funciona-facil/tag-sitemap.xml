@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/msr-resultados/</loc>
-        <lastmod>2020-06-05T10:51:39.189Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-hotmart/</loc>
         <lastmod>2020-06-10T04:22:07.168Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,20 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-compensa/</loc>
-        <lastmod>2020-06-26T13:19:50.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/curso-mude-sua-rotina-e-bom/</loc>
-        <lastmod>2020-06-26T13:19:50.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/treinamento-mude-sua-rotina/</loc>
         <lastmod>2020-06-27T10:17:38.585Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,21 +157,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-vale-a-pena/</loc>
-        <lastmod>2020-06-27T10:17:38.585Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-06-27T10:17:38.585Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-06-27T10:17:38.585Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -235,13 +200,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/eduzz/</loc>
-        <lastmod>2020-06-30T01:27:41.709Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/msr-curso/</loc>
         <lastmod>2020-06-30T01:27:41.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,6 +262,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/vendas-online/</loc>
+        <lastmod>2020-07-02T15:32:24.405Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/marketing-de-afiliados/</loc>
         <lastmod>2020-07-02T15:32:24.405Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,8 +276,43 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/vendas-online/</loc>
-        <lastmod>2020-07-02T15:32:24.405Z</lastmod>
+        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <lastmod>2020-07-03T23:30:54.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-07-03T23:30:54.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/msr-resultados/</loc>
+        <lastmod>2020-07-03T23:30:54.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <lastmod>2020-07-03T23:30:54.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/msr-curso/</loc>
+        <lastmod>2020-07-03T23:30:54.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesuarotina-funciona-facil/tags/mude-sua-rotina-depoimento/</loc>
+        <lastmod>2020-07-03T23:30:54.910Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

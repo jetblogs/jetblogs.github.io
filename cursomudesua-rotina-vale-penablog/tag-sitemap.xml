@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/msr-mude-sua-rotina/</loc>
-        <lastmod>2020-06-13T02:07:05.349Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-06-16T04:47:58.268Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/afiliado-iniciante/</loc>
-        <lastmod>2020-06-20T02:23:13.388Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/treinamento-mude-sua-rotina/</loc>
         <lastmod>2020-06-21T16:06:43.480Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,14 +129,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/empreendedorismo/</loc>
+        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-06-25T20:49:49.685Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/empreendedorismo/</loc>
         <lastmod>2020-06-25T20:49:49.685Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,7 +248,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-07-01T05:50:10.259Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -270,13 +256,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/marketing/</loc>
-        <lastmod>2020-07-01T05:50:10.259Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-07-01T05:50:10.259Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -311,8 +290,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <lastmod>2020-07-03T23:36:23.794Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/msr-mude-sua-rotina/</loc>
+        <lastmod>2020-07-03T23:36:23.794Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/trabalhar-em-casa/</loc>
-        <lastmod>2020-07-02T15:36:05.141Z</lastmod>
+        <lastmod>2020-07-03T23:36:23.794Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomudesua-rotina-vale-penablog/tags/afiliado-iniciante/</loc>
+        <lastmod>2020-07-03T23:36:23.794Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-funciona-mesmo/</loc>
-        <lastmod>2020-06-20T02:01:47.561Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-06-20T02:01:47.561Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -103,20 +96,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man/</loc>
         <lastmod>2020-06-23T23:31:34.509Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-25T20:52:29.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-25T20:52:29.504Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-07-01T05:54:25.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-07-01T05:54:25.948Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -236,13 +208,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-07-01T05:54:25.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-07-02T15:41:31.430Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,6 +243,41 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-preco/</loc>
         <lastmod>2020-07-02T15:41:31.430Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-07-03T23:41:38.448Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-03T23:41:38.448Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-07-03T23:41:38.448Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-07-03T23:41:38.448Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-07-03T23:41:38.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -45,22 +45,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/draw/</loc>
-        <lastmod>2020-06-03T15:40:45.482Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanime-agora/tags/curso-de-desenho-online/</loc>
         <lastmod>2020-06-03T15:40:45.482Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-05T08:59:37.028Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -388,13 +374,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/dragon-ball-super/</loc>
-        <lastmod>2020-07-01T04:59:52.001Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursodeanime-agora/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-07-02T14:46:46.138Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -416,15 +395,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/animes/</loc>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-07-02T14:46:46.138Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/desenho-para-iniciantes/</loc>
-        <lastmod>2020-07-02T14:46:46.138Z</lastmod>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/draw/</loc>
+        <lastmod>2020-07-03T22:41:25.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/animes/</loc>
+        <lastmod>2020-07-03T22:41:25.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/dragon-ball-super/</loc>
+        <lastmod>2020-07-03T22:41:25.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursodeanime-agora/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-07-03T22:41:25.135Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-20T02:02:25.434Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-21T16:10:34.137Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -61,13 +54,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-06-23T03:01:29.833Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-06-23T23:32:46.394Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -122,14 +108,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-efeitos-colaterais/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-27T10:25:57.674Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libidman-caps-depoimentos/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-06-27T10:25:57.674Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,13 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-06-30T01:36:23.959Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-06-30T01:36:23.959Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libidman-caps/</loc>
-        <lastmod>2020-07-01T05:55:53.086Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-composicao/</loc>
         <lastmod>2020-07-02T15:43:12.223Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -271,6 +243,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-02T15:43:12.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-07-03T23:43:02.669Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-funciona-mesmo-sera/</loc>
+        <lastmod>2020-07-03T23:43:02.669Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libidman-caps/</loc>
+        <lastmod>2020-07-03T23:43:02.669Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-valeapena-2020/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-07-03T23:43:02.669Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

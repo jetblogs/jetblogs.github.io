@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-05-23T05:34:03.400Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-03T00:11:02.805Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,14 +150,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-reviews/</loc>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/academy/</loc>
         <lastmod>2020-06-23T22:52:04.767Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/academy/</loc>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-reviews/</loc>
         <lastmod>2020-06-23T22:52:04.767Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -214,13 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-facebook/</loc>
-        <lastmod>2020-06-27T09:46:24.563Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/instagram/</loc>
         <lastmod>2020-06-27T09:46:24.563Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +269,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/negocios-de-sucesso/</loc>
-        <lastmod>2020-07-01T05:11:10.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/ensino-a-distancia/</loc>
         <lastmod>2020-07-01T05:11:10.461Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -298,13 +277,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/expert-influencer-academy/</loc>
-        <lastmod>2020-07-02T15:00:01.244Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-reclame-aqui/</loc>
         <lastmod>2020-07-02T15:00:01.244Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/negocios-digitais/</loc>
         <lastmod>2020-07-02T15:00:01.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/negocios-de-sucesso/</loc>
+        <lastmod>2020-07-03T22:51:49.004Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-reclame-aqui/</loc>
+        <lastmod>2020-07-03T22:51:49.004Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-07-03T22:51:49.004Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academye-bomagora/tags/instagram/</loc>
+        <lastmod>2020-07-03T22:51:49.004Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

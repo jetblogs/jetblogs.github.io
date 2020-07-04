@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-06-17T03:21:56.966Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-06-18T20:01:50.154Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,13 +68,6 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-original/</loc>
         <lastmod>2020-06-21T16:06:27.447Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-23T02:57:35.697Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,20 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-07-02T15:32:47.908Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-07-02T15:32:47.908Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-preco/</loc>
         <lastmod>2020-07-02T15:32:47.908Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-07-02T15:32:47.908Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-03T23:32:20.899Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-07-03T23:32:20.899Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-07-03T23:32:20.899Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-e-bom-blog/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-07-03T23:32:20.899Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
