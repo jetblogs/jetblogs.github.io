@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-23T03:07:59.200Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-23T23:50:23.509Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,13 +75,6 @@
     <url>
         <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-06-25T21:08:25.839Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-06-26T13:46:12.430Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,34 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-07-01T06:19:33.181Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-07-02T15:59:26.187Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-07-02T15:59:26.187Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-original/</loc>
-        <lastmod>2020-07-02T15:59:26.187Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-07-02T15:59:26.187Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -213,21 +171,21 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-07-02T15:59:26.187Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-02T15:59:26.187Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-07-04T00:02:26.053Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-07-04T00:02:26.053Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-07-04T00:02:26.053Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,8 +199,57 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-funciona-mesmo-sera/</loc>
+        <lastmod>2020-07-04T00:02:26.053Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-07-04T00:02:26.053Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-07-04T00:02:26.053Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-07-06T15:22:42.388Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-original/</loc>
+        <lastmod>2020-07-06T15:22:42.388Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-07-06T15:22:42.388Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps/</loc>
+        <lastmod>2020-07-06T15:22:42.388Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibidman-caps-e-bom/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-07-06T15:22:42.388Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

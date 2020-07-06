@@ -143,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-30T01:41:49.500Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-farmacia/</loc>
         <lastmod>2020-06-30T01:41:49.500Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-para-que-serve/</loc>
-        <lastmod>2020-07-03T23:51:01.730Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-original/</loc>
         <lastmod>2020-07-03T23:51:01.730Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,8 +241,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-06T15:05:07.734Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-para-que-serve/</loc>
+        <lastmod>2020-07-06T15:05:07.734Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-original/</loc>
+        <lastmod>2020-07-06T15:05:07.734Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-composicao/</loc>
-        <lastmod>2020-07-03T23:51:01.730Z</lastmod>
+        <lastmod>2020-07-06T15:05:07.734Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

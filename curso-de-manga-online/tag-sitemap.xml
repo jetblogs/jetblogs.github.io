@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/speed-drawing/</loc>
-        <lastmod>2020-05-23T05:22:45.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-de-manga-online/tags/draw/</loc>
         <lastmod>2020-05-23T05:22:45.102Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -110,13 +103,6 @@
     <url>
         <loc>https://jetblogs.github.io/curso-de-manga-online/tags/tutoriais/</loc>
         <lastmod>2020-06-06T15:54:00.123Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/desenho/</loc>
-        <lastmod>2020-06-07T22:00:32.338Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -311,13 +297,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-06-28T09:38:41.725Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-de-manga-online/tags/desenhar/</loc>
         <lastmod>2020-06-30T00:33:40.181Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -355,13 +334,6 @@
     <url>
         <loc>https://jetblogs.github.io/curso-de-manga-online/tags/como-desenhar/</loc>
         <lastmod>2020-07-01T04:54:04.286Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-07-02T14:43:32.724Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/curso-de-manga-online/tags/kerodesenhar-info/</loc>
         <lastmod>2020-07-03T22:36:17.475Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-07-06T13:51:01.575Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-07-06T13:51:01.575Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/speed-drawing/</loc>
+        <lastmod>2020-07-06T13:51:01.575Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-de-manga-online/tags/desenho/</loc>
+        <lastmod>2020-07-06T13:51:01.575Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

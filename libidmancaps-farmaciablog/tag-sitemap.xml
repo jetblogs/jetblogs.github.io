@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-preco/</loc>
-        <lastmod>2020-06-08T19:58:01.063Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-11T18:12:04.878Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,29 +115,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-27T10:29:10.039Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-06-27T10:29:10.039Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libidman-caps/</loc>
         <lastmod>2020-06-27T10:29:10.039Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-06-28T10:42:53.565Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -157,7 +129,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libidman-caps-preco/</loc>
+        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-28T10:42:53.565Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,20 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-07-03T23:48:42.363Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-original/</loc>
-        <lastmod>2020-07-03T23:48:42.363Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-07-03T23:48:42.363Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -257,6 +215,48 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-03T23:48:42.363Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-07-06T15:01:55.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-07-06T15:01:55.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-07-06T15:01:55.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-preco/</loc>
+        <lastmod>2020-07-06T15:01:55.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libid-man-original/</loc>
+        <lastmod>2020-07-06T15:01:55.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmaciablog/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-07-06T15:01:55.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

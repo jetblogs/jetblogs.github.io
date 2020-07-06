@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-10T04:24:57.416Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-16T04:14:31.189Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-estimulante-sexual/</loc>
-        <lastmod>2020-06-27T10:21:30.087Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-28T10:24:44.769Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,28 +164,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-07-01T05:49:09.495Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-07-01T05:49:09.495Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-07-01T05:49:09.495Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-07-01T05:49:09.495Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -214,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-07-02T15:35:21.265Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,14 +213,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps/</loc>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-07-03T23:35:39.528Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-como-tomar/</loc>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps/</loc>
         <lastmod>2020-07-03T23:35:39.528Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-03T23:35:39.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-07-06T14:43:02.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-06T14:43:02.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-07-06T14:43:02.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-07-06T14:43:02.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-07-06T14:43:02.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-estimulante-sexual/</loc>
+        <lastmod>2020-07-06T14:43:02.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

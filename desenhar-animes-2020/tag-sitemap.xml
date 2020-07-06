@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/tutoriais/</loc>
-        <lastmod>2020-05-19T20:58:04.263Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/a-distancia/</loc>
         <lastmod>2020-05-25T18:26:09.498Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/draw/</loc>
-        <lastmod>2020-06-23T01:41:33.404Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/aulas-online/</loc>
         <lastmod>2020-06-23T01:41:33.404Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,21 +171,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-23T01:41:33.404Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/videos-online/</loc>
         <lastmod>2020-06-23T22:44:02.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/videos-online/</loc>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-06-23T22:44:02.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,13 +283,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/dragon-ball/</loc>
-        <lastmod>2020-06-30T00:36:44.429Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/curso-de-desenho/</loc>
         <lastmod>2020-06-30T00:36:44.429Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -346,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/como-desenhar-animes/</loc>
-        <lastmod>2020-07-01T05:00:06.515Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-07-01T05:00:06.515Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -368,13 +333,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-07-02T14:47:02.110Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-07-02T14:47:02.110Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +390,48 @@
     <url>
         <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/desenho/</loc>
         <lastmod>2020-07-03T22:41:35.395Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-07-06T13:56:15.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/dragon-ball/</loc>
+        <lastmod>2020-07-06T13:56:15.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/tutoriais/</loc>
+        <lastmod>2020-07-06T13:56:15.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-07-06T13:56:15.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/draw/</loc>
+        <lastmod>2020-07-06T13:56:15.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-animes-2020/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-07-06T13:56:15.183Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
