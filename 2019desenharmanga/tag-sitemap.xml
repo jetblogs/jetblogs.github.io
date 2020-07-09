@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/dragon-ball/</loc>
-        <lastmod>2020-05-15T21:47:58.104Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/kero-desenhar/</loc>
         <lastmod>2020-05-15T21:47:58.104Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-25T19:56:36.036Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/kerodesenhar-info/</loc>
         <lastmod>2020-06-25T19:56:36.036Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,21 +227,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-o-goku/</loc>
-        <lastmod>2020-06-26T12:40:58.575Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-manga-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-06-27T09:32:18.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-qualquer-coisa/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-06-27T09:32:18.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,14 +346,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/tutoriais/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-manga/</loc>
         <lastmod>2020-07-03T22:38:44.125Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-manga/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/tutoriais/</loc>
         <lastmod>2020-07-03T22:38:44.125Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -388,14 +367,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/kero-desenhar-kaneki/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-07-03T22:38:44.125Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-07-03T22:38:44.125Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -404,13 +383,6 @@
     <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/a-distancia/</loc>
         <lastmod>2020-07-03T22:38:44.125Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019desenharmanga/tags/o-kero-desenhar-realmente-funciona/</loc>
-        <lastmod>2020-07-06T13:54:18.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -432,6 +404,34 @@
     <url>
         <loc>https://jetblogs.github.io/2019desenharmanga/tags/kerodesenhar-com/</loc>
         <lastmod>2020-07-06T13:54:18.531Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/dragon-ball/</loc>
+        <lastmod>2020-07-08T23:30:26.117Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-07-08T23:30:26.117Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-07-08T23:30:26.117Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019desenharmanga/tags/como-desenhar-o-goku/</loc>
+        <lastmod>2020-07-08T23:30:26.117Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

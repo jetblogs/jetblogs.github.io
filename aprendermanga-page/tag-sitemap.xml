@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/anime/</loc>
-        <lastmod>2020-05-14T00:50:23.122Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/kerodesenhar-com/</loc>
         <lastmod>2020-05-17T14:41:53.681Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,14 +73,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/aprender-online/</loc>
         <lastmod>2020-06-14T16:34:36.725Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/aprender-online/</loc>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/para-iniciantes/</loc>
         <lastmod>2020-06-14T16:34:36.725Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -222,20 +215,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-06-25T20:02:58.056Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-26T12:46:38.809Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/draw/</loc>
-        <lastmod>2020-06-26T12:46:38.809Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -388,14 +367,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball/</loc>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/kerodesenhar-info/</loc>
         <lastmod>2020-07-06T14:01:51.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/kerodesenhar-info/</loc>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball/</loc>
         <lastmod>2020-07-06T14:01:51.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -418,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/tutoriais/</loc>
         <lastmod>2020-07-06T14:01:51.936Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-07-08T23:39:17.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/draw/</loc>
+        <lastmod>2020-07-08T23:39:17.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/anime/</loc>
+        <lastmod>2020-07-08T23:39:17.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-07-08T23:39:17.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/curso-de-desenho/</loc>
+        <lastmod>2020-07-08T23:39:17.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/aulas-online/</loc>
+        <lastmod>2020-07-08T23:39:17.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

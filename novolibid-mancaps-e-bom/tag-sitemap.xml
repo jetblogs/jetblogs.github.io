@@ -66,21 +66,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-06-25T20:58:09.619Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-06-26T13:34:16.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-06-26T13:34:16.610Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -157,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-07-01T06:02:42.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-07-02T15:48:25.709Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -172,13 +151,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-preco/</loc>
-        <lastmod>2020-07-02T15:48:25.709Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libidman-caps/</loc>
         <lastmod>2020-07-02T15:48:25.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -200,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-07-03T23:49:13.204Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-onde-comprar/</loc>
         <lastmod>2020-07-03T23:49:13.204Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -264,6 +229,41 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-07-06T15:02:39.540Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-07-09T01:00:45.369Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-onde-comprar/</loc>
+        <lastmod>2020-07-09T01:00:45.369Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libidman-caps/</loc>
+        <lastmod>2020-07-09T01:00:45.369Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-07-09T01:00:45.369Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-mancaps-e-bom/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-07-09T01:00:45.369Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

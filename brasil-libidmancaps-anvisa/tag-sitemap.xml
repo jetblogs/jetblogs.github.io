@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man/</loc>
-        <lastmod>2020-06-20T02:00:41.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-06-20T02:00:41.102Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,8 +73,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-06-23T03:00:07.049Z</lastmod>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man/</loc>
+        <lastmod>2020-06-20T02:00:41.102Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -136,14 +129,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-original/</loc>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-06-30T01:33:12.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-resultados/</loc>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-30T01:33:12.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -165,13 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-07-01T05:52:09.293Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-original/</loc>
         <lastmod>2020-07-01T05:52:09.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,21 +241,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-oficial/</loc>
-        <lastmod>2020-07-06T14:47:17.890Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-07-06T14:47:17.890Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-07-06T14:47:17.890Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-07-06T14:47:17.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-oficial/</loc>
+        <lastmod>2020-07-09T00:48:57.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-original/</loc>
+        <lastmod>2020-07-09T00:48:57.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-07-09T00:48:57.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-anvisa/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-07-09T00:48:57.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

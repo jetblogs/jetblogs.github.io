@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/msr-mude-sua-rotina-logo/</loc>
-        <lastmod>2020-06-08T19:43:36.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-11T18:16:53.058Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/msr-funciona/</loc>
-        <lastmod>2020-06-28T10:30:09.793Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/hotmart/</loc>
         <lastmod>2020-06-28T10:30:09.793Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -166,13 +152,6 @@
     <url>
         <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-06-28T10:30:09.793Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/marketing/</loc>
-        <lastmod>2020-06-30T01:32:50.704Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -311,8 +290,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/msr-funciona/</loc>
+        <lastmod>2020-07-09T00:42:14.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/marketing/</loc>
+        <lastmod>2020-07-09T00:42:14.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/mude-sua-rotina-reclame-aqui/</loc>
-        <lastmod>2020-07-06T14:43:50.287Z</lastmod>
+        <lastmod>2020-07-09T00:42:14.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagemude-sua-rotina-e-confiavel/tags/msr-mude-sua-rotina-logo/</loc>
+        <lastmod>2020-07-09T00:42:14.007Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

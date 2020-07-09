@@ -3,21 +3,7 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-06-14T18:59:31.907Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-composicao/</loc>
-        <lastmod>2020-06-16T04:27:19.815Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-caps-funciona-mesmo/</loc>
         <lastmod>2020-06-16T04:27:19.815Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -60,13 +46,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-06-25T21:07:23.843Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-25T21:07:23.843Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -250,6 +229,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-07-06T15:20:44.960Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libidman-caps-funciona/</loc>
+        <lastmod>2020-07-09T01:13:43.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-07-09T01:13:43.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-07-09T01:13:43.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-bula-page/tags/libid-man-caps/</loc>
+        <lastmod>2020-07-09T01:13:43.878Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

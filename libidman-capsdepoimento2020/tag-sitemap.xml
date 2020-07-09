@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-23T02:55:08.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libidman-caps-preco/</loc>
         <lastmod>2020-06-23T02:55:08.102Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libid-man-composicao/</loc>
-        <lastmod>2020-06-26T13:15:15.003Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-06-26T13:15:15.003Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,15 +255,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libidman-caps-funciona/</loc>
+        <lastmod>2020-07-09T00:31:19.132Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-07-09T00:31:19.132Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-07-06T14:34:07.591Z</lastmod>
+        <lastmod>2020-07-09T00:31:19.132Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capsdepoimento2020/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-07-06T14:34:07.591Z</lastmod>
+        <lastmod>2020-07-09T00:31:19.132Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

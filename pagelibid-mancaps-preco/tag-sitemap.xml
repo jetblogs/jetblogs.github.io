@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-06-21T16:15:10.499Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-06-23T03:05:47.111Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-original/</loc>
-        <lastmod>2020-06-27T10:33:33.444Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-06-28T10:56:39.639Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +116,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-06-30T01:45:48.934Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-06-30T01:45:48.934Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -179,20 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-07-02T15:54:15.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-07-02T15:54:15.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-07-02T15:54:15.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -264,6 +229,41 @@
     <url>
         <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-06T15:13:02.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-09T01:08:51.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-original/</loc>
+        <lastmod>2020-07-09T01:08:51.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-07-09T01:08:51.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-09T01:08:51.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagelibid-mancaps-preco/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-07-09T01:08:51.791Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demercursobr/tags/peeling/</loc>
-        <lastmod>2020-05-25T18:45:46.883Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-demercursobr/tags/rose-de-mer-curso/</loc>
         <lastmod>2020-06-01T13:52:49.213Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -165,13 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rose-demercursobr/tags/rose-de-mer-kit/</loc>
-        <lastmod>2020-06-18T19:09:06.987Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-demercursobr/tags/curso-ead/</loc>
         <lastmod>2020-06-18T19:09:06.987Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -360,21 +346,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demercursobr/tags/curso-de-peeling-rose-de-mer/</loc>
-        <lastmod>2020-06-28T10:09:17.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-demercursobr/tags/curso-online/</loc>
-        <lastmod>2020-06-30T01:14:06.079Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-demercursobr/tags/peeling-rose-de-mer-vale-a-pena/</loc>
         <lastmod>2020-06-30T01:14:06.079Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -493,6 +465,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/rose-demercursobr/tags/rose-de-mer/</loc>
+        <lastmod>2020-07-06T14:29:15.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/rose-demercursobr/tags/peeling-rose-de-mer-como-fazer/</loc>
         <lastmod>2020-07-06T14:29:15.464Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -500,8 +479,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demercursobr/tags/rose-de-mer/</loc>
-        <lastmod>2020-07-06T14:29:15.464Z</lastmod>
+        <loc>https://jetblogs.github.io/rose-demercursobr/tags/peeling-rose-de-mer-vale-a-pena/</loc>
+        <lastmod>2020-07-09T00:18:13.817Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demercursobr/tags/curso-ead/</loc>
+        <lastmod>2020-07-09T00:18:13.817Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demercursobr/tags/peeling/</loc>
+        <lastmod>2020-07-09T00:18:13.817Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demercursobr/tags/curso-de-peeling-rose-de-mer/</loc>
+        <lastmod>2020-07-09T00:18:13.817Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

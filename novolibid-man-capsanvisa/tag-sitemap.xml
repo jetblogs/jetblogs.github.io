@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-06-27T10:22:12.618Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-06-27T10:22:12.618Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,7 +94,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-como-usar/</loc>
+        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-27T10:22:12.618Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -157,20 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-07-01T05:50:15.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-07-01T05:50:15.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-07-01T05:50:15.461Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -214,13 +193,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-07-03T23:37:11.826Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-original/</loc>
         <lastmod>2020-07-03T23:37:11.826Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man/</loc>
         <lastmod>2020-07-06T14:44:03.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-original/</loc>
+        <lastmod>2020-07-09T00:46:17.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-funciona-mesmo-sera/</loc>
+        <lastmod>2020-07-09T00:46:17.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-07-09T00:46:17.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-capsanvisa/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-07-09T00:46:17.811Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

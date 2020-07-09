@@ -3,27 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-06-14T18:53:44.691Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-06-16T04:21:45.642Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-06-17T03:26:57.707Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-18T20:07:01.022Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -103,13 +82,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-26T13:35:55.386Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-funciona-mesmo-sera/</loc>
-        <lastmod>2020-06-27T10:30:27.115Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -234,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-07-03T23:51:01.730Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-06T15:05:07.734Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -264,6 +229,41 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-composicao/</loc>
         <lastmod>2020-07-06T15:05:07.734Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-funciona-mesmo-sera/</loc>
+        <lastmod>2020-07-09T01:02:36.834Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-07-09T01:02:36.834Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-07-09T01:02:36.834Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libid-man-caps-funciona/</loc>
+        <lastmod>2020-07-09T01:02:36.834Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-farmacia2020/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-07-09T01:02:36.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

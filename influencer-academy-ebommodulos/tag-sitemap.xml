@@ -234,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-reviews/</loc>
-        <lastmod>2020-07-02T15:13:31.911Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/academy/</loc>
         <lastmod>2020-07-02T15:13:31.911Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,28 +241,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-youtuber/</loc>
-        <lastmod>2020-07-03T23:07:13.715Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-07-03T23:07:13.715Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/academia-de-influenciadores/</loc>
-        <lastmod>2020-07-03T23:07:13.715Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/ead/</loc>
         <lastmod>2020-07-03T23:07:13.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-funciona/</loc>
         <lastmod>2020-07-06T14:25:14.082Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-youtuber/</loc>
+        <lastmod>2020-07-09T00:12:56.932Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/academia-de-influenciadores/</loc>
+        <lastmod>2020-07-09T00:12:56.932Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/influencer-academy-reviews/</loc>
+        <lastmod>2020-07-09T00:12:56.932Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influencer-academy-ebommodulos/tags/ead/</loc>
+        <lastmod>2020-07-09T00:12:56.932Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
