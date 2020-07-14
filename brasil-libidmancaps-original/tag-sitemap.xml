@@ -115,22 +115,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-2-meses-de-uso/</loc>
-        <lastmod>2020-06-28T10:30:05.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-06-28T10:30:05.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-06-30T01:34:50.351Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -172,13 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-07-02T15:40:50.148Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-07-02T15:40:50.148Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man/</loc>
-        <lastmod>2020-07-09T00:51:06.248Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-composicao/</loc>
         <lastmod>2020-07-09T00:51:06.248Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-07-09T00:51:06.248Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man/</loc>
+        <lastmod>2020-07-13T22:31:06.912Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-07-13T22:31:06.912Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-07-13T22:31:06.912Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/brasil-libidmancaps-original/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-13T22:31:06.912Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-18T20:04:36.016Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-18T20:04:36.016Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-composicao/</loc>
-        <lastmod>2020-07-02T15:41:31.430Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-07-02T15:41:31.430Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,14 +192,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-original/</loc>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-funciona-mesmo/</loc>
         <lastmod>2020-07-03T23:41:38.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-funciona-mesmo/</loc>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-original/</loc>
         <lastmod>2020-07-03T23:41:38.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,29 +213,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-07-06T14:51:32.245Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-depoimentos/</loc>
         <lastmod>2020-07-06T14:51:32.245Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-07-09T00:51:48.005Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-07-09T00:51:48.005Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,6 +243,41 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-preco/</loc>
         <lastmod>2020-07-09T00:51:48.005Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-07-13T22:32:09.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-composicao/</loc>
+        <lastmod>2020-07-13T22:32:09.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-13T22:32:09.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-13T22:32:09.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-anvisanovo/tags/libid-man-caps/</loc>
+        <lastmod>2020-07-13T22:32:09.216Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

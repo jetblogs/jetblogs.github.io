@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/academy/</loc>
-        <lastmod>2020-06-08T19:27:59.942Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/facebook/</loc>
         <lastmod>2020-06-08T19:27:59.942Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/midias-sociais/</loc>
-        <lastmod>2020-06-23T23:05:28.282Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/influencer-academy-funciona/</loc>
         <lastmod>2020-06-23T23:05:28.282Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,7 +73,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/negocios-de-sucesso/</loc>
+        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/midias-sociais/</loc>
         <lastmod>2020-06-23T23:05:28.282Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -193,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/influencer-academy-ganhar-dinheiro/</loc>
-        <lastmod>2020-07-02T15:18:24.441Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-07-02T15:18:24.441Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,8 +297,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/academy/</loc>
+        <lastmod>2020-07-13T22:09:11.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-07-13T22:09:11.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/influencer-academy-gabriella-ferreira/</loc>
-        <lastmod>2020-07-09T00:17:35.764Z</lastmod>
+        <lastmod>2020-07-13T22:09:11.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-e-bom-curso/tags/negocios-de-sucesso/</loc>
+        <lastmod>2020-07-13T22:09:11.207Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

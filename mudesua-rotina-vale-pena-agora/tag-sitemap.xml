@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/vendas-online/</loc>
-        <lastmod>2020-06-20T02:20:48.873Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/renda-extra/</loc>
         <lastmod>2020-06-21T16:04:25.573Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +81,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/mude-sua-rotina-depoimento/</loc>
-        <lastmod>2020-06-24T00:01:48.854Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/treinamento-msr/</loc>
         <lastmod>2020-06-24T00:01:48.854Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-06-30T01:26:49.345Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-07-01T05:44:37.018Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-07-03T23:30:07.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/afiliado-iniciante/</loc>
         <lastmod>2020-07-03T23:30:07.424Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,13 +214,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/trabalhar-pela-internet/</loc>
-        <lastmod>2020-07-03T23:30:07.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/mude-sua-rotina-vale-a-pena/</loc>
         <lastmod>2020-07-03T23:30:07.424Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -297,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/curso-mude-sua-rotina-e-bom/</loc>
-        <lastmod>2020-07-09T00:31:51.376Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/liberdade-financeira/</loc>
         <lastmod>2020-07-09T00:31:51.376Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -313,6 +271,48 @@
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/monetizze/</loc>
         <lastmod>2020-07-09T00:31:51.376Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-07-13T22:20:51.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/mude-sua-rotina-curso/</loc>
+        <lastmod>2020-07-13T22:20:51.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/mude-sua-rotina-vale-a-pena/</loc>
+        <lastmod>2020-07-13T22:20:51.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <lastmod>2020-07-13T22:20:51.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/treinamento-msr/</loc>
+        <lastmod>2020-07-13T22:20:51.316Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotina-vale-pena-agora/tags/vendas-online/</loc>
+        <lastmod>2020-07-13T22:20:51.316Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

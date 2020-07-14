@@ -24,29 +24,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libidman-caps/</loc>
-        <lastmod>2020-06-10T04:26:27.098Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-11T18:09:25.553Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-20T02:01:17.317Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-06-21T16:09:37.080Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -109,13 +88,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-28T10:29:24.647Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-28T10:29:24.647Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +248,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-13T22:30:31.500Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-07-13T22:30:31.500Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-07-13T22:30:31.500Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libidman-caps/</loc>
+        <lastmod>2020-07-13T22:30:31.500Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidman-caps-e-bom-brasil/tags/libid-man-caps-onde-comprar/</loc>
-        <lastmod>2020-07-09T00:50:28.602Z</lastmod>
+        <lastmod>2020-07-13T22:30:31.500Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

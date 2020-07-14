@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/afiliado-iniciante/</loc>
-        <lastmod>2020-06-16T04:55:10.742Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/liberdade-financeira/</loc>
         <lastmod>2020-06-16T04:55:10.742Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,14 +80,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/msr-mude-a-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-06-27T10:35:10.744Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-06-27T10:35:10.744Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -117,20 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/trabalhar-pela-internet/</loc>
         <lastmod>2020-06-30T01:50:29.161Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-30T01:50:29.161Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-07-01T06:18:20.526Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -164,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/msr-resultados/</loc>
-        <lastmod>2020-07-02T15:57:59.081Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-02T15:57:59.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -186,20 +158,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-07-03T23:59:48.749Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/negocios-online/</loc>
-        <lastmod>2020-07-03T23:59:48.749Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-07-03T23:59:48.749Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/renda-extra/</loc>
         <lastmod>2020-07-09T01:09:14.391Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/negocios-online/</loc>
+        <lastmod>2020-07-13T22:59:11.546Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/mude-sua-rotina-curso/</loc>
+        <lastmod>2020-07-13T22:59:11.546Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-07-13T22:59:11.546Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/msr-resultados/</loc>
+        <lastmod>2020-07-13T22:59:11.546Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/afiliado-iniciante/</loc>
+        <lastmod>2020-07-13T22:59:11.546Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-sua-rotina-e-bom/tags/negocios-digitais/</loc>
+        <lastmod>2020-07-13T22:59:11.546Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-06-27T10:37:25.068Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-06-27T10:37:25.068Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-funciona-mesmo/</loc>
-        <lastmod>2020-07-09T01:14:47.345Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-07-09T01:14:47.345Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,8 +234,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-07-13T22:58:02.709Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-07-13T22:58:02.709Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-07-09T01:14:47.345Z</lastmod>
+        <lastmod>2020-07-13T22:58:02.709Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capsdesconto/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-07-13T22:58:02.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
