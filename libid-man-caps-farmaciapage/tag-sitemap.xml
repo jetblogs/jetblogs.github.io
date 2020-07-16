@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-06-26T13:19:45.572Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-anvisa/</loc>
         <lastmod>2020-06-27T10:17:54.979Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-07-02T15:32:22.672Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-07-03T23:31:46.436Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -186,13 +172,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-07-03T23:31:46.436Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-03T23:31:46.436Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,21 +213,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-original/</loc>
-        <lastmod>2020-07-09T00:39:26.743Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-para-que-serve/</loc>
-        <lastmod>2020-07-13T22:19:13.811Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-07-13T22:19:13.811Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,6 +234,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-07-13T22:19:13.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-07-13T22:19:13.811Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-tem-na-farmacia/</loc>
         <lastmod>2020-07-13T22:19:13.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-07-16T11:10:18.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-07-16T11:10:18.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-16T11:10:18.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libid-man-caps-farmaciapage/tags/libid-man-original/</loc>
+        <lastmod>2020-07-16T11:10:18.900Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

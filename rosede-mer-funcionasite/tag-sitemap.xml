@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/peeling-rose-de-mer-e-bom/</loc>
-        <lastmod>2020-03-30T08:21:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-03-30T08:21:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -290,20 +283,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/rosto/</loc>
-        <lastmod>2020-06-25T20:09:46.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/passo-a-passo-do-peeling-rose-de-mer/</loc>
-        <lastmod>2020-06-26T12:54:58.039Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/tratamento-estetico/</loc>
         <lastmod>2020-06-26T12:54:58.039Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -521,13 +500,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/peeling-rose-de-mer-o-que-e/</loc>
-        <lastmod>2020-07-08T23:59:59.465Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/carreiras/</loc>
         <lastmod>2020-07-13T21:40:28.795Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -551,6 +523,34 @@
     <url>
         <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/passo-a-passo/</loc>
         <lastmod>2020-07-13T21:40:28.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/peeling-rose-de-mer-o-que-e/</loc>
+        <lastmod>2020-07-16T10:38:33.112Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/peeling-rose-de-mer-e-bom/</loc>
+        <lastmod>2020-07-16T10:38:33.112Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/passo-a-passo-do-peeling-rose-de-mer/</loc>
+        <lastmod>2020-07-16T10:38:33.112Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosede-mer-funcionasite/tags/rosto/</loc>
+        <lastmod>2020-07-16T10:38:33.112Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

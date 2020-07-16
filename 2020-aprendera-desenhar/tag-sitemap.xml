@@ -143,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-06-20T00:38:17.439Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-06-20T00:38:17.439Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,13 +249,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/kero-desenhar/</loc>
-        <lastmod>2020-06-30T00:40:47.428Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/desenhar/</loc>
         <lastmod>2020-06-30T00:40:47.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,20 +388,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/como-desenhar-animes/</loc>
-        <lastmod>2020-07-08T23:38:25.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/desenhar-animes/</loc>
-        <lastmod>2020-07-13T21:28:48.847Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/como-desenhar-qualquer-coisa/</loc>
         <lastmod>2020-07-13T21:28:48.847Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -431,7 +403,35 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-07-13T21:28:48.847Z</lastmod>
+        <lastmod>2020-07-16T10:28:31.671Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/desenhar/</loc>
+        <lastmod>2020-07-16T10:28:31.671Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/como-desenhar-animes/</loc>
+        <lastmod>2020-07-16T10:28:31.671Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-07-16T10:28:31.671Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-aprendera-desenhar/tags/desenhar-animes/</loc>
+        <lastmod>2020-07-16T10:28:31.671Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

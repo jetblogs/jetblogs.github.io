@@ -143,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/mude-sua-rotina-reclame-aqui/</loc>
-        <lastmod>2020-07-01T06:06:36.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-07-01T06:06:36.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,21 +192,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/hotmart/</loc>
-        <lastmod>2020-07-06T15:05:22.739Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-07-06T15:05:22.739Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-07-06T15:05:22.739Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -292,6 +271,34 @@
     <url>
         <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/msr-funciona/</loc>
         <lastmod>2020-07-13T22:46:45.571Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/hotmart/</loc>
+        <lastmod>2020-07-16T11:26:34.773Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-07-16T11:26:34.773Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/mude-sua-rotina-reclame-aqui/</loc>
+        <lastmod>2020-07-16T11:26:34.773Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-msr-mude-suarotinabrasil/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-07-16T11:26:34.773Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

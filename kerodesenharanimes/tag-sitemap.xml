@@ -3,20 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/aulas-online/</loc>
-        <lastmod>2020-03-02T08:32:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/desenhando/</loc>
-        <lastmod>2020-03-14T09:48:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharanimes/tags/para-iniciantes/</loc>
         <lastmod>2020-03-23T09:16:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/goku/</loc>
-        <lastmod>2020-06-27T09:24:15.687Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenharanimes/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-06-28T09:33:55.895Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -250,13 +229,6 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharanimes/tags/manga/</loc>
         <lastmod>2020-06-28T09:33:55.895Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-06-30T00:30:03.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -416,14 +388,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/desenhar-manga/</loc>
+        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-07-13T21:11:14.007Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/manga-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/desenhar-manga/</loc>
         <lastmod>2020-07-13T21:11:14.007Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenharanimes/tags/drawing/</loc>
         <lastmod>2020-07-13T21:11:14.007Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-07-16T10:14:14.786Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/aulas-online/</loc>
+        <lastmod>2020-07-16T10:14:14.786Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/desenhando/</loc>
+        <lastmod>2020-07-16T10:14:14.786Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenharanimes/tags/goku/</loc>
+        <lastmod>2020-07-16T10:14:14.786Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

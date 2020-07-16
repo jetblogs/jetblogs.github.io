@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/melhor-curso/</loc>
-        <lastmod>2020-06-28T10:00:29.070Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-gabi-ferreira/</loc>
         <lastmod>2020-06-28T10:00:29.070Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,6 +130,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy/</loc>
+        <lastmod>2020-06-28T10:00:29.070Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/melhor-curso/</loc>
         <lastmod>2020-06-28T10:00:29.070Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -166,20 +166,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-facebook/</loc>
         <lastmod>2020-06-30T01:05:23.413Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-e-bom/</loc>
-        <lastmod>2020-07-01T05:18:37.518Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/curso/</loc>
-        <lastmod>2020-07-01T05:18:37.518Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -227,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-gabriella-ferreira/</loc>
-        <lastmod>2020-07-06T14:20:32.492Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-reclame-aqui/</loc>
         <lastmod>2020-07-06T14:20:32.492Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,7 +220,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/carreiras/</loc>
+        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-07-06T14:20:32.492Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,15 +297,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-gratis/</loc>
+        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/youtube/</loc>
         <lastmod>2020-07-13T21:53:58.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/youtube/</loc>
-        <lastmod>2020-07-13T21:53:58.976Z</lastmod>
+        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/carreiras/</loc>
+        <lastmod>2020-07-16T10:44:56.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-e-bom/</loc>
+        <lastmod>2020-07-16T10:44:56.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/influencer-academy-gratis/</loc>
+        <lastmod>2020-07-16T10:44:56.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprenderdigitalinfluencerblog/tags/curso/</loc>
+        <lastmod>2020-07-16T10:44:56.655Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

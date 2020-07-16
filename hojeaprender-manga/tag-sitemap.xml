@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/ead/</loc>
-        <lastmod>2020-05-19T00:02:03.696Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/anime/</loc>
         <lastmod>2020-05-19T00:02:03.696Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -94,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-13T00:34:16.581Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-06-14T16:34:27.712Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-evoluir-nos-meus-desenhos/</loc>
-        <lastmod>2020-06-23T22:45:48.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-desenhar/</loc>
         <lastmod>2020-06-23T22:45:48.882Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -208,13 +187,6 @@
     <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-06-27T09:37:50.786Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/aulas-online/</loc>
-        <lastmod>2020-06-28T09:47:39.015Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -339,13 +311,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-07-06T14:01:29.999Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-fazer-esboco/</loc>
         <lastmod>2020-07-06T14:01:29.999Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -374,14 +339,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/desenhar-animes/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kero-desenhar/</loc>
         <lastmod>2020-07-08T23:38:42.181Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kero-desenhar/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/desenhar-animes/</loc>
         <lastmod>2020-07-08T23:38:42.181Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -425,6 +390,41 @@
     <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-desenhar-manga-passo-a-passo/</loc>
         <lastmod>2020-07-13T21:28:58.296Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/o-kero-desenhar-funciona/</loc>
+        <lastmod>2020-07-16T10:28:38.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-evoluir-nos-meus-desenhos/</loc>
+        <lastmod>2020-07-16T10:28:38.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kerodesenhar/</loc>
+        <lastmod>2020-07-16T10:28:38.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/ead/</loc>
+        <lastmod>2020-07-16T10:28:38.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/aulas-online/</loc>
+        <lastmod>2020-07-16T10:28:38.442Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

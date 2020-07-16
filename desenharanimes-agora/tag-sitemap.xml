@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/para-iniciantes/</loc>
-        <lastmod>2020-06-17T02:06:35.966Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenho/</loc>
         <lastmod>2020-06-17T02:06:35.966Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -131,13 +124,6 @@
     <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenhar-manga/</loc>
         <lastmod>2020-06-17T02:06:35.966Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-desenhar-anime-e-manga/</loc>
-        <lastmod>2020-06-20T00:29:25.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,28 +157,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-23T01:36:06.361Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-23T22:33:16.902Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/o-kero-desenhar-funciona/</loc>
-        <lastmod>2020-06-25T19:51:19.589Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenho-para-iniciantes/</loc>
         <lastmod>2020-06-25T19:51:19.589Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -374,13 +339,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/curso-de-desenho/</loc>
-        <lastmod>2020-07-06T13:45:31.556Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-07-08T23:17:41.757Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/desenharanimes-agora/tags/kero-desenhar/</loc>
         <lastmod>2020-07-13T21:11:35.821Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/para-iniciantes/</loc>
+        <lastmod>2020-07-16T10:15:02.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/desenho-para-iniciantes/</loc>
+        <lastmod>2020-07-16T10:15:02.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-07-16T10:15:02.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/kerodesenhar/</loc>
+        <lastmod>2020-07-16T10:15:02.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/como-desenhar-anime-e-manga/</loc>
+        <lastmod>2020-07-16T10:15:02.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenharanimes-agora/tags/curso-de-desenho/</loc>
+        <lastmod>2020-07-16T10:15:02.654Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

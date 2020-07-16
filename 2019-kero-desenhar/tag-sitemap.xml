@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/desenho/</loc>
-        <lastmod>2020-03-12T10:31:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-05-20T20:07:12.370Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,21 +108,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-desenhar-para-iniciantes/</loc>
-        <lastmod>2020-06-18T18:40:51.821Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-06-21T14:32:59.435Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/goku/</loc>
         <lastmod>2020-06-21T14:32:59.435Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -220,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-06-27T09:27:07.799Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kero-desenhar/</loc>
         <lastmod>2020-06-28T09:36:30.125Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,13 +276,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/drawing/</loc>
-        <lastmod>2020-07-02T14:41:19.149Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-07-03T22:33:39.528Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -381,13 +346,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/anime-para-iniciantes/</loc>
-        <lastmod>2020-07-08T23:21:26.257Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-desenhar-anime/</loc>
         <lastmod>2020-07-08T23:21:26.257Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -402,6 +360,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/anime-para-iniciantes/</loc>
+        <lastmod>2020-07-08T23:21:26.257Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-07-08T23:21:26.257Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -409,21 +374,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-07-08T23:21:26.257Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/curso-de-manga/</loc>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-07-13T21:13:36.571Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/curso-kerodesenhar-com/</loc>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/curso-de-manga/</loc>
         <lastmod>2020-07-13T21:13:36.571Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +397,48 @@
     <url>
         <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-07-13T21:13:36.571Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/drawing/</loc>
+        <lastmod>2020-07-16T10:16:59.039Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/desenho/</loc>
+        <lastmod>2020-07-16T10:16:59.039Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/goku/</loc>
+        <lastmod>2020-07-16T10:16:59.039Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/como-desenhar-para-iniciantes/</loc>
+        <lastmod>2020-07-16T10:16:59.039Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-07-16T10:16:59.039Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2019-kero-desenhar/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-07-16T10:16:59.039Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
