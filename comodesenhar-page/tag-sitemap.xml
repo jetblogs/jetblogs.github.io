@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-05-17T14:39:29.527Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso-de-desenho/</loc>
         <lastmod>2020-05-18T23:57:58.323Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,13 +19,6 @@
     <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenho/</loc>
         <lastmod>2020-06-03T15:40:31.662Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso-kerodesenhar-com/</loc>
-        <lastmod>2020-06-05T08:59:21.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -67,13 +53,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso-de-manga/</loc>
-        <lastmod>2020-06-13T00:30:51.758Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/goku/</loc>
         <lastmod>2020-06-13T00:30:51.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,13 +346,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/ead/</loc>
-        <lastmod>2020-07-13T21:21:35.811Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/manga/</loc>
         <lastmod>2020-07-13T21:21:35.811Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -382,6 +354,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/tutorial-de-desenho/</loc>
+        <lastmod>2020-07-13T21:21:35.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/ead/</loc>
         <lastmod>2020-07-13T21:21:35.811Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -409,7 +388,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso/</loc>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenhar-animes/</loc>
         <lastmod>2020-07-16T10:21:58.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -423,7 +402,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenhar-animes/</loc>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso/</loc>
         <lastmod>2020-07-16T10:21:58.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-07-16T10:21:58.372Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-07-17T20:12:27.941Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/goku/</loc>
+        <lastmod>2020-07-17T20:12:27.941Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/como-desenhar-goku/</loc>
+        <lastmod>2020-07-17T20:12:27.941Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-07-17T20:12:27.941Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

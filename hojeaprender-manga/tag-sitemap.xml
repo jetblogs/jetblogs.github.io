@@ -206,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/aprender-online/</loc>
-        <lastmod>2020-06-30T00:40:52.458Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/curso-de-desenho/</loc>
         <lastmod>2020-06-30T00:40:52.458Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-07-02T14:50:48.371Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/a-distancia/</loc>
         <lastmod>2020-07-02T14:50:48.371Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,21 +283,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/curso-de-desenho-online/</loc>
-        <lastmod>2020-07-06T14:01:29.999Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-desenhar-anime/</loc>
-        <lastmod>2020-07-06T14:01:29.999Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-fazer-esboco/</loc>
         <lastmod>2020-07-06T14:01:29.999Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -360,13 +332,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/para-iniciantes/</loc>
-        <lastmod>2020-07-13T21:28:58.296Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/tutorial-de-desenho/</loc>
         <lastmod>2020-07-13T21:28:58.296Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -374,14 +339,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/anime-para-iniciantes/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/para-iniciantes/</loc>
         <lastmod>2020-07-13T21:28:58.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kerodesenhar-funciona/</loc>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/anime-para-iniciantes/</loc>
         <lastmod>2020-07-13T21:28:58.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -409,13 +374,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kerodesenhar/</loc>
-        <lastmod>2020-07-16T10:28:38.442Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/ead/</loc>
         <lastmod>2020-07-16T10:28:38.442Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -425,6 +383,48 @@
     <url>
         <loc>https://jetblogs.github.io/hojeaprender-manga/tags/aulas-online/</loc>
         <lastmod>2020-07-16T10:28:38.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kerodesenhar/</loc>
+        <lastmod>2020-07-17T20:18:31.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-07-17T20:18:31.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-07-17T20:18:31.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/aprender-online/</loc>
+        <lastmod>2020-07-17T20:18:31.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-07-17T20:18:31.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojeaprender-manga/tags/kerodesenhar-funciona/</loc>
+        <lastmod>2020-07-17T20:18:31.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

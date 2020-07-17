@@ -3,27 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/academy/</loc>
-        <lastmod>2020-05-15T21:59:59.495Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-login/</loc>
-        <lastmod>2020-06-01T13:37:53.926Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-06-05T09:08:02.197Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/curso-a-distancia/</loc>
         <lastmod>2020-06-05T09:08:02.197Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +47,6 @@
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/curso-online/</loc>
         <lastmod>2020-06-23T01:53:21.166Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-facebook/</loc>
-        <lastmod>2020-06-25T20:11:31.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,14 +185,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-gabi-ferreira/</loc>
+        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/negocios-digitais/</loc>
         <lastmod>2020-07-06T14:15:48.190Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/negocios-digitais/</loc>
+        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-gabi-ferreira/</loc>
         <lastmod>2020-07-06T14:15:48.190Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -263,13 +235,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/curso/</loc>
-        <lastmod>2020-07-13T21:44:31.674Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/curso-influencer-academy/</loc>
         <lastmod>2020-07-13T21:44:31.674Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -320,6 +285,41 @@
     <url>
         <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/midias-sociais/</loc>
         <lastmod>2020-07-16T10:38:58.666Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-07-17T20:30:54.163Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-facebook/</loc>
+        <lastmod>2020-07-17T20:30:54.163Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/influencer-academy-login/</loc>
+        <lastmod>2020-07-17T20:30:54.163Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/curso-influencer-academy/</loc>
+        <lastmod>2020-07-17T20:30:54.163Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademy-ebomhoje/tags/academy/</loc>
+        <lastmod>2020-07-17T20:30:54.163Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

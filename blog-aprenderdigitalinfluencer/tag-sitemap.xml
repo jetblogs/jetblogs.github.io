@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/ead/</loc>
-        <lastmod>2020-06-14T16:50:00.312Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-vale-a-pena/</loc>
         <lastmod>2020-06-16T03:12:47.664Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-gabi-ferreira/</loc>
-        <lastmod>2020-06-23T23:03:05.861Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/academy/</loc>
         <lastmod>2020-06-25T20:24:19.711Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,14 +115,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/midias-sociais/</loc>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/marketing-digital/</loc>
         <lastmod>2020-06-27T10:00:00.017Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/marketing-digital/</loc>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/midias-sociais/</loc>
         <lastmod>2020-06-27T10:00:00.017Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-gratis/</loc>
-        <lastmod>2020-07-02T15:15:18.604Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-facebook/</loc>
         <lastmod>2020-07-03T23:08:07.153Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,13 +200,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influenciador-digital/</loc>
-        <lastmod>2020-07-03T23:08:07.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/youtube/</loc>
         <lastmod>2020-07-03T23:08:07.153Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influenciador-de-midias/</loc>
-        <lastmod>2020-07-09T00:14:53.464Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/digital-influencer/</loc>
         <lastmod>2020-07-13T22:04:22.533Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,13 +269,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-07-16T10:52:07.795Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-login/</loc>
         <lastmod>2020-07-16T10:52:07.795Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,6 +285,48 @@
     <url>
         <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-07-16T10:52:07.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-07-17T20:43:31.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-gratis/</loc>
+        <lastmod>2020-07-17T20:43:31.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/ead/</loc>
+        <lastmod>2020-07-17T20:43:31.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/youtube/</loc>
+        <lastmod>2020-07-17T20:43:31.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influenciador-de-midias/</loc>
+        <lastmod>2020-07-17T20:43:31.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blog-aprenderdigitalinfluencer/tags/influencer-academy-gabi-ferreira/</loc>
+        <lastmod>2020-07-17T20:43:31.191Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

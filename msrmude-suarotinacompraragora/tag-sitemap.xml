@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/afiliados/</loc>
-        <lastmod>2020-06-23T03:00:42.416Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/afiliado-iniciante/</loc>
         <lastmod>2020-06-24T00:08:10.773Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-30T01:39:05.784Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/msr-curso/</loc>
         <lastmod>2020-06-30T01:39:05.784Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/vendas-online/</loc>
-        <lastmod>2020-07-02T15:45:12.871Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/hotmart/</loc>
         <lastmod>2020-07-03T23:44:52.960Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,14 +164,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/msr-mude-sua-rotina-funciona/</loc>
+        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-07-03T23:44:52.960Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/mude-a-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/msr-mude-sua-rotina-funciona/</loc>
         <lastmod>2020-07-03T23:44:52.960Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -207,13 +186,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/curso-msr-mude-sua-rotina/</loc>
-        <lastmod>2020-07-06T14:55:55.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/negocios-online/</loc>
         <lastmod>2020-07-06T14:55:55.066Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -235,13 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-07-13T22:38:39.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/marketing-digital/</loc>
         <lastmod>2020-07-13T22:38:39.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -285,6 +250,41 @@
     <url>
         <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/empreendedorismo/</loc>
         <lastmod>2020-07-16T11:21:13.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/negocios-online/</loc>
+        <lastmod>2020-07-17T21:16:41.384Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/marketing-digital/</loc>
+        <lastmod>2020-07-17T21:16:41.384Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/negocios-digitais/</loc>
+        <lastmod>2020-07-17T21:16:41.384Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/afiliados/</loc>
+        <lastmod>2020-07-17T21:16:41.384Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/msrmude-suarotinacompraragora/tags/vendas-online/</loc>
+        <lastmod>2020-07-17T21:16:41.384Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

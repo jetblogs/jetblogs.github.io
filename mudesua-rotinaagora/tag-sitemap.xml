@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/renda-extra/</loc>
-        <lastmod>2020-07-01T06:12:43.469Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-07-01T06:12:43.469Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,6 +115,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/renda-extra/</loc>
+        <lastmod>2020-07-01T06:12:43.469Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-07-01T06:12:43.469Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,20 +130,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/curso-mude-sua-rotina-a-verdade/</loc>
-        <lastmod>2020-07-02T15:54:23.358Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/marketing-de-afiliados/</loc>
-        <lastmod>2020-07-02T15:54:23.358Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/eduzz/</loc>
         <lastmod>2020-07-02T15:54:23.358Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/monetizze/</loc>
-        <lastmod>2020-07-13T22:53:27.505Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/msr-resultados/</loc>
         <lastmod>2020-07-13T22:53:27.505Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,8 +283,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/marketing-de-afiliados/</loc>
+        <lastmod>2020-07-17T21:25:31.515Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-07-16T11:30:58.494Z</lastmod>
+        <lastmod>2020-07-17T21:25:31.515Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/eduzz/</loc>
+        <lastmod>2020-07-17T21:25:31.515Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinaagora/tags/monetizze/</loc>
+        <lastmod>2020-07-17T21:25:31.515Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

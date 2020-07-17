@@ -136,22 +136,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/empreendedorismo/</loc>
-        <lastmod>2020-07-01T06:16:57.340Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/afiliados/</loc>
         <lastmod>2020-07-01T06:16:57.340Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/marketing/</loc>
-        <lastmod>2020-07-02T15:57:05.805Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -179,13 +165,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/msr-curso/</loc>
-        <lastmod>2020-07-03T23:59:06.288Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/mude-sua-rotina-reclame-aqui/</loc>
         <lastmod>2020-07-03T23:59:06.288Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/trabalhar-em-casa/</loc>
-        <lastmod>2020-07-16T11:33:38.213Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-07-16T11:33:38.213Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -299,6 +271,34 @@
     <url>
         <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-16T11:33:38.213Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/trabalhar-em-casa/</loc>
+        <lastmod>2020-07-17T21:29:13.510Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/marketing/</loc>
+        <lastmod>2020-07-17T21:29:13.510Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/mude-sua-rotina-reclame-aqui/</loc>
+        <lastmod>2020-07-17T21:29:13.510Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-msr-mudesua-rotinafunciona/tags/empreendedorismo/</loc>
+        <lastmod>2020-07-17T21:29:13.510Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

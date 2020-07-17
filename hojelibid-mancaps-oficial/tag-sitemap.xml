@@ -24,20 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-06-18T20:08:23.362Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-20T02:07:03.912Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-06-25T21:03:22.059Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-06-27T10:33:19.363Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-06-28T10:55:42.900Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -103,13 +82,6 @@
     <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-28T10:55:42.900Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libidman-caps-como-usar/</loc>
-        <lastmod>2020-06-30T01:45:31.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-07-16T11:31:06.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libidman-caps-como-usar/</loc>
+        <lastmod>2020-07-17T21:24:41.170Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-07-17T21:24:41.170Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-07-17T21:24:41.170Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/hojelibid-mancaps-oficial/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-07-17T21:24:41.170Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

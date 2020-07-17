@@ -129,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-07-01T06:17:32.096Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-07-01T06:17:32.096Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -234,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/curso-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-07-09T01:08:57.439Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/msr-funciona/</loc>
         <lastmod>2020-07-09T01:08:57.439Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,13 +248,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/curso-mude-sua-rotina-e-bom/</loc>
-        <lastmod>2020-07-13T22:58:08.098Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/trabalhar-em-casa/</loc>
         <lastmod>2020-07-13T22:58:08.098Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,14 +262,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/msr-mude-a-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-07-16T11:34:00.869Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/mude-sua-rotina-funciona/</loc>
+        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/msr-mude-a-sua-rotina/</loc>
         <lastmod>2020-07-16T11:34:00.869Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,8 +283,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/curso-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-07-17T21:29:39.041Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-07-17T21:29:39.041Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <lastmod>2020-07-17T21:29:39.041Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/onlinecurso-msrmudesua-rotina-ebom/tags/negocios-online/</loc>
-        <lastmod>2020-07-16T11:34:00.869Z</lastmod>
+        <lastmod>2020-07-17T21:29:39.041Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
