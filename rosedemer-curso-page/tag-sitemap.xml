@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/rosto/</loc>
-        <lastmod>2020-06-14T16:44:37.331Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-16T03:04:24.012Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling-rose-de-mer/</loc>
-        <lastmod>2020-06-23T22:55:00.287Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/rose-de-mer-youtube/</loc>
         <lastmod>2020-06-23T22:55:00.287Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,13 +242,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/rose-de-mer/</loc>
-        <lastmod>2020-06-25T20:11:43.130Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/tratamento-estetico/</loc>
         <lastmod>2020-06-25T20:11:43.130Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,14 +269,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling/</loc>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling-natural/</loc>
         <lastmod>2020-06-27T09:48:26.113Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling-natural/</loc>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling/</loc>
         <lastmod>2020-06-27T09:48:26.113Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -409,14 +388,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/cuidar-da-pele/</loc>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/curso-a-distancia/</loc>
         <lastmod>2020-07-06T14:16:33.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/curso-a-distancia/</loc>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/cuidar-da-pele/</loc>
         <lastmod>2020-07-06T14:16:33.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -514,14 +493,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling-do-mar-morto/</loc>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/rose-de-mer-passo-a-passo/</loc>
         <lastmod>2020-07-16T10:40:47.114Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/rose-de-mer-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling-do-mar-morto/</loc>
         <lastmod>2020-07-16T10:40:47.114Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -549,8 +528,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/rosto/</loc>
+        <lastmod>2020-07-18T13:30:43.552Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/tratamento-estetico/</loc>
+        <lastmod>2020-07-18T13:30:43.552Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/ros-de-mer-peeling/</loc>
-        <lastmod>2020-07-17T20:30:33.330Z</lastmod>
+        <lastmod>2020-07-18T13:30:43.552Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rosedemer-curso-page/tags/peeling-rose-de-mer/</loc>
+        <lastmod>2020-07-18T13:30:43.552Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

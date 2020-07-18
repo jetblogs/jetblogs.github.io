@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man/</loc>
-        <lastmod>2020-06-30T01:39:38.584Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-07-01T06:01:05.398Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,28 +108,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-07-03T23:47:25.775Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-estimulante-sexual/</loc>
-        <lastmod>2020-07-03T23:47:25.775Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-07-06T15:00:23.676Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-07-06T15:00:23.676Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,22 +199,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-07-16T11:24:37.619Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-07-16T11:24:37.619Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-07-17T21:17:51.060Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-07-17T21:17:51.060Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-07-18T14:22:48.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-bula/</loc>
+        <lastmod>2020-07-18T14:22:48.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-caps-estimulante-sexual/</loc>
+        <lastmod>2020-07-18T14:22:48.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-07-18T14:22:48.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-18T14:22:48.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-libid-mancaps-farmacia/tags/libid-man/</loc>
+        <lastmod>2020-07-18T14:22:48.778Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

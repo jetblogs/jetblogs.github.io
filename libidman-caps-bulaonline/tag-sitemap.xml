@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man/</loc>
-        <lastmod>2020-06-30T01:41:14.445Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps/</loc>
         <lastmod>2020-06-30T01:41:14.445Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-07-06T15:03:56.683Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-preco/</loc>
         <lastmod>2020-07-09T01:01:40.182Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -206,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-funciona-mesmo/</loc>
-        <lastmod>2020-07-13T22:41:27.771Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-07-13T22:41:27.771Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -228,13 +207,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-07-16T11:26:29.408Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-2-meses-de-uso/</loc>
         <lastmod>2020-07-16T11:26:29.408Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -271,6 +243,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-07-17T21:19:21.996Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man/</loc>
+        <lastmod>2020-07-18T14:25:45.250Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-07-18T14:25:45.250Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-2-meses-de-uso/</loc>
+        <lastmod>2020-07-18T14:25:45.250Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-bulaonline/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-07-18T14:25:45.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

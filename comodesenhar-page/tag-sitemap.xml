@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso-de-desenho/</loc>
-        <lastmod>2020-05-18T23:57:58.323Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/como-desenhar/</loc>
         <lastmod>2020-05-20T20:11:15.588Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,13 +26,6 @@
     <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/draw/</loc>
         <lastmod>2020-06-07T22:02:15.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-06-08T21:22:13.220Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -346,6 +332,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/ead/</loc>
+        <lastmod>2020-07-13T21:21:35.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/manga/</loc>
         <lastmod>2020-07-13T21:21:35.811Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -360,21 +353,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/ead/</loc>
-        <lastmod>2020-07-13T21:21:35.811Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-07-13T21:21:35.811Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-07-13T21:21:35.811Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -388,7 +367,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenhar-animes/</loc>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso/</loc>
         <lastmod>2020-07-16T10:21:58.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,7 +381,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso/</loc>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenhar-animes/</loc>
         <lastmod>2020-07-16T10:21:58.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -423,13 +402,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/comodesenhar-page/tags/goku/</loc>
-        <lastmod>2020-07-17T20:12:27.941Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/como-desenhar-goku/</loc>
         <lastmod>2020-07-17T20:12:27.941Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/comodesenhar-page/tags/desenhar-do-zero/</loc>
         <lastmod>2020-07-17T20:12:27.941Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-07-18T13:06:54.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/curso-de-desenho/</loc>
+        <lastmod>2020-07-18T13:06:54.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/goku/</loc>
+        <lastmod>2020-07-18T13:06:54.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/comodesenhar-page/tags/kero-desenhar-kaneki/</loc>
+        <lastmod>2020-07-18T13:06:54.127Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-05-15T23:01:56.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-06-08T19:33:39.353Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,22 +80,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-07-01T05:43:15.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-07-01T05:43:15.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-preco/</loc>
-        <lastmod>2020-07-02T15:30:22.197Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -116,6 +95,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-07-02T15:30:22.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-preco/</loc>
         <lastmod>2020-07-02T15:30:22.197Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -137,13 +123,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-07-06T14:37:54.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-06T14:37:54.673Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -234,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-07-16T11:08:37.716Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps/</loc>
         <lastmod>2020-07-16T11:08:37.716Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man/</loc>
         <lastmod>2020-07-17T21:01:13.554Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-07-18T14:00:08.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-07-18T14:00:08.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-07-18T14:00:08.811Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancaps-funciona-novo/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-18T14:00:08.811Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

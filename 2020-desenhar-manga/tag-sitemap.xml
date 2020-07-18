@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-11T16:54:38.177Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-06-11T16:54:38.177Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -117,20 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-06-16T02:53:35.026Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/aprenda-a-desenhar/</loc>
-        <lastmod>2020-06-18T18:50:44.472Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-06-21T14:40:51.916Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -192,13 +171,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/como-fazer-esboco/</loc>
-        <lastmod>2020-06-26T12:46:33.186Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/aula-de-desenho/</loc>
         <lastmod>2020-06-26T12:46:33.186Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -243,13 +215,6 @@
     <url>
         <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/kero-desenhar/</loc>
         <lastmod>2020-07-01T05:04:31.533Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-07-02T14:52:21.025Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -353,22 +318,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-07-13T21:29:06.598Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/como-aprender-a-desenhar-do-zero/</loc>
         <lastmod>2020-07-13T21:29:06.598Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/dragon-ball-super-desenho/</loc>
-        <lastmod>2020-07-16T10:28:45.916Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -382,6 +333,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/goku/</loc>
+        <lastmod>2020-07-16T10:28:45.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-07-16T10:28:45.916Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -425,6 +383,48 @@
     <url>
         <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/manga/</loc>
         <lastmod>2020-07-17T20:18:38.730Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-07-18T13:14:44.699Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/aprenda-a-desenhar/</loc>
+        <lastmod>2020-07-18T13:14:44.699Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/como-fazer-esboco/</loc>
+        <lastmod>2020-07-18T13:14:44.699Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-07-18T13:14:44.699Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/kero-desenhar-kaneki/</loc>
+        <lastmod>2020-07-18T13:14:44.699Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/2020-desenhar-manga/tags/kerodesenhar/</loc>
+        <lastmod>2020-07-18T13:14:44.699Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

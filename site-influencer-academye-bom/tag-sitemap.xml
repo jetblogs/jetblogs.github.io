@@ -87,20 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influenciador-de-midias/</loc>
-        <lastmod>2020-06-23T23:07:13.459Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/youtube/</loc>
-        <lastmod>2020-06-25T20:30:01.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/ead/</loc>
         <lastmod>2020-06-25T20:30:01.762Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,6 +95,13 @@
 
     <url>
         <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influencer-academy-da-gabi/</loc>
+        <lastmod>2020-06-25T20:30:01.762Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/youtube/</loc>
         <lastmod>2020-06-25T20:30:01.762Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/curso/</loc>
-        <lastmod>2020-07-06T14:30:52.842Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/passo-a-passo/</loc>
         <lastmod>2020-07-06T14:30:52.842Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,21 +206,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influencer-academy-e-bom/</loc>
-        <lastmod>2020-07-06T14:30:52.842Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influencer-academy-youtuber/</loc>
+        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/ensino-a-distancia/</loc>
         <lastmod>2020-07-09T00:20:19.998Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/ensino-a-distancia/</loc>
+        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influencer-academy-youtuber/</loc>
         <lastmod>2020-07-09T00:20:19.998Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/digital-influencer/</loc>
-        <lastmod>2020-07-16T10:58:26.875Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/curso-ead/</loc>
         <lastmod>2020-07-16T10:58:26.875Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influencer-academy-instagram/</loc>
         <lastmod>2020-07-17T20:50:14.234Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influenciador-de-midias/</loc>
+        <lastmod>2020-07-18T13:45:20.031Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/curso/</loc>
+        <lastmod>2020-07-18T13:45:20.031Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/influencer-academy-e-bom/</loc>
+        <lastmod>2020-07-18T13:45:20.031Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/site-influencer-academye-bom/tags/digital-influencer/</loc>
+        <lastmod>2020-07-18T13:45:20.031Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

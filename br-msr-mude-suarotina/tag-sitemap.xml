@@ -10,22 +10,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/afiliados/</loc>
-        <lastmod>2020-06-17T04:05:58.258Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/liberdade-financeira/</loc>
         <lastmod>2020-06-21T16:08:58.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/eduzz/</loc>
-        <lastmod>2020-06-24T00:07:30.130Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -80,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/mude-sua-rotina-depoimento/</loc>
-        <lastmod>2020-07-01T05:55:56.039Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-01T05:55:56.039Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +109,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/ganhar-dinheiro-na-internet/</loc>
-        <lastmod>2020-07-03T23:42:38.037Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-07-03T23:42:38.037Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/msr-mude-sua-rotina-funciona/</loc>
-        <lastmod>2020-07-16T11:19:35.632Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/negocios-digitais/</loc>
         <lastmod>2020-07-16T11:19:35.632Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -292,6 +257,41 @@
     <url>
         <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/vendas-online/</loc>
         <lastmod>2020-07-17T21:15:23.245Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/mude-sua-rotina-depoimento/</loc>
+        <lastmod>2020-07-18T14:19:02.841Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/eduzz/</loc>
+        <lastmod>2020-07-18T14:19:02.841Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/msr-mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-07-18T14:19:02.841Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/afiliados/</loc>
+        <lastmod>2020-07-18T14:19:02.841Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/br-msr-mude-suarotina/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <lastmod>2020-07-18T14:19:02.841Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

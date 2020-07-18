@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/curso/</loc>
-        <lastmod>2020-06-20T00:34:10.747Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/tecnica-de-desenhar/</loc>
         <lastmod>2020-06-20T00:34:10.747Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -159,13 +152,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/curso-de-manga/</loc>
         <lastmod>2020-06-23T01:39:56.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/anime/</loc>
-        <lastmod>2020-06-23T22:40:55.287Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -234,29 +220,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/aprender-a-desenhar/</loc>
-        <lastmod>2020-06-28T09:41:22.047Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-07-01T04:56:21.944Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/kerodesenhar/</loc>
-        <lastmod>2020-07-01T04:56:21.944Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/aprenda-a-desenhar/</loc>
-        <lastmod>2020-07-02T14:44:52.902Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprender-manga-agora/tags/o-kero-desenhar-funciona/</loc>
         <lastmod>2020-07-17T20:11:03.569Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/aprenda-a-desenhar/</loc>
+        <lastmod>2020-07-18T13:05:16.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/anime/</loc>
+        <lastmod>2020-07-18T13:05:16.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/kerodesenhar/</loc>
+        <lastmod>2020-07-18T13:05:16.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/aprender-a-desenhar/</loc>
+        <lastmod>2020-07-18T13:05:16.054Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprender-manga-agora/tags/curso/</loc>
+        <lastmod>2020-07-18T13:05:16.054Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

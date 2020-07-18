@@ -52,22 +52,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyblog/tags/curso/</loc>
-        <lastmod>2020-06-18T19:00:27.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademyblog/tags/influencer-academy-ganhar-dinheiro/</loc>
         <lastmod>2020-06-23T01:57:10.625Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademyblog/tags/curso-ead/</loc>
-        <lastmod>2020-06-23T22:57:34.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -165,13 +151,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/influenceracademyblog/tags/influencer-academy-da-gabi/</loc>
-        <lastmod>2020-07-02T15:05:51.046Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/influenceracademyblog/tags/influencer-academy-login/</loc>
         <lastmod>2020-07-02T15:05:51.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -283,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyblog/tags/influencer-academy-download/</loc>
-        <lastmod>2020-07-16T10:44:27.565Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/influenceracademyblog/tags/influencer-academy-gratis/</loc>
         <lastmod>2020-07-16T10:44:27.565Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,8 +269,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/influenceracademyblog/tags/facebook/</loc>
-        <lastmod>2020-07-17T20:36:28.965Z</lastmod>
+        <loc>https://jetblogs.github.io/influenceracademyblog/tags/influencer-academy-download/</loc>
+        <lastmod>2020-07-16T10:44:27.565Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/influenceracademyblog/tags/passo-a-passo/</loc>
         <lastmod>2020-07-17T20:36:28.965Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyblog/tags/facebook/</loc>
+        <lastmod>2020-07-18T13:33:48.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyblog/tags/curso-ead/</loc>
+        <lastmod>2020-07-18T13:33:48.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyblog/tags/curso/</loc>
+        <lastmod>2020-07-18T13:33:48.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/influenceracademyblog/tags/influencer-academy-login/</loc>
+        <lastmod>2020-07-18T13:33:48.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

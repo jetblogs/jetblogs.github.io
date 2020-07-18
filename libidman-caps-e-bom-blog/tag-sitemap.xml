@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-07-02T16:05:00.169Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-07-02T16:05:00.169Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,27 +117,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-07-04T00:07:22.060Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-composicao/</loc>
-        <lastmod>2020-07-04T00:07:22.060Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-07-06T15:32:30.295Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-07-06T15:32:30.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -234,7 +206,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-caps-e-bom/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-original/</loc>
         <lastmod>2020-07-17T21:36:18.273Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,7 +220,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-original/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-07-17T21:36:18.273Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,15 +234,50 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libidman-caps-preco/</loc>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-07-17T21:36:18.273Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-07-17T21:36:18.273Z</lastmod>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-07-18T14:48:51.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-07-18T14:48:51.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-07-18T14:48:51.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-07-18T14:48:51.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-composicao/</loc>
+        <lastmod>2020-07-18T14:48:51.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-caps-e-bom-blog/tags/libid-man-caps/</loc>
+        <lastmod>2020-07-18T14:48:51.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
