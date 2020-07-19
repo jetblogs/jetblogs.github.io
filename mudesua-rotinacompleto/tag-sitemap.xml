@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/curso-mude-sua-rotina-a-verdade/</loc>
-        <lastmod>2020-07-03T23:49:25.321Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/treinamento-mude-sua-rotina/</loc>
         <lastmod>2020-07-03T23:49:25.321Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,22 +115,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/liberdade-financeira/</loc>
-        <lastmod>2020-07-06T15:02:35.662Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/eduzz/</loc>
         <lastmod>2020-07-06T15:02:35.662Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/negocios-online/</loc>
-        <lastmod>2020-07-09T00:56:34.136Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -150,15 +129,15 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/negocios-digitais/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/negocios-online/</loc>
         <lastmod>2020-07-09T00:56:34.136Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/ganhar-dinheiro-na-internet/</loc>
-        <lastmod>2020-07-13T22:43:40.761Z</lastmod>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/negocios-digitais/</loc>
+        <lastmod>2020-07-09T00:56:34.136Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -199,7 +178,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/msr-curso/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-17T21:19:10.729Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,14 +192,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/plataforma-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/msr-curso/</loc>
         <lastmod>2020-07-17T21:19:10.729Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/msr-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-07-17T21:19:10.729Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -269,6 +248,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/afiliados/</loc>
+        <lastmod>2020-07-18T14:25:55.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-18T14:25:55.074Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,8 +262,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/afiliados/</loc>
-        <lastmod>2020-07-18T14:25:55.074Z</lastmod>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/curso-mude-sua-rotina-a-verdade/</loc>
+        <lastmod>2020-07-19T20:38:04.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/ganhar-dinheiro-na-internet/</loc>
+        <lastmod>2020-07-19T20:38:04.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/liberdade-financeira/</loc>
+        <lastmod>2020-07-19T20:38:04.368Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mudesua-rotinacompleto/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-07-19T20:38:04.368Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

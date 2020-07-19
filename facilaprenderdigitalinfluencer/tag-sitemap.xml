@@ -3,20 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-05-19T00:08:03.431Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/influencer-academy-instagram/</loc>
-        <lastmod>2020-05-23T05:32:41.262Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/influenciador-digital/</loc>
         <lastmod>2020-06-13T00:39:46.364Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,20 +283,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/facebook/</loc>
-        <lastmod>2020-07-18T13:20:41.001Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/negocios-digitais/</loc>
-        <lastmod>2020-07-18T13:20:41.001Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/academia-de-influenciadores/</loc>
         <lastmod>2020-07-18T13:20:41.001Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,6 +299,34 @@
     <url>
         <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-07-18T13:20:41.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/facebook/</loc>
+        <lastmod>2020-07-19T19:40:34.420Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-07-19T19:40:34.420Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/influencer-academy-instagram/</loc>
+        <lastmod>2020-07-19T19:40:34.420Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/facilaprenderdigitalinfluencer/tags/negocios-digitais/</loc>
+        <lastmod>2020-07-19T19:40:34.420Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

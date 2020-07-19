@@ -66,29 +66,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/negocios-digitais/</loc>
-        <lastmod>2020-06-27T10:08:57.372Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/msr-curso/</loc>
-        <lastmod>2020-06-27T10:08:57.372Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/plataforma-mude-sua-rotina/</loc>
         <lastmod>2020-06-27T10:08:57.372Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/ganhar-dinheiro-na-internet/</loc>
-        <lastmod>2020-06-28T10:13:41.220Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -185,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/vendas-online/</loc>
-        <lastmod>2020-07-09T00:23:50.794Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-07-09T00:23:50.794Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -248,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-reclame-aqui/</loc>
-        <lastmod>2020-07-17T20:52:25.811Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/curso-mude-sua-rotina/</loc>
         <lastmod>2020-07-17T20:52:25.811Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,14 +241,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/renda-extra/</loc>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/liberdade-financeira/</loc>
         <lastmod>2020-07-18T13:51:28.913Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/liberdade-financeira/</loc>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/renda-extra/</loc>
         <lastmod>2020-07-18T13:51:28.913Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,6 +278,41 @@
     <url>
         <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-pdf/</loc>
         <lastmod>2020-07-18T13:51:28.913Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/mude-sua-rotina-reclame-aqui/</loc>
+        <lastmod>2020-07-19T20:12:32.677Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/vendas-online/</loc>
+        <lastmod>2020-07-19T20:12:32.677Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/ganhar-dinheiro-na-internet/</loc>
+        <lastmod>2020-07-19T20:12:32.677Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/negocios-digitais/</loc>
+        <lastmod>2020-07-19T20:12:32.677Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/blogmsrmudesua-rotina/tags/msr-curso/</loc>
+        <lastmod>2020-07-19T20:12:32.677Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

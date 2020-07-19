@@ -143,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-07-09T01:07:07.063Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-09T01:07:07.063Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -186,13 +179,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man-caps-funciona/</loc>
-        <lastmod>2020-07-16T11:30:17.197Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man/</loc>
         <lastmod>2020-07-16T11:30:17.197Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,21 +227,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man-caps-onde-comprar/</loc>
-        <lastmod>2020-07-17T21:23:40.787Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man-caps-bula/</loc>
-        <lastmod>2020-07-18T14:31:55.358Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/meu-depoimento-libid-man-caps/</loc>
         <lastmod>2020-07-18T14:31:55.358Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -271,6 +243,34 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-07-18T14:31:55.358Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-19T20:42:31.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man/</loc>
+        <lastmod>2020-07-19T20:42:31.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-19T20:42:31.900Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-bom-site/tags/libid-man-caps-onde-comprar/</loc>
+        <lastmod>2020-07-19T20:42:31.900Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

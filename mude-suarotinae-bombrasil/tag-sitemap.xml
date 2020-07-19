@@ -87,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-28T10:35:48.674Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-marketing-digital/</loc>
         <lastmod>2020-06-30T01:35:19.484Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,13 +122,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-depoimento/</loc>
-        <lastmod>2020-07-02T15:40:24.193Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/hotmart/</loc>
         <lastmod>2020-07-03T23:40:36.142Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/marketing/</loc>
-        <lastmod>2020-07-06T14:47:45.026Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-07-06T14:47:45.026Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,14 +150,21 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/afiliado/</loc>
-        <lastmod>2020-07-09T00:45:50.127Z</lastmod>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/marketing/</loc>
+        <lastmod>2020-07-06T14:47:45.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-reclame-aqui/</loc>
+        <lastmod>2020-07-09T00:45:50.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/afiliado/</loc>
         <lastmod>2020-07-09T00:45:50.127Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-07-16T11:17:17.164Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/afiliados/</loc>
         <lastmod>2020-07-16T11:17:17.164Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -257,13 +236,6 @@
     <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/curso-mude-sua-rotina-a-verdade/</loc>
         <lastmod>2020-07-16T11:17:17.164Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/treinamento-mude-sua-rotina/</loc>
-        <lastmod>2020-07-17T21:13:30.707Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -290,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/monetizze/</loc>
-        <lastmod>2020-07-18T14:16:16.202Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-07-18T14:16:16.202Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,8 +276,43 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/monetizze/</loc>
+        <lastmod>2020-07-18T14:16:16.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/msr-mude-sua-rotina-logo/</loc>
         <lastmod>2020-07-18T14:16:16.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/treinamento-mude-sua-rotina/</loc>
+        <lastmod>2020-07-19T20:30:26.964Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-07-19T20:30:26.964Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-depoimento/</loc>
+        <lastmod>2020-07-19T20:30:26.964Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/mude-suarotinae-bombrasil/tags/mude-sua-rotina-pdf/</loc>
+        <lastmod>2020-07-19T20:30:26.964Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

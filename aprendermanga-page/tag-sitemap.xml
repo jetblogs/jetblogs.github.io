@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/desenhando/</loc>
-        <lastmod>2020-06-20T00:38:34.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/desenhando-animes/</loc>
         <lastmod>2020-06-21T14:40:56.731Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -152,13 +145,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/desenhar-do-zero/</loc>
         <lastmod>2020-06-23T22:45:56.312Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-aprender-a-desenhar/</loc>
-        <lastmod>2020-06-25T20:02:58.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -276,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball/</loc>
-        <lastmod>2020-07-06T14:01:51.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/aprender-a-desenhar/</loc>
         <lastmod>2020-07-06T14:01:51.936Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -292,13 +271,6 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/tutoriais/</loc>
         <lastmod>2020-07-06T14:01:51.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-07-08T23:39:17.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -340,13 +312,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/para-iniciantes/</loc>
-        <lastmod>2020-07-13T21:29:15.772Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-desenhar-o-goku/</loc>
         <lastmod>2020-07-13T21:29:15.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,14 +381,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball-super/</loc>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-07-18T13:14:52.077Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/aprendermanga-page/tags/kerodesenhar-funciona/</loc>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball-super/</loc>
         <lastmod>2020-07-18T13:14:52.077Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +404,41 @@
     <url>
         <loc>https://jetblogs.github.io/aprendermanga-page/tags/manga/</loc>
         <lastmod>2020-07-18T13:14:52.077Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-aprender-a-desenhar/</loc>
+        <lastmod>2020-07-19T19:29:57.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-07-19T19:29:57.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/como-desenhar-o-goku/</loc>
+        <lastmod>2020-07-19T19:29:57.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/dragon-ball/</loc>
+        <lastmod>2020-07-19T19:29:57.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/aprendermanga-page/tags/desenhando/</loc>
+        <lastmod>2020-07-19T19:29:57.518Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

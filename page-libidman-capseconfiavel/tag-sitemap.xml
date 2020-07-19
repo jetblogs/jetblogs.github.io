@@ -122,29 +122,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-07-09T01:10:48.198Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libidman-caps-depoimentos/</loc>
         <lastmod>2020-07-09T01:10:48.198Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-07-09T01:10:48.198Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-caps-anvisa/</loc>
-        <lastmod>2020-07-13T22:52:01.126Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -264,6 +243,34 @@
     <url>
         <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-anvisa/</loc>
         <lastmod>2020-07-18T14:36:32.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-07-19T20:45:05.569Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-07-19T20:45:05.569Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-07-19T20:45:05.569Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/page-libidman-capseconfiavel/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-19T20:45:05.569Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

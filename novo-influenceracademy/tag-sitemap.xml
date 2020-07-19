@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/online/</loc>
-        <lastmod>2020-06-25T20:20:46.339Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/ead/</loc>
         <lastmod>2020-06-25T20:20:46.339Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influenciador-digital/</loc>
-        <lastmod>2020-06-28T10:04:48.885Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy/</loc>
         <lastmod>2020-06-30T01:08:12.576Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,20 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-download/</loc>
         <lastmod>2020-07-01T05:21:48.865Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/academia-de-influenciadores/</loc>
-        <lastmod>2020-07-01T05:21:48.865Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/digital-influencer/</loc>
-        <lastmod>2020-07-02T15:12:29.550Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -164,14 +136,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-facebook/</loc>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-turma-2/</loc>
         <lastmod>2020-07-06T14:24:14.797Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-turma-2/</loc>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-facebook/</loc>
         <lastmod>2020-07-06T14:24:14.797Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,14 +157,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/treinamento-passo-a-passo/</loc>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/negocios-digitais/</loc>
         <lastmod>2020-07-09T00:11:42.257Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/negocios-digitais/</loc>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/treinamento-passo-a-passo/</loc>
         <lastmod>2020-07-09T00:11:42.257Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,7 +234,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer/</loc>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/midias-sociais/</loc>
         <lastmod>2020-07-17T20:41:06.848Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,7 +248,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/midias-sociais/</loc>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer/</loc>
         <lastmod>2020-07-17T20:41:06.848Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -311,6 +283,13 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/instagram/</loc>
+        <lastmod>2020-07-18T13:39:17.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-07-18T13:39:17.662Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -318,8 +297,29 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/instagram/</loc>
-        <lastmod>2020-07-18T13:39:17.662Z</lastmod>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/academia-de-influenciadores/</loc>
+        <lastmod>2020-07-19T19:55:41.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/influenciador-digital/</loc>
+        <lastmod>2020-07-19T19:55:41.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/online/</loc>
+        <lastmod>2020-07-19T19:55:41.852Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novo-influenceracademy/tags/digital-influencer/</loc>
+        <lastmod>2020-07-19T19:55:41.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
