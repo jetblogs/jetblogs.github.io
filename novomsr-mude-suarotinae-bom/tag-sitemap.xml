@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/msr-funciona/</loc>
-        <lastmod>2020-06-30T01:24:51.922Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/curso-mude-sua-rotina/</loc>
         <lastmod>2020-06-30T01:24:51.922Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/renda-extra/</loc>
-        <lastmod>2020-07-13T22:17:16.311Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-07-13T22:17:16.311Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -194,13 +180,6 @@
     <url>
         <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-13T22:17:16.311Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/trabalhar-pela-internet/</loc>
-        <lastmod>2020-07-16T11:06:08.168Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/marketing-digital/</loc>
-        <lastmod>2020-07-18T13:58:09.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-07-18T13:58:09.504Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,15 +276,43 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/msr-resultados/</loc>
+        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/mude-sua-rotina-marketing-digital/</loc>
         <lastmod>2020-07-19T20:17:48.814Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/mude-sua-rotina-marketing-digital/</loc>
-        <lastmod>2020-07-19T20:17:48.814Z</lastmod>
+        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/msr-funciona/</loc>
+        <lastmod>2020-07-20T20:36:26.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/trabalhar-pela-internet/</loc>
+        <lastmod>2020-07-20T20:36:26.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/renda-extra/</loc>
+        <lastmod>2020-07-20T20:36:26.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/marketing-digital/</loc>
+        <lastmod>2020-07-20T20:36:26.361Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novomsr-mude-suarotinae-bom/tags/msr-resultados/</loc>
+        <lastmod>2020-07-20T20:36:26.361Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

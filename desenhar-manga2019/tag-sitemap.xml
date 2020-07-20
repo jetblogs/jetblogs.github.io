@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/ead/</loc>
-        <lastmod>2020-03-23T09:18:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-evoluir-nos-meus-desenhos/</loc>
         <lastmod>2020-03-27T03:54:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-melhorar-meus-desenhos/</loc>
-        <lastmod>2020-06-23T22:37:49.935Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/aprenda-a-desenhar/</loc>
         <lastmod>2020-06-23T22:37:49.935Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +116,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-desenhar-goku/</loc>
-        <lastmod>2020-06-28T09:37:39.446Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/desenhar-do-zero/</loc>
         <lastmod>2020-06-28T09:37:39.446Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,14 +234,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/speed-drawing/</loc>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-07-08T23:22:45.220Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/curso-kerodesenhar-com/</loc>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/speed-drawing/</loc>
         <lastmod>2020-07-08T23:22:45.220Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -437,8 +416,29 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/como-melhorar-meus-desenhos/</loc>
+        <lastmod>2020-07-20T19:49:31.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-07-20T19:49:31.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/desenhar-manga2019/tags/drawing/</loc>
-        <lastmod>2020-07-19T19:18:15.360Z</lastmod>
+        <lastmod>2020-07-20T19:49:31.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/desenhar-manga2019/tags/ead/</loc>
+        <lastmod>2020-07-20T19:49:31.563Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

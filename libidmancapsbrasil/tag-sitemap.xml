@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-06-25T20:46:43.161Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-27T10:21:30.087Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,27 +94,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man/</loc>
-        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-07-02T15:35:21.265Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-07-03T23:35:39.528Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-07-06T14:43:02.887Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +102,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-07-06T14:43:02.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-07-06T14:43:02.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,14 +129,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-resultados/</loc>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-07-13T22:24:54.814Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-preco/</loc>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-07-13T22:24:54.814Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -227,20 +192,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-composicao/</loc>
-        <lastmod>2020-07-18T14:08:48.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-07-18T14:08:48.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps/</loc>
         <lastmod>2020-07-18T14:08:48.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -255,14 +206,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-07-19T20:26:30.207Z</lastmod>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-07-18T14:08:48.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-como-tomar/</loc>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-anvisa/</loc>
         <lastmod>2020-07-19T20:26:30.207Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,8 +227,57 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-como-tomar/</loc>
+        <lastmod>2020-07-19T20:26:30.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libidman-caps/</loc>
         <lastmod>2020-07-19T20:26:30.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-20T20:43:11.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-e-bom/</loc>
+        <lastmod>2020-07-20T20:43:11.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-composicao/</loc>
+        <lastmod>2020-07-20T20:43:11.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man/</loc>
+        <lastmod>2020-07-20T20:43:11.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-07-20T20:43:11.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidmancapsbrasil/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-07-20T20:43:11.223Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/trabalhar-em-casa/</loc>
-        <lastmod>2020-06-08T19:32:39.407Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-10T04:21:36.098Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,13 +26,6 @@
     <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/trabalhar-pela-internet/</loc>
         <lastmod>2020-06-17T04:02:31.404Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/msr-funciona/</loc>
-        <lastmod>2020-06-21T16:04:09.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -73,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/hotmart/</loc>
-        <lastmod>2020-06-27T10:15:52.287Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/mude-sua-rotina-compensa/</loc>
         <lastmod>2020-06-28T10:21:42.738Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,13 +81,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/plataforma-mude-sua-rotina/</loc>
-        <lastmod>2020-07-03T23:29:30.621Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/renda-extra/</loc>
         <lastmod>2020-07-03T23:29:30.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -178,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-07-13T22:20:00.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/marketing/</loc>
         <lastmod>2020-07-13T22:20:00.726Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -215,13 +180,6 @@
     <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/afiliado/</loc>
         <lastmod>2020-07-16T11:07:52.455Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-07-17T21:02:11.085Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -313,6 +271,48 @@
     <url>
         <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-19T20:19:31.657Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/trabalhar-em-casa/</loc>
+        <lastmod>2020-07-20T20:38:01.570Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/msr-funciona/</loc>
+        <lastmod>2020-07-20T20:38:01.570Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/mude-sua-rotina-curso/</loc>
+        <lastmod>2020-07-20T20:38:01.570Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-07-20T20:38:01.570Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/renda-extra/</loc>
+        <lastmod>2020-07-20T20:38:01.570Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomude-sua-rotina-agora/tags/hotmart/</loc>
+        <lastmod>2020-07-20T20:38:01.570Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

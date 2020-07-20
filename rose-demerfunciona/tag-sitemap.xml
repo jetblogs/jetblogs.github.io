@@ -136,13 +136,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-20T00:46:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/rose-demerfunciona/tags/rose-de-mer-kit/</loc>
         <lastmod>2020-06-20T00:46:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -158,20 +151,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/rose-demerfunciona/tags/rose-de-mer/</loc>
-        <lastmod>2020-06-23T01:53:16.285Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/peeling-rose-de-mer-curso/</loc>
-        <lastmod>2020-06-23T01:53:16.285Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/peeling-rose-de-mer-como-fazer/</loc>
         <lastmod>2020-06-23T01:53:16.285Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,13 +278,6 @@
     <url>
         <loc>https://jetblogs.github.io/rose-demerfunciona/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-06-30T00:59:17.004Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/beleza/</loc>
-        <lastmod>2020-07-01T05:06:45.430Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -549,8 +521,36 @@
     </url>
 
     <url>
+        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/beleza/</loc>
+        <lastmod>2020-07-20T20:04:10.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/peeling-rose-de-mer-curso/</loc>
+        <lastmod>2020-07-20T20:04:10.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/peeling-rose-de-mer-como-fazer/</loc>
+        <lastmod>2020-07-20T20:04:10.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/rose-demerfunciona/tags/empreendedorismo/</loc>
+        <lastmod>2020-07-20T20:04:10.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jetblogs.github.io/rose-demerfunciona/tags/rose-de-mer-youtube/</loc>
-        <lastmod>2020-07-19T19:41:09.051Z</lastmod>
+        <lastmod>2020-07-20T20:04:10.200Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

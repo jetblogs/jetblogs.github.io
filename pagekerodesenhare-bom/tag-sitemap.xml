@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/anime/</loc>
-        <lastmod>2020-05-16T18:55:10.992Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/kero-desenhar-kaneki/</loc>
         <lastmod>2020-05-17T14:38:00.961Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,22 +262,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/curso-de-desenho-online/</loc>
-        <lastmod>2020-07-06T13:52:04.869Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/dragon-ball/</loc>
         <lastmod>2020-07-06T13:52:04.869Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/aula-de-desenho/</loc>
-        <lastmod>2020-07-08T23:27:14.724Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -347,13 +326,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/tutoriais/</loc>
-        <lastmod>2020-07-17T20:09:22.625Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-07-17T20:09:22.625Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/a-distancia/</loc>
         <lastmod>2020-07-19T19:20:25.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/aula-de-desenho/</loc>
+        <lastmod>2020-07-20T19:51:30.611Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/anime/</loc>
+        <lastmod>2020-07-20T19:51:30.611Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/curso-de-desenho-online/</loc>
+        <lastmod>2020-07-20T19:51:30.611Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/pagekerodesenhare-bom/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-07-20T19:51:30.611Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

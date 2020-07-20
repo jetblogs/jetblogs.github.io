@@ -59,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-07-01T06:03:33.053Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-anvisa/</loc>
         <lastmod>2020-07-02T15:49:14.382Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,20 +108,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-composicao/</loc>
-        <lastmod>2020-07-13T22:40:38.634Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-07-13T22:40:38.634Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-07-13T22:40:38.634Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -158,13 +137,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-07-16T11:26:22.750Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-07-16T11:26:22.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +178,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-07-18T14:25:37.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-original/</loc>
         <lastmod>2020-07-18T14:25:37.294Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -236,13 +201,6 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-07-18T14:25:37.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-depoimento/</loc>
-        <lastmod>2020-07-19T20:38:52.227Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-07-19T20:38:52.227Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-07-20T20:57:48.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-07-20T20:57:48.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-composicao/</loc>
+        <lastmod>2020-07-20T20:57:48.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-07-20T20:57:48.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-funciona-mesmo-sera/</loc>
+        <lastmod>2020-07-20T20:57:48.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/novolibid-man-caps-original/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-07-20T20:57:48.635Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

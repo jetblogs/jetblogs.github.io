@@ -38,22 +38,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-06-23T03:04:22.342Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libidman-caps-preco/</loc>
         <lastmod>2020-06-23T23:41:32.007Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-06-25T21:00:27.007Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -124,13 +110,6 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-efeitos-colaterais/</loc>
         <lastmod>2020-07-02T15:51:16.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-farmacia/</loc>
-        <lastmod>2020-07-03T23:52:08.304Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -234,21 +213,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-07-18T14:28:45.615Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-07-19T20:40:31.418Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-mercado-livre/</loc>
         <lastmod>2020-07-19T20:40:31.418Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -271,6 +236,48 @@
     <url>
         <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-onde-comprar/</loc>
         <lastmod>2020-07-19T20:40:31.418Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-07-20T20:59:50.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-07-20T20:59:50.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-07-20T20:59:50.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-07-20T20:59:50.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-20T20:59:50.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/libidman-capse-confiavelnovo/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-07-20T20:59:50.336Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

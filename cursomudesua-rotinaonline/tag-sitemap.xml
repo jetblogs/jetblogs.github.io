@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/liberdade-financeira/</loc>
-        <lastmod>2020-07-02T15:41:35.827Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/negocios-digitais/</loc>
         <lastmod>2020-07-02T15:41:35.827Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,14 +115,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/curso-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/curso-mude-sua-rotina-e-bom/</loc>
         <lastmod>2020-07-09T00:47:09.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/curso-mude-sua-rotina-e-bom/</loc>
+        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/curso-mude-sua-rotina/</loc>
         <lastmod>2020-07-09T00:47:09.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -151,13 +144,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/marketing-de-afiliados/</loc>
-        <lastmod>2020-07-13T22:35:02.759Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/negocios-online/</loc>
         <lastmod>2020-07-13T22:35:02.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -241,13 +227,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-07-17T21:14:40.992Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/mude-sua-rotina-reclame-aqui/</loc>
         <lastmod>2020-07-18T14:17:47.047Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -283,8 +262,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/afiliado/</loc>
-        <lastmod>2020-07-18T14:17:47.047Z</lastmod>
+        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-07-19T20:31:41.853Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -304,15 +283,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-07-19T20:31:41.853Z</lastmod>
+        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/negocios-online/</loc>
+        <lastmod>2020-07-20T20:51:07.263Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/liberdade-financeira/</loc>
+        <lastmod>2020-07-20T20:51:07.263Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/vendas-online/</loc>
-        <lastmod>2020-07-19T20:31:41.853Z</lastmod>
+        <lastmod>2020-07-20T20:51:07.263Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/afiliado/</loc>
+        <lastmod>2020-07-20T20:51:07.263Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/cursomudesua-rotinaonline/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-07-20T20:51:07.263Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

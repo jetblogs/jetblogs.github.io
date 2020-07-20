@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/influencer-academy-e-bom/</loc>
-        <lastmod>2020-06-28T10:11:11.658Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/passo-a-passo/</loc>
         <lastmod>2020-06-28T10:11:11.658Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/negocios-de-sucesso/</loc>
-        <lastmod>2020-07-17T20:49:09.172Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/influencer-academy-reclame-aqui/</loc>
         <lastmod>2020-07-17T20:49:09.172Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,22 +297,36 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/curso-a-distancia/</loc>
+        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/influencer/</loc>
         <lastmod>2020-07-19T20:02:50.317Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/negocios-de-sucesso/</loc>
+        <lastmod>2020-07-20T20:23:27.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/influencer-academy-e-bom/</loc>
+        <lastmod>2020-07-20T20:23:27.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/curso-a-distancia/</loc>
+        <lastmod>2020-07-20T20:23:27.001Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/ensino-a-distancia/</loc>
-        <lastmod>2020-07-19T20:02:50.317Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/siteinfluencer-academy/tags/influencer/</loc>
-        <lastmod>2020-07-19T20:02:50.317Z</lastmod>
+        <lastmod>2020-07-20T20:23:27.001Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

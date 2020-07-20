@@ -38,13 +38,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/desenhar-manga/</loc>
-        <lastmod>2020-06-10T03:08:24.522Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/curso-de-anime/</loc>
         <lastmod>2020-06-11T16:50:40.201Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,14 +143,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/kerodesenhar-com/</loc>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/kerodesenhar/</loc>
         <lastmod>2020-06-26T12:43:13.757Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/kerodesenhar/</loc>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/kerodesenhar-com/</loc>
         <lastmod>2020-06-26T12:43:13.757Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -262,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/desenhando-animes/</loc>
-        <lastmod>2020-07-06T13:56:02.188Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/desenhando/</loc>
         <lastmod>2020-07-08T23:32:41.715Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -297,13 +283,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/como-desenhar-animes/</loc>
-        <lastmod>2020-07-13T21:22:11.397Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/desenhar-do-zero/</loc>
         <lastmod>2020-07-13T21:22:11.397Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,14 +290,7 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/para-iniciantes/</loc>
-        <lastmod>2020-07-13T21:22:11.397Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/dragon-ball-super-desenho/</loc>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/como-desenhar-animes/</loc>
         <lastmod>2020-07-13T21:22:11.397Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -333,13 +305,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/aulas-online/</loc>
-        <lastmod>2020-07-16T10:22:26.422Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/como-desenhar-anime/</loc>
         <lastmod>2020-07-16T10:22:26.422Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -374,13 +339,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/como-desenhar-qualquer-coisa/</loc>
-        <lastmod>2020-07-17T20:12:56.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/como-desenhar/</loc>
         <lastmod>2020-07-18T13:07:23.477Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -409,14 +367,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/kerodesenhar-funciona/</loc>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/manga/</loc>
         <lastmod>2020-07-19T19:25:08.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/manga/</loc>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-07-19T19:25:08.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -432,6 +390,48 @@
     <url>
         <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/manga-para-iniciantes/</loc>
         <lastmod>2020-07-19T19:25:08.988Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/desenhar-manga/</loc>
+        <lastmod>2020-07-20T19:55:17.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/para-iniciantes/</loc>
+        <lastmod>2020-07-20T19:55:17.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/como-desenhar-qualquer-coisa/</loc>
+        <lastmod>2020-07-20T19:55:17.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/como-desenhar-anime/</loc>
+        <lastmod>2020-07-20T19:55:17.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-07-20T19:55:17.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/kerodesenhar-anime-online/tags/desenhando-animes/</loc>
+        <lastmod>2020-07-20T19:55:17.289Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

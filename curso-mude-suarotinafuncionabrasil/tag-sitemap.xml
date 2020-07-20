@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/afiliados/</loc>
-        <lastmod>2020-06-03T16:54:27.719Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/negocios-digitais/</loc>
         <lastmod>2020-06-10T04:20:39.797Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,14 +115,14 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/mude-sua-rotina-depoimento/</loc>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/curso-msr-mude-sua-rotina/</loc>
         <lastmod>2020-07-02T15:27:54.764Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/curso-msr-mude-sua-rotina/</loc>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-07-02T15:27:54.764Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,29 +192,8 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/mude-sua-rotina-hotmart/</loc>
-        <lastmod>2020-07-13T22:16:13.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/curso-mude-sua-rotina/</loc>
         <lastmod>2020-07-13T22:16:13.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/renda-extra/</loc>
-        <lastmod>2020-07-16T11:05:22.866Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/msr-mude-a-sua-rotina/</loc>
-        <lastmod>2020-07-16T11:05:22.866Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -249,13 +221,6 @@
 
     <url>
         <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-07-17T20:58:26.482Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/hotmart/</loc>
         <lastmod>2020-07-17T20:58:26.482Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,13 +255,6 @@
     </url>
 
     <url>
-        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/monetizze/</loc>
-        <lastmod>2020-07-19T20:16:59.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-07-19T20:16:59.610Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -313,6 +271,48 @@
     <url>
         <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-07-19T20:16:59.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/renda-extra/</loc>
+        <lastmod>2020-07-20T20:35:30.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/monetizze/</loc>
+        <lastmod>2020-07-20T20:35:30.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/msr-mude-a-sua-rotina/</loc>
+        <lastmod>2020-07-20T20:35:30.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/hotmart/</loc>
+        <lastmod>2020-07-20T20:35:30.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/afiliados/</loc>
+        <lastmod>2020-07-20T20:35:30.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jetblogs.github.io/curso-mude-suarotinafuncionabrasil/tags/mude-sua-rotina-hotmart/</loc>
+        <lastmod>2020-07-20T20:35:30.518Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
